@@ -5796,7 +5796,7 @@ VAC0667:
     de:
     - https://www.ema.europa.eu/de/documents/product-information/nuvaxovid-epar-product-information_de.pdf
     en:
-    - https://www.ema.europa.eu/en/documents/product-information/nuvaxovid-epar-product-information_en.pdf
+    - https://euvabeco.eu/epil/view.html?bid=Bundle/5607431d-78f2-ee11-904c-000d3aaa0e40
     bg:
     - https://www.ema.europa.eu/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf
     es:
@@ -5847,7 +5847,7 @@ VAC0667:
     de:
     - https://www.ema.europa.eu/de/documents/product-information/nuvaxovid-epar-product-information_de.pdf
     en:
-    - https://www.ema.europa.eu/en/documents/product-information/nuvaxovid-epar-product-information_en.pdf
+    - https://euvabeco.eu/epil/view.html?bid=Bundle/d9035011-78f2-ee11-904c-000d3aaa0e40
     bg:
     - https://www.ema.europa.eu/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf
     es:
@@ -8983,6 +8983,8 @@ VAC1055:
     - https://www.ema.europa.eu/nl/documents/product-information/nuvaxovid-epar-product-information_nl.pdf
     de:
     - https://www.ema.europa.eu/de/documents/product-information/nuvaxovid-epar-product-information_de.pdf
+    en:
+    - https://euvabeco.eu/epil/view.html?bid=Bundle/c1f70fd0-20f3-ee11-904c-000d3abcf750
   SmPC:
     fr:
     - https://www.ema.europa.eu/fr/documents/product-information/nuvaxovid-epar-product-information_fr.pdf
@@ -8990,6 +8992,8 @@ VAC1055:
     - https://www.ema.europa.eu/nl/documents/product-information/nuvaxovid-epar-product-information_nl.pdf
     de:
     - https://www.ema.europa.eu/de/documents/product-information/nuvaxovid-epar-product-information_de.pdf
+    en:
+    - https://euvabeco.eu/epil/view.html?bid=Bundle/49a52c4e-82f2-ee11-904b-000d3abdca36
 VAC1058:
   label: SPIKEVAX XBB.1.5 0,1 mg/mL dose 50 Âµg MODERNA
   ePIL:
