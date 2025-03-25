@@ -1,1089 +1,1073 @@
 VAC0001:
-  label: ACT-HIB
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7e371e5c015ab3073b8a
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7e381e5c015ab3073dbe
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7e361e5c015ab3073953
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7e381e5c015ab3073ff7
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7e391e5c015ab3074253
+  1:
+    label: Act-HIB 10 µg/0.5 ml sol. inj. (pdr. + solv.) i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7e371e5c015ab3073b8a
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7e381e5c015ab3073dbe
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7e361e5c015ab3073953
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7e381e5c015ab3073ff7
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7e391e5c015ab3074253
 VAC0003:
-  label: AVAXIM 160 U
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc75d21e5c015ab3f8ffc1
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc75d31e5c015ab3f900ac
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc75d21e5c015ab3f8fec4
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc75d31e5c015ab3f901fc
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc75d41e5c015ab3f90464
+  1:
+    label: Avaxim 0.5 ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc75d21e5c015ab3f8ffc1
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc75d31e5c015ab3f900ac
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc75d21e5c015ab3f8fec4
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc75d31e5c015ab3f901fc
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc75d41e5c015ab3f90464
 VAC0005:
-  label: DUKORAL
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0005/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0005/SmPC
+  1:
+    label: Dukoral susp. buv. (susp. + gran. efferv.) sachet flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0005/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0005/SmPC
 VAC0007:
-  label: GARDASIL
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0007/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0007/SmPC
+  1:
+    label: Gardasil susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0007/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0007/SmPC
+  2:
+    label: Gardasil susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0007/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0007/SmPC
 VAC0009:
-  label: HBVAXPRO 10 µg
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0009/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0009/SmPC
+  1:
+    label: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0009/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0009/SmPC
+  2:
+    label: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0009/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0009/SmPC
 VAC0010:
-  label: HBVAXPRO 40 µg
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0010/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0010/SmPC
+  1:
+    label: HBVaxPro 40 µg/ml susp. inj. s.c./i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0010/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0010/SmPC
 VAC0011:
-  label: HBVAXPRO 5 µg
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0011/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0011/SmPC
+  1:
+    label: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0011/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0011/SmPC
+  2:
+    label: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0011/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0011/SmPC
 VAC0013:
-  label: IMOVAX POLIO
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff51e5c015ab309c948
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff51e5c015ab309c9a4
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff41e5c015ab309c8e9
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff61e5c015ab309c9e6
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff71e5c015ab309ca1f
+  1:
+    label: Imovax Polio susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff51e5c015ab309c948
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff51e5c015ab309c9a4
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff41e5c015ab309c8e9
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff61e5c015ab309c9e6
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff71e5c015ab309ca1f
 VAC0014:
-  label: INFANRIX HEXA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0014/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0014/SmPC
+  1:
+    label: Infanrix Hexa susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0014/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0014/SmPC
 VAC0016:
-  label: INFLUVAC
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/66a0e0781524e60e290a5e20
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/66a0e0831524e60e290a5e28
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/66a0e06b1524e60e290a5e18
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/66a0e08f1524e60e290a5e30
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/66a0e0991524e60e290a5e38
+  1:
+    label: Influvac susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/66a0e0781524e60e290a5e20
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/66a0e0831524e60e290a5e28
+      de: https://app.fagg-afmps.be/pharma-status/api/files/66a0e06b1524e60e290a5e18
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/66a0e08f1524e60e290a5e30
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/66a0e0991524e60e290a5e38
 VAC0017:
-  label: M-M-RVAXPRO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0017/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0017/SmPC
+  1:
+    label: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0017/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0017/SmPC
+  2:
+    label: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0017/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0017/SmPC
 VAC0020:
-  label: MENJUGATEKIT 10 µg
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4db3d
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4db25
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4dd26
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4dd27
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54271e5c015ab3b4d928
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54271e5c015ab3b4d925
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4df50
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4df35
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4e0e8
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4e0ea
+  1:
+    label: Menjugate 10 µg susp. inj. i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4db3d
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4dd26
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc54271e5c015ab3b4d928
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4df50
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4e0e8
+  2:
+    label: Menjugate 10 µg susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4db25
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc54281e5c015ab3b4dd27
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc54271e5c015ab3b4d925
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4df35
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc54291e5c015ab3b4e0ea
 VAC0023:
-  label: PENTAVAC
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c11e5c015ab3fd0941
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c21e5c015ab3fd0a36
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c01e5c015ab3fd082d
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c41e5c015ab3fd0e9e
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c51e5c015ab3fd12a1
+  1:
+    label: Pentavac susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c11e5c015ab3fd0941
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c21e5c015ab3fd0a36
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c01e5c015ab3fd082d
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c41e5c015ab3fd0e9e
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c51e5c015ab3fd12a1
 VAC0028:
-  label: RABIPUR
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa21e5c015ab3c396fd
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa41e5c015ab3c39be5
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5a9f1e5c015ab3c391a0
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa61e5c015ab3c39e80
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa71e5c015ab3c39fd6
+  1:
+    label: Rabipur sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa21e5c015ab3c396fd
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa41e5c015ab3c39be5
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc5a9f1e5c015ab3c391a0
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa61e5c015ab3c39e80
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa71e5c015ab3c39fd6
 VAC0030:
-  label: REVAXIS
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7bac1e5c015ab3024541
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7bad1e5c015ab3024616
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7bac1e5c015ab3024457
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7bad1e5c015ab302468c
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7bae1e5c015ab3024760
+  1:
+    label: Revaxis susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7bac1e5c015ab3024541
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7bad1e5c015ab3024616
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7bac1e5c015ab3024457
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7bad1e5c015ab302468c
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7bae1e5c015ab3024760
 VAC0031:
-  label: ROTATEQ
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0031/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0031/SmPC
+  1:
+    label: RotaTeq sol. buv.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0031/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0031/SmPC
 VAC0037:
-  label: TETRAVAC-ACELLULAIRE
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c71e5c015ab3fd1869
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c81e5c015ab3fd1ab4
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c61e5c015ab3fd161b
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78c91e5c015ab3fd1ccf
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78ca1e5c015ab3fd1e48
+  1:
+    label: Tetravac susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c71e5c015ab3fd1869
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c81e5c015ab3fd1ab4
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c61e5c015ab3fd161b
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c91e5c015ab3fd1ccf
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78ca1e5c015ab3fd1e48
 VAC0041:
-  label: TYPHIM VI
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcd1e5c015ab3066fdf
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7dce1e5c015ab30672b6
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcc1e5c015ab3066c5a
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcf1e5c015ab30674e7
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7dd01e5c015ab30675d0
+  1:
+    label: Typhim Vi 25 µg/dose sol. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcd1e5c015ab3066fdf
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7dce1e5c015ab30672b6
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcc1e5c015ab3066c5a
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcf1e5c015ab30674e7
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7dd01e5c015ab30675d0
 VAC0044:
-  label: CERVARIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0044/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0044/SmPC
+  1:
+    label: Cervarix susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0044/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0044/SmPC
+  2:
+    label: Cervarix susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0044/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0044/SmPC
 VAC0046:
-  label: ENGERIX B 20 µg
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc73091e5c015ab3f4ead0
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ec73
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc73081e5c015ab3f4e930
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ee22
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc730b1e5c015ab3f4efcf
+  1:
+    label: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73091e5c015ab3f4ead0
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ec73
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc73081e5c015ab3f4e930
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ee22
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc730b1e5c015ab3f4efcf
+  2:
+    label: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73091e5c015ab3f4ead0
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ec73
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc73081e5c015ab3f4e930
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ee22
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc730b1e5c015ab3f4efcf
 VAC0049:
-  label: HAVRIX 1440 U/1mL ADULTES
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab30481ba
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab3048379
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce61e5c015ab3047ed4
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab30484f4
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce91e5c015ab30486cc
+  1:
+    label: Havrix 1440 susp. inj. s.c./i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab30481ba
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab3048379
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce61e5c015ab3047ed4
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab30484f4
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce91e5c015ab30486cc
+  2:
+    label: Havrix 1440 susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab30481ba
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab3048379
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce61e5c015ab3047ed4
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab30484f4
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce91e5c015ab30486cc
 VAC0050:
-  label: HAVRIX NOURRISSONS ET ENFANTS 720 U/0,5 mL
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab304815c
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab3048316
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce61e5c015ab3047edc
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab30484f0
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce91e5c015ab30486cd
+  1:
+    label: Havrix Junior 720 susp. inj. s.c./i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab304815c
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab3048316
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce61e5c015ab3047edc
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab30484f0
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce91e5c015ab30486cd
+  2:
+    label: Havrix Junior 720 susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab304815c
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab3048316
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce61e5c015ab3047edc
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce81e5c015ab30484f0
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce91e5c015ab30486cd
 VAC0053:
-  label: PRIORIX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5c691e5c015ab3c76080
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5c6a1e5c015ab3c76346
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5c681e5c015ab3c75dbc
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5c6b1e5c015ab3c7660b
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc5c6c1e5c015ab3c768ab
+  1:
+    label: Priorix sol. inj. (pdr. + solv.) s.c./i.m. amp. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc5c691e5c015ab3c76080
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc5c6a1e5c015ab3c76346
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc5c681e5c015ab3c75dbc
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc5c6b1e5c015ab3c7660b
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc5c6c1e5c015ab3c768ab
 VAC0057:
-  label: TWINRIX ADULTE
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0057/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0057/SmPC
+  1:
+    label: Twinrix Adulte susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0057/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0057/SmPC
 VAC0058:
-  label: TWINRIX ENFANT
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0058/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0058/SmPC
+  1:
+    label: Twinrix Enfant susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0058/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0058/SmPC
 VAC0060:
-  label: VARILRIX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eae
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4bac1e5c015ab3a92b3a
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eb3
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4bad1e5c015ab3a92b97
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12ea9
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4bab1e5c015ab3a92a92
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eb8
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4baf1e5c015ab3a92c44
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12ebd
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4bb11e5c015ab3a92c9b
+  1:
+    label: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. amp. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eae
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eb3
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12ea9
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eb8
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12ebd
+  2:
+    label: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc4bac1e5c015ab3a92b3a
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc4bad1e5c015ab3a92b97
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc4bab1e5c015ab3a92a92
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc4baf1e5c015ab3a92c44
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc4bb11e5c015ab3a92c9b
 VAC0061:
-  label: VARIVAX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc71f11e5c015ab3f32d5c
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc71f21e5c015ab3f32dc6
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc71ef1e5c015ab3f32d00
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc71f31e5c015ab3f32f67
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc71f51e5c015ab3f3306f
+  1:
+    label: Varivax susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc71f11e5c015ab3f32d5c
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc71f21e5c015ab3f32dc6
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc71ef1e5c015ab3f32d00
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc71f31e5c015ab3f32f67
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc71f51e5c015ab3f3306f
 VAC0062:
-  label: VAXIGRIP
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/674f1e9a6da5986c67064587
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/674f1ea36da5986c6706458f
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/674f1e916da5986c6706457f
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/674f1eaf6da5986c67064597
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/674f1eb96da5986c6706459f
+  1:
+    label: Vaxigrip susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/674f1e9a6da5986c67064587
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/674f1ea36da5986c6706458f
+      de: https://app.fagg-afmps.be/pharma-status/api/files/674f1e916da5986c6706457f
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/674f1eaf6da5986c67064597
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/674f1eb96da5986c6706459f
 VAC0073:
-  label: IXIARO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0073/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0073/SmPC
+  1:
+    label: Ixiaro susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0073/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0073/SmPC
 VAC0083:
-  label: SYNFLORIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0083/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0083/SmPC
+  1:
+    label: Synflorix susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0083/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0083/SmPC
+  2:
+    label: Synflorix susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0083/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0083/SmPC
 VAC0121:
-  label: PRIORIX-TETRA
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b5e
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b63
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b59
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b68
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b6d
+  1:
+    label: Priorix-Tetra sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b5e
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b63
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b59
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b68
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b6d
 VAC0123:
-  label: PREVENAR 13
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0123/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0123/SmPC
+  1:
+    label: Prevenar 13 susp. inj. i.m. récip. multidos.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0123/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0123/SmPC
+  2:
+    label: Prevenar 13 susp. inj. i.m. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0123/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0123/SmPC
 VAC0141:
-  label: MENVEO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0141/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0141/SmPC
+  1:
+    label: Menveo sol. inj. (pdr. + solv.) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0141/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0141/SmPC
+  2:
+    label: Menveo sol. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0141/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0141/SmPC
 VAC0161:
-  label: ZOSTAVAX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0161/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0161/SmPC
+  1:
+    label: Zostavax susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0161/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0161/SmPC
 VAC0165:
-  label: VAQTA 25 U/0,5 mL - ENFANT
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc780f1e5c015ab3fc1a01
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78101e5c015ab3fc1cd3
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc780e1e5c015ab3fc1891
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78111e5c015ab3fc1eb8
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78121e5c015ab3fc2062
+  1:
+    label: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780f1e5c015ab3fc1a01
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78101e5c015ab3fc1cd3
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc780e1e5c015ab3fc1891
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78111e5c015ab3fc1eb8
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78121e5c015ab3fc2062
+  2:
+    label: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780f1e5c015ab3fc1a01
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78101e5c015ab3fc1cd3
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc780e1e5c015ab3fc1891
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78111e5c015ab3fc1eb8
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc78121e5c015ab3fc2062
 VAC0166:
-  label: VAQTA  50 U
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc12b4
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc137a
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc78091e5c015ab3fc11e2
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc780b1e5c015ab3fc1448
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc780c1e5c015ab3fc1529
+  1:
+    label: Vaqta 50 UI/ml susp. inj. s.c./i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc12b4
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc137a
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc78091e5c015ab3fc11e2
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780b1e5c015ab3fc1448
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc780c1e5c015ab3fc1529
+  2:
+    label: Vaqta 50 UI/ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc12b4
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc137a
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc78091e5c015ab3fc11e2
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780b1e5c015ab3fc1448
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc780c1e5c015ab3fc1529
 VAC0168:
-  label: AMBIRIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0168/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0168/SmPC
+  1:
+    label: Ambirix susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0168/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0168/SmPC
 VAC0170:
-  label: AFLUNOV
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0170/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0170/SmPC
+  1:
+    label: Aflunov susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0170/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0170/SmPC
 VAC0173:
-  label: FLUENZ
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0173/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0173/SmPC
+  1:
+    label: Fluenz susp. pulv. nas. flac. pulv.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0173/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0173/SmPC
 VAC0174:
-  label: PROQUAD
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0174/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0174/SmPC
+  1:
+    label: ProQuad susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0174/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0174/SmPC
 VAC0230:
-  label: FLUAD
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0230/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0230/SmPC
+  1:
+    label: Fluad susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0230/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0230/SmPC
 VAC0451:
-  label: VIVOTIF
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b17674
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b1771f
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b1761e
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc52a11e5c015ab3b177fc
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc52a11e5c015ab3b178ee
+  1:
+    label: Vivotif gél. gastro-résist.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b17674
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b1771f
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b1761e
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52a11e5c015ab3b177fc
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc52a11e5c015ab3b178ee
 VAC0472:
-  label: PREPANDRIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0472/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0472/SmPC
+  1:
+    label: Prepandrix émuls. inj. (émuls. + susp.) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0472/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0472/SmPC
 VAC0475:
-  label: FOCLIVIA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0475/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0475/SmPC
+  1:
+    label: Foclivia susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0475/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0475/SmPC
+  2:
+    label: Foclivia susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0475/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0475/SmPC
 VAC0479:
-  label: TRIAXIS
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc582d1e5c015ab3bde38a
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc582f1e5c015ab3bde5d2
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc582b1e5c015ab3bde08f
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58321e5c015ab3bdef14
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58351e5c015ab3bdf970
+  1:
+    label: Triaxis susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc582d1e5c015ab3bde38a
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc582f1e5c015ab3bde5d2
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc582b1e5c015ab3bde08f
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58321e5c015ab3bdef14
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58351e5c015ab3bdf970
 VAC0480:
-  label: FENDRIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0480/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0480/SmPC
+  1:
+    label: Fendrix susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0480/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0480/SmPC
 VAC0486:
-  label: NIMENRIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0486/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0486/SmPC
+  1:
+    label: Nimenrix sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0486/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0486/SmPC
 VAC0495:
-  label: BEXSERO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0495/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0495/SmPC
+  1:
+    label: Bexsero susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0495/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0495/SmPC
 VAC0507:
-  label: HEXACIMA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0507/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0507/SmPC
+  1:
+    label: Hexacima susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0507/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0507/SmPC
+  2:
+    label: Hexacima susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0507/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0507/SmPC
 VAC0510:
-  label: HEXYON
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0510/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0510/SmPC
+  1:
+    label: Hexyon susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0510/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0510/SmPC
+  2:
+    label: Hexyon susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0510/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0510/SmPC
 VAC0514:
-  label: ROTARIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0514/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0514/SmPC
+  1:
+    label: Rotarix susp. buv.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0514/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0514/SmPC
+  2:
+    label: Rotarix susp. buv. applic. préremplie or.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0514/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0514/SmPC
 VAC0520:
-  label: IMVANEX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0520/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0520/SmPC
+  1:
+    label: Imvanex susp. inj. s.c. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0520/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0520/SmPC
 VAC0521:
-  label: FLUENZ TETRA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0521/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0521/SmPC
+  1:
+    label: Fluenz Tetra susp. pulv. nas. flac. pulv.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0521/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0521/SmPC
 VAC0523:
-  label: GARDASIL 9
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0523/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0523/SmPC
+  1:
+    label: Gardasil 9 susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0523/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0523/SmPC
+  2:
+    label: Gardasil 9 susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0523/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0523/SmPC
 VAC0535:
-  label: VAXELIS
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0535/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0535/SmPC
+  1:
+    label: Vaxelis susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0535/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0535/SmPC
 VAC0539:
-  label: DENGVAXIA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0539/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0539/SmPC
+  1:
+    label: Dengvaxia susp. inj. (pdr. + solv.) s.c. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0539/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0539/SmPC
+  2:
+    label: Dengvaxia susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0539/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0539/SmPC
 VAC0541:
-  label: BOOSTRIX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f12631
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77f31e5c015ab3fbe977
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f12636
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77f61e5c015ab3fbf14d
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f1262c
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77ef1e5c015ab3fbdc6e
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ea6cdac9b3830206f1264c
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77fa1e5c015ab3fbf941
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62ea6cdac9b3830206f12651
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77fe1e5c015ab3fc03af
+  1:
+    label: Boostrix susp. inj. i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f12631
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f12636
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f1262c
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62ea6cdac9b3830206f1264c
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62ea6cdac9b3830206f12651
+  2:
+    label: Boostrix susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc77f31e5c015ab3fbe977
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc77f61e5c015ab3fbf14d
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc77ef1e5c015ab3fbdc6e
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc77fa1e5c015ab3fbf941
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc77fe1e5c015ab3fc03af
 VAC0556:
-  label: MENITORIX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc6a771e5c015ab3e566b7
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc6a781e5c015ab3e5696b
+  1:
+    label: Menitorix sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc6a771e5c015ab3e566b7
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc6a781e5c015ab3e5696b
 VAC0560:
-  label: VAXIGRIPTETRA
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58f61e5c015ab3bfb0f4
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58f81e5c015ab3bfb76a
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58f41e5c015ab3bfa8d4
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58fa1e5c015ab3bfbbf1
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58fd1e5c015ab3bfbf0e
+  1:
+    label: Vaxigrip Tetra susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58f61e5c015ab3bfb0f4
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58f81e5c015ab3bfb76a
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc58f41e5c015ab3bfa8d4
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58fa1e5c015ab3bfbbf1
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58fd1e5c015ab3bfbf0e
 VAC0562:
-  label: INFLUVAC TETRA
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54d81e5c015ab3b67419
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54da1e5c015ab3b67949
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54d61e5c015ab3b66dd9
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54db1e5c015ab3b67d48
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc54dc1e5c015ab3b67fca
+  1:
+    label: Influvac Tetra susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54d81e5c015ab3b67419
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc54da1e5c015ab3b67949
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc54d61e5c015ab3b66dd9
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54db1e5c015ab3b67d48
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc54dc1e5c015ab3b67fca
 VAC0563:
-  label: ALPHA-RIX-TETRA
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc59641e5c015ab3c08d2c
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc59661e5c015ab3c09085
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc59611e5c015ab3c08921
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc59681e5c015ab3c090fd
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc596a1e5c015ab3c0916e
+  1:
+    label: Alpharix-Tetra susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc59641e5c015ab3c08d2c
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc59661e5c015ab3c09085
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc59611e5c015ab3c08921
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc59681e5c015ab3c090fd
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc596a1e5c015ab3c0916e
 VAC0567:
-  label: SHINGRIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0567/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0567/SmPC
+  1:
+    label: Shingrix susp. inj. (pdr. + susp.) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0567/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0567/SmPC
 VAC0568:
-  label: BOOSTRIX-POLIO
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc73041e5c015ab3f4e08b
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc73051e5c015ab3f4e2f7
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc73021e5c015ab3f4db9b
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc73081e5c015ab3f4e814
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ed91
+  1:
+    label: Boostrix Polio susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73041e5c015ab3f4e08b
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc73051e5c015ab3f4e2f7
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc73021e5c015ab3f4db9b
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73081e5c015ab3f4e814
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc730a1e5c015ab3f4ed91
 VAC0569:
-  label: INFANRIX-IPV
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc79fe1e5c015ab3ff1722
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc79fe1e5c015ab3ff1854
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc79fd1e5c015ab3ff15c5
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7a001e5c015ab3ff19b3
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc7a001e5c015ab3ff1aaa
+  1:
+    label: Infanrix IPV susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc79fe1e5c015ab3ff1722
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc79fe1e5c015ab3ff1854
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc79fd1e5c015ab3ff15c5
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7a001e5c015ab3ff19b3
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc7a001e5c015ab3ff1aaa
 VAC0570:
-  label: HIBERIX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc75ff1e5c015ab3f939cd
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc76001e5c015ab3f93b02
+  1:
+    label: Hiberix 10 µg/0.5 ml sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie
+      flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc75ff1e5c015ab3f939cd
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc76001e5c015ab3f93b02
 VAC0575:
-  label: FSME-IMMUN
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58e21e5c015ab3bf83cd
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58e31e5c015ab3bf857a
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58e11e5c015ab3bf804c
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58e41e5c015ab3bf8696
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58e61e5c015ab3bf8748
+  1:
+    label: Fsme-Immun 0.5 ml susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58e21e5c015ab3bf83cd
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58e31e5c015ab3bf857a
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc58e11e5c015ab3bf804c
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58e41e5c015ab3bf8696
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58e61e5c015ab3bf8748
 VAC0582:
-  label: TRUMENBA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0582/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0582/SmPC
+  1:
+    label: Trumenba susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0582/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0582/SmPC
 VAC0586:
-  label: ERVEBO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0586/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0586/SmPC
+  1:
+    label: Ervebo sol. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0586/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0586/SmPC
 VAC0593:
-  label: VERORAB
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/64e85af0cf8faa692ba47161
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/64e85b06cf8faa692ba47169
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/64e85adacf8faa692ba47159
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/64e85b21cf8faa692ba47171
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/64e85b32cf8faa692ba47179
+  1:
+    label: Verorab susp. inj. (pdr. + solv.) i.derm./i.m. ser. préremplie flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/64e85af0cf8faa692ba47161
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/64e85b06cf8faa692ba47169
+      de: https://app.fagg-afmps.be/pharma-status/api/files/64e85adacf8faa692ba47159
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/64e85b21cf8faa692ba47171
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/64e85b32cf8faa692ba47179
 VAC0595:
-  label: FLUCELVAX TETRA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0595/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0595/SmPC
+  1:
+    label: Flucelvax Tetra susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0595/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0595/SmPC
 VAC0633:
-  label: ZABDENO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0633/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0633/SmPC
+  1:
+    label: Zabdeno susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0633/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0633/SmPC
 VAC0634:
-  label: MVABEA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0634/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0634/SmPC
+  1:
+    label: Mvabea susp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0634/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0634/SmPC
 VAC0644:
-  label: QDENGA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0644/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0644/SmPC
+  1:
+    label: Qdenga sol. inj. (pdr. + solv.) s.c. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0644/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0644/SmPC
+  2:
+    label: Qdenga sol. inj. (pdr. + solv.) s.c. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0644/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0644/SmPC
 VAC0649:
-  label: EFLUELDA TETRA
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4d511e5c015ab3aad5de
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4d551e5c015ab3aadb67
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4d4f1e5c015ab3aad4dc
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4d581e5c015ab3aadd4d
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc4d5c1e5c015ab3aadd71
+  1:
+    label: Efluelda Tetra susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc4d511e5c015ab3aad5de
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc4d551e5c015ab3aadb67
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc4d4f1e5c015ab3aad4dc
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc4d581e5c015ab3aadd4d
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc4d5c1e5c015ab3aadd71
 VAC0656:
-  label: SPIKEVAX 0,2 mg/mL MODERNA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0656/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0656/SmPC
+  1:
+    label: Spikevax 0.2 mg/ml disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0656/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0656/SmPC
 VAC0658:
-  label: COMIRNATY 30 µg BIONTECH-PFIZER
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0658/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0658/SmPC
+  1:
+    label: Comirnaty 30 µg/dose disp. inj. (à diluer) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0658/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0658/SmPC
+  2:
+    label: Comirnaty 30 µg/dose disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0658/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0658/SmPC
 VAC0667:
-  label: NUVAXOVID
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0667/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0667/SmPC
+  1:
+    label: Nuvaxovid disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0667/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0667/SmPC
 VAC0733:
-  label: HEPLISAV-B
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0733/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0733/SmPC
+  1:
+    label: Heplisav B 20 µg sol. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0733/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0733/SmPC
 VAC0736:
-  label: TRIAXIS POLIO
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc74101e5c015ab3f64f31
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc74101e5c015ab3f64f8d
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc740f1e5c015ab3f64e96
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc74121e5c015ab3f65054
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc74131e5c015ab3f653b1
+  1:
+    label: Triaxis Polio 0.5 ml susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc74101e5c015ab3f64f31
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc74101e5c015ab3f64f8d
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc740f1e5c015ab3f64e96
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc74121e5c015ab3f65054
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc74131e5c015ab3f653b1
 VAC0774:
-  label: FSME-IMMUN 0,25 ml Junior
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58d91e5c015ab3bf6b0d
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58da1e5c015ab3bf6c74
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58d71e5c015ab3bf68ef
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58db1e5c015ab3bf6e05
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc58dd1e5c015ab3bf7315
+  1:
+    label: Fsme-Immun 0,25 ml Junior  susp. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58d91e5c015ab3bf6b0d
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58da1e5c015ab3bf6c74
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc58d71e5c015ab3bf68ef
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58db1e5c015ab3bf6e05
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc58dd1e5c015ab3bf7315
 VAC0777:
-  label: ADJUPANRIX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0777/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0777/SmPC
+  1:
+    label: Adjupanrix émuls. inj. (émuls. + susp.) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0777/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0777/SmPC
 VAC0778:
-  label: VAXCHORA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0778/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0778/SmPC
+  1:
+    label: Vaxchora pdr. efferv. + susp. buv. (pdr.) sachet
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0778/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0778/SmPC
 VAC0780:
-  label: VAXNEUVANCE
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0780/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0780/SmPC
+  1:
+    label: Vaxneuvance susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0780/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0780/SmPC
 VAC0833:
-  label: COMIRNATY 10 µg ENFANT 5-11 ANS BIONTECH-PFIZER
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0833/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0833/SmPC
+  1:
+    label: Comirnaty 10 µg/dose disp. inj. (à diluer) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0833/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0833/SmPC
 VAC0836:
-  label: FLUAD TETRA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0836/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0836/SmPC
+  1:
+    label: Fluad Tetra susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0836/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0836/SmPC
 VAC0850:
-  label: NEISVAC-C
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77781e5c015ab3fb43e8
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77791e5c015ab3fb467c
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc77771e5c015ab3fb414d
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc777a1e5c015ab3fb4953
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/62bc777b1e5c015ab3fb4c11
+  1:
+    label: Neisvac-C 10 µg/0.5 ml susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc77781e5c015ab3fb43e8
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc77791e5c015ab3fb467c
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc77771e5c015ab3fb414d
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc777a1e5c015ab3fb4953
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc777b1e5c015ab3fb4c11
 VAC0871:
-  label: SUPEMTEK
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0871/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0871/SmPC
+  1:
+    label: Supemtek Tetra sol. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0871/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0871/SmPC
 VAC0900:
-  label: PREVENAR 20
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0900/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0900/SmPC
+  1:
+    label: Prevenar 20 susp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0900/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0900/SmPC
 VAC0913:
-  label: BIMERVAX
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0913/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC0913/SmPC
+  1:
+    label: Bimervax émuls. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC0913/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC0913/SmPC
 VAC0990:
-  label: ALPHARIX
-  ePIL:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/67bdb6f041393c0123ab7c09
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/67bdb6ff41393c0123ab7c11
-    de:
-    - https://app.fagg-afmps.be/pharma-status/api/files/67bdb6d741393c0123ab7c01
-  SmPC:
-    fr:
-    - https://app.fagg-afmps.be/pharma-status/api/files/67bdb71641393c0123ab7c19
-    nl:
-    - https://app.fagg-afmps.be/pharma-status/api/files/67bdb72441393c0123ab7c21
+  1:
+    label: Alpharix susp. inj. i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/67bdb6f041393c0123ab7c09
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/67bdb6ff41393c0123ab7c11
+      de: https://app.fagg-afmps.be/pharma-status/api/files/67bdb6d741393c0123ab7c01
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/67bdb71641393c0123ab7c19
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/67bdb72441393c0123ab7c21
 VAC1017:
-  label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MULTIDOSE MODERNA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1017/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1017/SmPC
+  1:
+    label: Spikevax Bivalent Original/Omicron BA.1 50 µg/ml - 50 µg/ml disp. inj.
+      i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1017/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1017/SmPC
 VAC1019:
-  label: SPIKEVAX 0,1 mg/mL MODERNA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1019/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1019/SmPC
+  1:
+    label: Spikevax 0.1 mg/ml disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1019/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1019/SmPC
 VAC1021:
-  label: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1021/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1021/SmPC
+  1:
+    label: Comirnaty Original/Omicron BA.1 15 µg/dose - 15 µg/dose disp. inj. i.m.
+      flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1021/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1021/SmPC
 VAC1022:
-  label: COMIRNATY 3 µg 6 MOIS-4 ANS BIONTECH-PFIZER
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1022/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1022/SmPC
+  1:
+    label: Comirnaty 3 µg/dose disp. inj. (à diluer) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1022/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1022/SmPC
 VAC1023:
-  label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1023/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1023/SmPC
+  1:
+    label: Comirnaty Original/Omicron BA.4-5 15 µg/dose - 15 µg/dose disp. inj. i.m.
+      flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1023/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1023/SmPC
 VAC1031:
-  label: SPIKEVAX 50 µg MONODOSE MODERNA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1031/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1031/SmPC
+  1:
+    label: Spikevax 50 µg disp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1031/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1031/SmPC
 VAC1033:
-  label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) ENFANT 5-11 ANS BIONTECH-PFIZER
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1033/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1033/SmPC
+  1:
+    label: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. (à diluer)
+      i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1033/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1033/SmPC
+  2:
+    label: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. i.m.
+      flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1033/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1033/SmPC
 VAC1036:
-  label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1036/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1036/SmPC
+  1:
+    label: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
+      flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1036/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1036/SmPC
+  2:
+    label: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
+      ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1036/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1036/SmPC
 VAC1040:
-  label: AREXVY
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1040/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1040/SmPC
+  1:
+    label: Arexvy susp. inj. (pdr. + susp.) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1040/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1040/SmPC
 VAC1047:
-  label: ABRYSVO
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1047/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1047/SmPC
+  1:
+    label: Abrysvo sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1047/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1047/SmPC
 VAC1051:
-  label: PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1051/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1051/SmPC
+  1:
+    label: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1051/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1051/SmPC
+  2:
+    label: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1051/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1051/SmPC
 VAC1052:
-  label: PFIZER COMIRNATY-10 XBB.1.5 ENFANT (5-11 ANS)
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1052/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1052/SmPC
+  1:
+    label: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. (à diluer) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1052/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1052/SmPC
+  2:
+    label: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1052/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1052/SmPC
 VAC1053:
-  label: PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1053/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1053/SmPC
+  1:
+    label: Comirnaty Omicron XBB.1.5 3 µg/dose disp. inj. (à diluer) i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1053/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1053/SmPC
 VAC1055:
-  label: NUVAXOVID XBB.1.5
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1055/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1055/SmPC
+  1:
+    label: Nuvaxovid XBB.1.5 disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1055/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1055/SmPC
 VAC1258:
-  label: COMIRNATY JN.1 30 µg ADULTE (+ 12 ANS)
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1258/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1258/SmPC
+  1:
+    label: Comirnaty JN.1 30 µg/dose disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1258/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1258/SmPC
+  2:
+    label: Comirnaty JN.1 30 µg/dose disp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1258/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1258/SmPC
 VAC1261:
-  label: NUVAXOVID JN.1
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1261/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1261/SmPC
+  1:
+    label: Nuvaxovid JN.1 disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1261/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1261/SmPC
 VAC1262:
-  label: MRESVIA
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1262/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1262/SmPC
+  1:
+    label: Mresvia disp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1262/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1262/SmPC
 VAC1268:
-  label: SPIKEVAX JN.1 50 µg
-  ePIL:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1268/ePIL
-  SmPC:
-    xx:
-    - https://epil.euvabeco.eu/EUE/VAC1268/SmPC
+  1:
+    label: Spikevax JN.1 50 µg disp. inj. i.m. flac.
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1268/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1268/SmPC
+  2:
+    label: Spikevax JN.1 50 µg disp. inj. i.m. ser. préremplie
+    ePIL:
+      xx: https://epil.euvabeco.eu/EUE/VAC1268/ePIL
+    SmPC:
+      xx: https://epil.euvabeco.eu/EUE/VAC1268/SmPC
