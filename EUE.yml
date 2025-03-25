@@ -4013,6 +4013,61 @@ VAC0871:
       sl: https://www.ema.europa.eu/sl/documents/product-information/supemtek-epar-product-information_sl.pdf
       fi: https://www.ema.europa.eu/fi/documents/product-information/supemtek-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/supemtek-epar-product-information_sv.pdf
+VAC0875:
+  1:
+    label: PANDEMIC INFLUENZA VACCINE H5N1 ASTRAZENECA
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sv.pdf
 VAC0900:
   1:
     label: PREVENAR 20
@@ -4123,6 +4178,61 @@ VAC0913:
       sl: https://www.ema.europa.eu/sl/documents/product-information/bimervax-epar-product-information_sl.pdf
       fi: https://www.ema.europa.eu/fi/documents/product-information/bimervax-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/bimervax-epar-product-information_sv.pdf
+VAC0939:
+  1:
+    label: PREHEVBRIO
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/prehevbri-epar-medicine-overview_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/prehevbri-epar-medicine-overview_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/prehevbri-epar-medicine-overview_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/prehevbri-epar-medicine-overview_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/prehevbri-epar-medicine-overview_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/prehevbri-epar-medicine-overview_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/prehevbri-epar-medicine-overview_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/prehevbri-epar-medicine-overview_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/prehevbri-epar-medicine-overview_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/prehevbri-epar-medicine-overview_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/prehevbri-epar-medicine-overview_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/prehevbri-epar-medicine-overview_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/prehevbri-epar-medicine-overview_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/prehevbri-epar-medicine-overview_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/prehevbri-epar-medicine-overview_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/prehevbri-epar-medicine-overview_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/prehevbri-epar-medicine-overview_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/prehevbri-epar-medicine-overview_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/prehevbri-epar-medicine-overview_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/prehevbri-epar-medicine-overview_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/prehevbri-epar-medicine-overview_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/prehevbri-epar-medicine-overview_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/prehevbri-epar-medicine-overview_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/prehevbri-epar-medicine-overview_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/prehevbri-epar-medicine-overview_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/prehevbri-epar-medicine-overview_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/prehevbri-epar-medicine-overview_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/prehevbri-epar-medicine-overview_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/prehevbri-epar-medicine-overview_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/prehevbri-epar-medicine-overview_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/prehevbri-epar-medicine-overview_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/prehevbri-epar-medicine-overview_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/prehevbri-epar-medicine-overview_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/prehevbri-epar-medicine-overview_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/prehevbri-epar-medicine-overview_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/prehevbri-epar-medicine-overview_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/prehevbri-epar-medicine-overview_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/prehevbri-epar-medicine-overview_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/prehevbri-epar-medicine-overview_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/prehevbri-epar-medicine-overview_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/prehevbri-epar-medicine-overview_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/prehevbri-epar-medicine-overview_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/prehevbri-epar-medicine-overview_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/prehevbri-epar-medicine-overview_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/prehevbri-epar-medicine-overview_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/prehevbri-epar-medicine-overview_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/prehevbri-epar-medicine-overview_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/prehevbri-epar-medicine-overview_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/prehevbri-epar-medicine-overview_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/prehevbri-epar-medicine-overview_sv.pdf
 VAC0953:
   1:
     label: PROCOMVAX
@@ -5498,6 +5608,61 @@ VAC1060:
       sl: https://www.ema.europa.eu/sl/documents/product-information/spikevax-epar-product-information_sl.pdf
       fi: https://www.ema.europa.eu/fi/documents/product-information/spikevax-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/spikevax-epar-product-information_sv.pdf
+VAC1061:
+  1:
+    label: PENBRAYA
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/penbraya-epar-medicine-overview_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/penbraya-epar-medicine-overview_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/penbraya-epar-medicine-overview_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/penbraya-epar-medicine-overview_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/penbraya-epar-medicine-overview_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/penbraya-epar-medicine-overview_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/penbraya-epar-medicine-overview_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/penbraya-epar-medicine-overview_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/penbraya-epar-medicine-overview_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/penbraya-epar-medicine-overview_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/penbraya-epar-medicine-overview_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/penbraya-epar-medicine-overview_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/penbraya-epar-medicine-overview_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/penbraya-epar-medicine-overview_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/penbraya-epar-medicine-overview_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/penbraya-epar-medicine-overview_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/penbraya-epar-medicine-overview_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/penbraya-epar-medicine-overview_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/penbraya-epar-medicine-overview_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/penbraya-epar-medicine-overview_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/penbraya-epar-medicine-overview_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/penbraya-epar-medicine-overview_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/penbraya-epar-medicine-overview_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/penbraya-epar-medicine-overview_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/penbraya-epar-medicine-overview_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/penbraya-epar-medicine-overview_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/penbraya-epar-medicine-overview_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/penbraya-epar-medicine-overview_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/penbraya-epar-medicine-overview_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/penbraya-epar-medicine-overview_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/penbraya-epar-medicine-overview_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/penbraya-epar-medicine-overview_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/penbraya-epar-medicine-overview_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/penbraya-epar-medicine-overview_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/penbraya-epar-medicine-overview_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/penbraya-epar-medicine-overview_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/penbraya-epar-medicine-overview_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/penbraya-epar-medicine-overview_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/penbraya-epar-medicine-overview_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/penbraya-epar-medicine-overview_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/penbraya-epar-medicine-overview_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/penbraya-epar-medicine-overview_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/penbraya-epar-medicine-overview_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/penbraya-epar-medicine-overview_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/penbraya-epar-medicine-overview_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/penbraya-epar-medicine-overview_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/penbraya-epar-medicine-overview_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/penbraya-epar-medicine-overview_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/penbraya-epar-medicine-overview_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/penbraya-epar-medicine-overview_sv.pdf
 VAC1258:
   1:
     label: COMIRNATY JN.1 30 µg ADULTE (+ 12 ANS)

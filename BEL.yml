@@ -1058,16 +1058,3 @@ VAC1262:
       xx: https://epil.euvabeco.eu/EUE/VAC1262/ePIL
     SmPC:
       xx: https://epil.euvabeco.eu/EUE/VAC1262/SmPC
-VAC1268:
-  1:
-    label: Spikevax JN.1 50 µg disp. inj. i.m. flac.
-    ePIL:
-      xx: https://epil.euvabeco.eu/EUE/VAC1268/ePIL
-    SmPC:
-      xx: https://epil.euvabeco.eu/EUE/VAC1268/SmPC
-  2:
-    label: Spikevax JN.1 50 µg disp. inj. i.m. ser. préremplie
-    ePIL:
-      xx: https://epil.euvabeco.eu/EUE/VAC1268/ePIL
-    SmPC:
-      xx: https://epil.euvabeco.eu/EUE/VAC1268/SmPC
