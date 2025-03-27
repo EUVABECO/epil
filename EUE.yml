@@ -3522,7 +3522,7 @@ VAC0667:
   1:
     label: NUVAXOVID
     ePIL:
-      en: https://epil.euvabeco.eu/view.html?bid=Bundle/5607431d-78f2-ee11-904c-000d3aaa0e40
+      en: https://epil.euvabeco.eu/view_plm?bid=Bundle/5607431d-78f2-ee11-904c-000d3aaa0e40
       bg: https://www.ema.europa.eu/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf
       es: https://www.ema.europa.eu/es/documents/product-information/nuvaxovid-epar-product-information_es.pdf
       cs: https://www.ema.europa.eu/cs/documents/product-information/nuvaxovid-epar-product-information_cs.pdf
@@ -3548,7 +3548,7 @@ VAC0667:
       fi: https://www.ema.europa.eu/fi/documents/product-information/nuvaxovid-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/nuvaxovid-epar-product-information_sv.pdf
     SmPC:
-      en: https://epil.euvabeco.eu/view.html?bid=Bundle/d9035011-78f2-ee11-904c-000d3aaa0e40
+      en: https://epil.euvabeco.eu/view_plm?bid=Bundle/d9035011-78f2-ee11-904c-000d3aaa0e40
       bg: https://www.ema.europa.eu/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf
       es: https://www.ema.europa.eu/es/documents/product-information/nuvaxovid-epar-product-information_es.pdf
       cs: https://www.ema.europa.eu/cs/documents/product-information/nuvaxovid-epar-product-information_cs.pdf
@@ -5392,7 +5392,7 @@ VAC1055:
   1:
     label: NUVAXOVID XBB.1.5
     ePIL:
-      en: https://epil.euvabeco.eu/view.html?bid=Bundle/c1f70fd0-20f3-ee11-904c-000d3abcf750
+      en: https://epil.euvabeco.eu/view_plm?bid=Bundle/c1f70fd0-20f3-ee11-904c-000d3abcf750
       bg: https://www.ema.europa.eu/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf
       es: https://www.ema.europa.eu/es/documents/product-information/nuvaxovid-epar-product-information_es.pdf
       cs: https://www.ema.europa.eu/cs/documents/product-information/nuvaxovid-epar-product-information_cs.pdf
@@ -5418,7 +5418,7 @@ VAC1055:
       fi: https://www.ema.europa.eu/fi/documents/product-information/nuvaxovid-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/nuvaxovid-epar-product-information_sv.pdf
     SmPC:
-      en: https://epil.euvabeco.eu/view.html?bid=Bundle/49a52c4e-82f2-ee11-904b-000d3abdca36
+      en: https://epil.euvabeco.eu/view_plm?bid=Bundle/49a52c4e-82f2-ee11-904b-000d3abdca36
       bg: https://www.ema.europa.eu/bg/documents/product-information/nuvaxovid-epar-product-information_bg.pdf
       es: https://www.ema.europa.eu/es/documents/product-information/nuvaxovid-epar-product-information_es.pdf
       cs: https://www.ema.europa.eu/cs/documents/product-information/nuvaxovid-epar-product-information_cs.pdf
