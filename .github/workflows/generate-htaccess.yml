@@ -24,7 +24,7 @@ jobs:
         run: mkdir -p build
       
       - name: Generate .htaccess file
-        run: ruby ./generate_htaccess.rb data/BEL.yml data/EUE.yml -o build/htaccess
+        run: ruby ./generate_htaccess.rb -d data -o build/htaccess
       
       - name: Upload .htaccess as artifact
         uses: actions/upload-artifact@v4
@@ -34,7 +34,7 @@ jobs:
           retention-days: 7
 
       - name: Create Release and Upload Asset
-        if: github.event_name != 'pull_request' # Only create release on push or manual trigger
+        if: github.event_name != 'pull_request'
         uses: softprops/action-gh-release@v1
         with:
           tag_name: htaccess-${{ github.run_number }}

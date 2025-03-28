@@ -4,18 +4,41 @@ require 'optparse'
 
 options = {}
 OptionParser.new do |opts|
-  opts.banner = "Usage: generate_htaccess.rb [options] file1.yml file2.yml ..."
+  opts.banner = "Usage: generate_htaccess.rb [options] file1.yml file2.yml ... OR directory"
 
   opts.on("-o", "--output FILE", "Fichier de sortie (.htaccess par défaut)") do |file|
     options[:output] = file
   end
+  
+  opts.on("-d", "--directory DIR", "Répertoire contenant les fichiers .yml") do |dir|
+    options[:directory] = dir
+  end
 end.parse!
 
-input_files = ARGV
-if input_files.empty?
-  puts "No input files specified."
-  puts "Usage: generate_htaccess.rb [options] file1.yml file2.yml ..."
-  exit 1
+# Collecte des fichiers d'entrée
+input_files = []
+
+if options[:directory]
+  # Si un répertoire est spécifié, collecter tous les fichiers .yml
+  dir_path = options[:directory]
+  if Dir.exist?(dir_path)
+    input_files = Dir.glob(File.join(dir_path, "*.yml"))
+    if input_files.empty?
+      puts "No .yml files found in directory: #{dir_path}"
+      exit 1
+    end
+  else
+    puts "Directory not found: #{dir_path}"
+    exit 1
+  end
+else
+  # Sinon utiliser les arguments comme fichiers individuels
+  input_files = ARGV
+  if input_files.empty?
+    puts "No input files specified."
+    puts "Usage: generate_htaccess.rb [options] file1.yml file2.yml ... OR --directory DIR"
+    exit 1
+  end
 end
 
 output_file = options[:output] || '.htaccess'
