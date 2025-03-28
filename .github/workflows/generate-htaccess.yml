@@ -23,12 +23,25 @@ jobs:
       - name: Create build directory
         run: mkdir -p build
       
+      - name: List files before generation
+        run: ls -la && pwd && ls -la data/ || echo "data directory not found"
+      
       - name: Generate .htaccess file
         run: ruby ./generate_htaccess.rb data/BEL.yml data/EUE.yml -o build/.htaccess
+        
+      - name: Debug output after generation
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Build directory content:"
+          ls -la build/ || echo "build directory not found or empty"
+          echo "File exists check:"
+          test -f build/.htaccess && echo "File exists" || echo "File does not exist"
       
       - name: Upload .htaccess as artifact
+        if: always()  # Try to upload even if previous steps failed
         uses: actions/upload-artifact@v4
         with:
           name: htaccess-file
           path: build/.htaccess
           retention-days: 7
+          if-no-files-found: warn  # Will show warning instead of failing
