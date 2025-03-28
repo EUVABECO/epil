@@ -27,7 +27,7 @@ jobs:
         run: ruby ./generate_htaccess.rb data/BEL.yml data/EUE.yml -o build/.htaccess
       
       - name: Upload .htaccess as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: htaccess-file
           path: build/.htaccess
