@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ePIL</title>
+<style>
+table {border-collapse: collapse; font-family:Arial,sans-serif}
+table th,td { border: 1px solid; vertical-align: top; padding: 5px}
+table tr.header {font-weight:bold}
+table tr.vaccine {background-color: grey; color: white}
+table td:nth-child(3) {text-align:center}
+table td:nth-child(4) {text-align:center}
+</style>
+<script type="text/javascript" src="./dist/yaml.js"></script>
+<script type="text/javascript" src="dist/nuva.js"></script>
+<script type="text/javascript" src="dist/epil.js"></script>
+</head>
+<body>
+<h1>Available documents</h1>
+<select name='base' id='base'>
+<option>Choose a jurisdiction</option>
+</select>
+<hr/>
+<div id ='place'></div>
+
+<script>
+var labels = {}
+
+function showTable (place,url,vaccine =null) {
+fetch(url)
+.then (response =>response.text())
+.then ((data) => {
+var vaccines = YAML.parse(data)
+
+display = initTable()
+if (vaccine == null) {addAll (display,vaccines,labels)}
+else {addVaccine (display,vaccine,labels[vaccine],vaccines[vaccine])}
+
+place.appendChild(display)
+}
+) }
+
+fetch('https://ivci.org/nuva/nuva_core.csv')
+.then (response => response.text())
+.then ((data) => {
+	labels = csvToNuva(data)
+})
+
+var selector = document.getElementById("base")
+
+fetch('https://api.github.com/repos/EUVABECO/ePIL/contents/data')
+.then (response => response.text())
+.then ((data) => {
+	files = JSON.parse(data)
+	for (file in files) {	
+			if (files[file].name.endsWith('.yml')){
+				option = document.createElement("option")
+				option.value = files[file].download_url
+				option.innerHTML = files[file].name
+				selector.appendChild(option)
+			}
+	}
+})
+var place=document.getElementById("place");
+
+selector.addEventListener('change',function() {
+	place.innerHTML='' 
+	if (this.selectedIndex != 0) {showTable(place,this.value)}})
+	
+</script>
+
+</body>

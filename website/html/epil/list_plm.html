@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ePIL</title>
+<style>
+table {border-collapse: collapse}
+table th,td { border: 1px solid; vertical-align: top; white-space: pre-wrap }
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
+<body>
+<div id ='place'> Loading ...</div>
+
+<script>
+
+fetch('/plm/List')
+.then (response =>response.text())
+.then ((data) => {
+var content=document.createElement("div")
+
+list=JSON.parse(data)
+
+entries = list['entry']
+
+for (var i = 0; i<entries.length;i++) {
+ var resource = entries[i]['resource']
+ head = document.createElement('h2')
+ head.innerHTML = resource['title']
+ content.appendChild(head)
+ table = document.createElement('table')
+ docs = resource['entry']
+ for (var j=0; j<docs.length;j++) {
+   var tr = table.insertRow(-1)
+   var cell = tr.insertCell(-1)
+   label = docs[j]['item']['display']
+   if (!label) { label = "Document "+j}
+   anchor = document.createElement('a')
+   anchor.href = "/view-plm?bid="+docs[j]['item']['reference']
+   anchor.target="_blank"
+   anchor.innerHTML = label
+   cell.innerHTML = ""
+   cell.appendChild(anchor)
+}
+content.appendChild(table)
+
+}
+var place=document.getElementById("place");
+place.innerHTML=""
+place.appendChild(content)
+})
+
+</script>
+
+</body>

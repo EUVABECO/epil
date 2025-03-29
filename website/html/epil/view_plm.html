@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ePIL</title>
+<style>
+</style>
+</head>
+<body>
+<div id ='place'> Loading ...</div>
+
+<script>
+
+function addSection(content, section, level,contained) {
+   head = document.createElement("h"+level)
+   head.innerHTML = section["title"]
+   content.appendChild(head)
+   div = document.createElement("div")
+   text = section["text"]["div"]
+
+	if (contained) {
+	   for (i=0; i < contained.length; i++) {
+		 text = text.replace("#"+contained[i]['id'],"data:"+contained[i]['contentType']+";base64,"+contained[i]['data'])
+	   }
+   }
+   div.innerHTML = text
+   content.appendChild(div)
+   var sections = section['section']
+
+   if (sections) { for (var i = 0; i<sections.length; i++) {
+    addSection(content, sections[i],level+1,contained)
+   }}
+
+}
+const searchParams = new URLSearchParams(window.location.search);
+
+var bid = 'Bundle/c1f70fd0-20f3-ee11-904c-000d3abcf750'
+if (searchParams.has('bid')) { 
+     bid = searchParams.get('bid')
+}
+
+fetch('/plm/'+bid)
+.then (response =>response.text())
+.then ((data) => {
+var content=document.createElement("div")
+
+bundle=JSON.parse(data)
+resource = bundle['entry'][0]['resource']
+console.log(resource)
+
+addSection(content,resource['section'][0],1,resource['contained'])
+
+var place=document.getElementById("place");
+place.innerHTML=""
+place.appendChild(content)
+}
+)
+</script>
+
+</body>

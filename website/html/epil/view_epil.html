@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ePIL</title>
+<style>
+table {border-collapse: collapse; font-family:Arial,sans-serif}
+table th,td { border: 1px solid; vertical-align: top; padding: 5px}
+table tr.header {font-weight:bold}
+table tr.vaccine {background-color: grey; color: white}
+table td:nth-child(3) {text-align:center}
+table td:nth-child(4) {text-align:center}
+</style>
+<script type="text/javascript" src="./dist/yaml.js"></script>
+<script type="text/javascript" src="dist/nuva.js"></script>
+<script type="text/javascript" src="dist/epil.js"></script>
+</head>
+<body>
+<h1 id="title"></h1>
+<p>Usage:</p>
+<ul>
+<li><a href="list_epil" target = "_blank">list_epil</a> for documents for all countries</li>
+<li><a href="view_epil">view_epil</a> for centrally approved vaccines</li>
+<li><a href="view_epil?base=LVA">view_epil?base=LVA</a> for Latvia vaccines</li>
+<li><a href="view_epil?base=BEL&VAC=VAC0001">view_epil?base=BEL&VAC=VAC0001</a> for Belgian documents for ACT-HIB</li>
+</ul>
+<div id ='place'></div>
+
+<script>
+var labels = {}
+
+function showTable (place,url,vaccine =null) {
+fetch(url)
+.then (response =>response.text())
+.then ((data) => {
+var vaccines = YAML.parse(data)
+
+display = initTable()
+if (vaccine == null) {addAll (display,vaccines,labels)}
+else {addVaccine (display,vaccine,labels[vaccine],vaccines[vaccine])}
+
+place.appendChild(display)
+}
+) }
+
+const urlParams = new URLSearchParams(window.location.search)
+let qbase = urlParams.get('base')
+let qvaccine = urlParams.get('VAC')
+if (qbase == null) { qbase = "EUE"}
+if (qvaccine==null) { title.innerHTML=`Vaccines for ${qbase}` }
+else {title.innerHTML = `${qbase} : ${qvaccine}` }
+
+fetch('https://ivci.org/nuva/nuva_core.csv')
+.then (response => response.text())
+.then ((data) => {
+	labels = csvToNuva(data)
+	place.innerHTML='' 
+	showTable(place,`https://raw.githubusercontent.com/EUVABECO/epil/main/data/${qbase}.yml`,qvaccine)
+	
+})
+	
+</script>
+
+</body>
