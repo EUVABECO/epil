@@ -548,6 +548,171 @@ VAC0044:
       sl: https://www.ema.europa.eu/sl/documents/product-information/cervarix-epar-product-information_sl.pdf
       fi: https://www.ema.europa.eu/fi/documents/product-information/cervarix-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/cervarix-epar-product-information_sv.pdf
+VAC0045:
+  1:
+    label: ENGERIX B 10 µg
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sv.pdf
+VAC0046:
+  1:
+    label: ENGERIX B 20 µg
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sv.pdf
+VAC0053:
+  1:
+    label: PRIORIX
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/priorix-article-30-referral-annex-iii_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/priorix-article-30-referral-annex-iii_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/priorix-article-30-referral-annex-iii_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/priorix-article-30-referral-annex-iii_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/priorix-article-30-referral-annex-iii_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/priorix-article-30-referral-annex-iii_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/priorix-article-30-referral-annex-iii_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/priorix-article-30-referral-annex-iii_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/priorix-article-30-referral-annex-iii_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/priorix-article-30-referral-annex-iii_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/priorix-article-30-referral-annex-iii_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/priorix-article-30-referral-annex-iii_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/priorix-article-30-referral-annex-iii_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/priorix-article-30-referral-annex-iii_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/priorix-article-30-referral-annex-iii_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/priorix-article-30-referral-annex-iii_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/priorix-article-30-referral-annex-iii_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/priorix-article-30-referral-annex-iii_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/priorix-article-30-referral-annex-iii_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/priorix-article-30-referral-annex-iii_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/priorix-article-30-referral-annex-iii_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/priorix-article-30-referral-annex-iii_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/priorix-article-30-referral-annex-iii_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/priorix-article-30-referral-annex-iii_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/priorix-article-30-referral-annex-iii_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/priorix-article-30-referral-annex-iii_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/priorix-article-30-referral-annex-iii_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/priorix-article-30-referral-annex-iii_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/priorix-article-30-referral-annex-iii_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/priorix-article-30-referral-annex-iii_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/priorix-article-30-referral-annex-iii_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/priorix-article-30-referral-annex-iii_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/priorix-article-30-referral-annex-iii_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/priorix-article-30-referral-annex-iii_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/priorix-article-30-referral-annex-iii_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/priorix-article-30-referral-annex-iii_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/priorix-article-30-referral-annex-iii_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/priorix-article-30-referral-annex-iii_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/priorix-article-30-referral-annex-iii_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/priorix-article-30-referral-annex-iii_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/priorix-article-30-referral-annex-iii_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/priorix-article-30-referral-annex-iii_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/priorix-article-30-referral-annex-iii_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/priorix-article-30-referral-annex-iii_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/priorix-article-30-referral-annex-iii_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/priorix-article-30-referral-annex-iii_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/priorix-article-30-referral-annex-iii_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/priorix-article-30-referral-annex-iii_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/priorix-article-30-referral-annex-iii_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/priorix-article-30-referral-annex-iii_sv.pdf
 VAC0057:
   1:
     label: TWINRIX ADULTE
@@ -658,6 +823,61 @@ VAC0058:
       sl: https://www.ema.europa.eu/sl/documents/product-information/twinrix-paediatric-epar-product-information_sl.pdf
       fi: https://www.ema.europa.eu/fi/documents/product-information/twinrix-paediatric-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/twinrix-paediatric-epar-product-information_sv.pdf
+VAC0060:
+  1:
+    label: VARILRIX
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/varilrix-article-30-referral-annex-iii_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/varilrix-article-30-referral-annex-iii_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/varilrix-article-30-referral-annex-iii_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/varilrix-article-30-referral-annex-iii_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/varilrix-article-30-referral-annex-iii_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/varilrix-article-30-referral-annex-iii_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/varilrix-article-30-referral-annex-iii_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/varilrix-article-30-referral-annex-iii_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/varilrix-article-30-referral-annex-iii_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/varilrix-article-30-referral-annex-iii_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/varilrix-article-30-referral-annex-iii_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/varilrix-article-30-referral-annex-iii_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/varilrix-article-30-referral-annex-iii_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/varilrix-article-30-referral-annex-iii_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/varilrix-article-30-referral-annex-iii_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/varilrix-article-30-referral-annex-iii_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/varilrix-article-30-referral-annex-iii_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/varilrix-article-30-referral-annex-iii_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/varilrix-article-30-referral-annex-iii_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/varilrix-article-30-referral-annex-iii_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/varilrix-article-30-referral-annex-iii_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/varilrix-article-30-referral-annex-iii_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/varilrix-article-30-referral-annex-iii_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/varilrix-article-30-referral-annex-iii_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/varilrix-article-30-referral-annex-iii_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/varilrix-article-30-referral-annex-iii_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/varilrix-article-30-referral-annex-iii_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/varilrix-article-30-referral-annex-iii_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/varilrix-article-30-referral-annex-iii_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/varilrix-article-30-referral-annex-iii_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/varilrix-article-30-referral-annex-iii_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/varilrix-article-30-referral-annex-iii_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/varilrix-article-30-referral-annex-iii_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/varilrix-article-30-referral-annex-iii_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/varilrix-article-30-referral-annex-iii_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/varilrix-article-30-referral-annex-iii_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/varilrix-article-30-referral-annex-iii_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/varilrix-article-30-referral-annex-iii_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/varilrix-article-30-referral-annex-iii_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/varilrix-article-30-referral-annex-iii_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/varilrix-article-30-referral-annex-iii_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/varilrix-article-30-referral-annex-iii_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/varilrix-article-30-referral-annex-iii_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/varilrix-article-30-referral-annex-iii_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/varilrix-article-30-referral-annex-iii_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/varilrix-article-30-referral-annex-iii_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/varilrix-article-30-referral-annex-iii_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/varilrix-article-30-referral-annex-iii_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/varilrix-article-30-referral-annex-iii_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/varilrix-article-30-referral-annex-iii_sv.pdf
 VAC0073:
   1:
     label: IXIARO
@@ -5608,6 +5828,61 @@ VAC1055:
       sl: https://www.ema.europa.eu/sl/documents/product-information/nuvaxovid-epar-product-information_sl.pdf
       fi: https://www.ema.europa.eu/fi/documents/product-information/nuvaxovid-epar-product-information_fi.pdf
       sv: https://www.ema.europa.eu/sv/documents/product-information/nuvaxovid-epar-product-information_sv.pdf
+VAC1057:
+  1:
+    label: ENGERIX B JUNIOR
+    ePIL:
+      en: https://www.ema.europa.eu/en/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sv.pdf
+    SmPC:
+      en: https://www.ema.europa.eu/en/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_en.pdf
+      bg: https://www.ema.europa.eu/bg/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_bg.pdf
+      es: https://www.ema.europa.eu/es/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_es.pdf
+      cs: https://www.ema.europa.eu/cs/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_cs.pdf
+      da: https://www.ema.europa.eu/da/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_da.pdf
+      de: https://www.ema.europa.eu/de/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_de.pdf
+      et: https://www.ema.europa.eu/et/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_et.pdf
+      el: https://www.ema.europa.eu/el/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_el.pdf
+      fr: https://www.ema.europa.eu/fr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fr.pdf
+      hr: https://www.ema.europa.eu/hr/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hr.pdf
+      is: https://www.ema.europa.eu/is/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_is.pdf
+      it: https://www.ema.europa.eu/it/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_it.pdf
+      lv: https://www.ema.europa.eu/lv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lv.pdf
+      lt: https://www.ema.europa.eu/lt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_lt.pdf
+      hu: https://www.ema.europa.eu/hu/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_hu.pdf
+      mt: https://www.ema.europa.eu/mt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_mt.pdf
+      nl: https://www.ema.europa.eu/nl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_nl.pdf
+      'no': https://www.ema.europa.eu/no/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_no.pdf
+      pl: https://www.ema.europa.eu/pl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pl.pdf
+      pt: https://www.ema.europa.eu/pt/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_pt.pdf
+      ro: https://www.ema.europa.eu/ro/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_ro.pdf
+      sk: https://www.ema.europa.eu/sk/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sk.pdf
+      sl: https://www.ema.europa.eu/sl/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sl.pdf
+      fi: https://www.ema.europa.eu/fi/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_fi.pdf
+      sv: https://www.ema.europa.eu/sv/documents/product-information/engerix-b-article-30-referral-summary-product-characteristics_sv.pdf
 VAC1058:
   1:
     label: SPIKEVAX XBB.1.5 0,1 mg/mL dose 50 µg MODERNA

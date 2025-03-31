@@ -22,87 +22,87 @@ VAC0005:
   1:
     label: Dukoral susp. buv. (susp. + gran. efferv.) sachet flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0005/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0005/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0005/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0005/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0005/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0005/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0005/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0005/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0005/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0005/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0005/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0005/1/SmPC/de
 VAC0007:
   1:
     label: Gardasil susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/de
   2:
     label: Gardasil susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/de
 VAC0009:
   1:
     label: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/de
   2:
     label: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/de
 VAC0010:
   1:
     label: HBVaxPro 40 µg/ml susp. inj. s.c./i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0010/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0010/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0010/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0010/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0010/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0010/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0010/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0010/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0010/1/SmPC/de
 VAC0011:
   1:
     label: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/de
   2:
     label: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/de
 VAC0013:
   1:
     label: Imovax Polio susp. inj. s.c./i.m. ser. préremplie
@@ -117,13 +117,13 @@ VAC0014:
   1:
     label: Infanrix Hexa susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0014/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0014/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0014/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0014/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0014/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0014/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0014/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0014/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0014/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0014/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0014/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0014/1/SmPC/de
 VAC0016:
   1:
     label: Influvac susp. inj. s.c./i.m. ser. préremplie
@@ -138,23 +138,23 @@ VAC0017:
   1:
     label: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/de
   2:
     label: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/de
 VAC0020:
   1:
     label: Menjugate 10 µg susp. inj. i.m. flac.
@@ -208,13 +208,13 @@ VAC0031:
   1:
     label: RotaTeq sol. buv.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0031/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0031/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0031/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0031/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0031/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0031/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0031/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0031/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0031/1/SmPC/de
 VAC0037:
   1:
     label: Tetravac susp. inj. i.m. ser. préremplie
@@ -239,23 +239,23 @@ VAC0044:
   1:
     label: Cervarix susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/de
   2:
     label: Cervarix susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/de
 VAC0046:
   1:
     label: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. flac.
@@ -327,24 +327,24 @@ VAC0057:
   1:
     label: Twinrix Adulte susp. inj. s.c./i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0057/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0057/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0057/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0057/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0057/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0057/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0057/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0057/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0057/1/SmPC/de
 VAC0058:
   1:
     label: Twinrix Enfant susp. inj. s.c./i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0058/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0058/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0058/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0058/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0058/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0058/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0058/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0058/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0058/1/SmPC/de
 VAC0060:
   1:
     label: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. amp. flac.
@@ -388,34 +388,34 @@ VAC0073:
   1:
     label: Ixiaro susp. inj. s.c./i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0073/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0073/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0073/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0073/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0073/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0073/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0073/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0073/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0073/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0073/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0073/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0073/1/SmPC/de
 VAC0083:
   1:
     label: Synflorix susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/de
   2:
     label: Synflorix susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/de
 VAC0121:
   1:
     label: Priorix-Tetra sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
@@ -430,55 +430,55 @@ VAC0123:
   1:
     label: Prevenar 13 susp. inj. i.m. récip. multidos.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/de
   2:
     label: Prevenar 13 susp. inj. i.m. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/de
 VAC0141:
   1:
     label: Menveo sol. inj. (pdr. + solv.) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/de
   2:
     label: Menveo sol. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/de
 VAC0161:
   1:
     label: Zostavax susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0161/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0161/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0161/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0161/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0161/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0161/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0161/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0161/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0161/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0161/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0161/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0161/1/SmPC/de
 VAC0165:
   1:
     label: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. flac.
@@ -521,57 +521,76 @@ VAC0168:
   1:
     label: Ambirix susp. inj. s.c./i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0168/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0168/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0168/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0168/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0168/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0168/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0168/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0168/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0168/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0168/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0168/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0168/1/SmPC/de
 VAC0170:
   1:
     label: Aflunov susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0170/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0170/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0170/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0170/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0170/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0170/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0170/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0170/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0170/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0170/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0170/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0170/1/SmPC/de
 VAC0173:
   1:
     label: Fluenz susp. pulv. nas. flac. pulv.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0173/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0173/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0173/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0173/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0173/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0173/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0173/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0173/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0173/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0173/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0173/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0173/1/SmPC/de
 VAC0174:
   1:
     label: ProQuad susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0174/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0174/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0174/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0174/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0174/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0174/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/de
 VAC0230:
   1:
     label: Fluad susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0230/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0230/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0230/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0230/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0230/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0230/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0230/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0230/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0230/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0230/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0230/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0230/1/SmPC/de
+VAC0336:
+  1:
+    label: Pneumovax 23 sol. inj. s.c./i.m. flac.
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52e91e5c015ab3b20c9f
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc52ea1e5c015ab3b20f02
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc52e81e5c015ab3b209cf
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52eb1e5c015ab3b21164
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc52ec1e5c015ab3b2134d
+  2:
+    label: Pneumovax 23 sol. inj. s.c./i.m. ser. préremplie
+    ePIL:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52f11e5c015ab3b22272
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc52f21e5c015ab3b2268f
+      de: https://app.fagg-afmps.be/pharma-status/api/files/62bc52ef1e5c015ab3b21b7c
+    SmPC:
+      fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52f41e5c015ab3b229ab
+      nl: https://app.fagg-afmps.be/pharma-status/api/files/62bc52f51e5c015ab3b22b6d
 VAC0451:
   1:
     label: Vivotif gél. gastro-résist.
@@ -586,34 +605,34 @@ VAC0472:
   1:
     label: Prepandrix émuls. inj. (émuls. + susp.) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0472/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0472/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0472/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0472/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0472/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0472/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0472/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0472/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0472/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0472/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0472/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0472/1/SmPC/de
 VAC0475:
   1:
     label: Foclivia susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0475/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0475/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0475/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0475/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0475/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0475/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/de
   2:
     label: Foclivia susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0475/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0475/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0475/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0475/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0475/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0475/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/de
 VAC0479:
   1:
     label: Triaxis susp. inj. s.c./i.m. ser. préremplie
@@ -628,173 +647,173 @@ VAC0480:
   1:
     label: Fendrix susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0480/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0480/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0480/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0480/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0480/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0480/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0480/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0480/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0480/1/SmPC/de
 VAC0486:
   1:
     label: Nimenrix sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0486/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0486/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0486/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0486/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0486/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0486/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0486/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0486/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0486/1/SmPC/de
 VAC0495:
   1:
     label: Bexsero susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0495/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0495/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0495/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0495/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0495/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0495/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0495/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0495/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0495/1/SmPC/de
 VAC0507:
   1:
     label: Hexacima susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0507/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0507/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0507/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0507/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0507/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0507/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/de
   2:
     label: Hexacima susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0507/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0507/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0507/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0507/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0507/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0507/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/de
 VAC0510:
   1:
     label: Hexyon susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/de
   2:
     label: Hexyon susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/de
 VAC0514:
   1:
     label: Rotarix susp. buv.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/de
   2:
     label: Rotarix susp. buv. applic. préremplie or.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/de
 VAC0520:
   1:
     label: Imvanex susp. inj. s.c. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0520/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0520/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0520/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0520/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0520/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0520/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0520/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0520/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0520/1/SmPC/de
 VAC0521:
   1:
     label: Fluenz Tetra susp. pulv. nas. flac. pulv.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0521/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0521/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0521/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0521/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0521/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0521/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0521/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0521/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0521/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0521/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0521/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0521/1/SmPC/de
 VAC0523:
   1:
     label: Gardasil 9 susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/de
   2:
     label: Gardasil 9 susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/de
 VAC0535:
   1:
     label: Vaxelis susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0535/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0535/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0535/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0535/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0535/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0535/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0535/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0535/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0535/1/SmPC/de
 VAC0539:
   1:
     label: Dengvaxia susp. inj. (pdr. + solv.) s.c. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/de
   2:
     label: Dengvaxia susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/de
 VAC0541:
   1:
     label: Boostrix susp. inj. i.m. flac.
@@ -855,13 +874,13 @@ VAC0567:
   1:
     label: Shingrix susp. inj. (pdr. + susp.) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0567/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0567/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0567/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0567/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0567/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0567/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0567/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0567/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0567/1/SmPC/de
 VAC0568:
   1:
     label: Boostrix Polio susp. inj. i.m. ser. préremplie
@@ -904,24 +923,24 @@ VAC0582:
   1:
     label: Trumenba susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0582/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0582/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0582/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0582/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0582/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0582/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0582/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0582/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0582/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0582/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0582/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0582/1/SmPC/de
 VAC0586:
   1:
     label: Ervebo sol. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0586/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0586/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0586/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0586/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0586/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0586/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0586/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0586/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0586/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0586/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0586/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0586/1/SmPC/de
 VAC0593:
   1:
     label: Verorab susp. inj. (pdr. + solv.) i.derm./i.m. ser. préremplie flac.
@@ -936,56 +955,56 @@ VAC0595:
   1:
     label: Flucelvax Tetra susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0595/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0595/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0595/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0595/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0595/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0595/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0595/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0595/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0595/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0595/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0595/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0595/1/SmPC/de
 VAC0633:
   1:
     label: Zabdeno susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0633/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0633/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0633/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0633/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0633/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0633/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0633/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0633/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0633/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0633/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0633/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0633/1/SmPC/de
 VAC0634:
   1:
     label: Mvabea susp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0634/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0634/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0634/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0634/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0634/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0634/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0634/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0634/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0634/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0634/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0634/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0634/1/SmPC/de
 VAC0644:
   1:
     label: Qdenga sol. inj. (pdr. + solv.) s.c. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0644/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0644/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0644/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0644/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0644/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0644/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/de
   2:
     label: Qdenga sol. inj. (pdr. + solv.) s.c. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0644/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0644/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0644/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0644/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0644/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0644/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/de
 VAC0649:
   1:
     label: Efluelda Tetra susp. inj. s.c./i.m. ser. préremplie
@@ -1000,56 +1019,56 @@ VAC0656:
   1:
     label: Spikevax 0.2 mg/ml disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0656/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0656/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0656/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0656/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0656/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0656/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0656/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0656/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0656/1/SmPC/de
 VAC0658:
   1:
     label: Comirnaty 30 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/de
   2:
     label: Comirnaty 30 µg/dose disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/de
 VAC0667:
   1:
     label: Nuvaxovid disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0667/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0667/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0667/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0667/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0667/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0667/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0667/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0667/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0667/1/SmPC/de
 VAC0733:
   1:
     label: Heplisav B 20 µg sol. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0733/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0733/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0733/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0733/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0733/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0733/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0733/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0733/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0733/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0733/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0733/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0733/1/SmPC/de
 VAC0736:
   1:
     label: Triaxis Polio 0.5 ml susp. inj. i.m. ser. préremplie
@@ -1074,57 +1093,57 @@ VAC0777:
   1:
     label: Adjupanrix émuls. inj. (émuls. + susp.) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0777/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0777/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0777/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0777/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0777/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0777/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0777/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0777/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0777/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0777/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0777/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0777/1/SmPC/de
 VAC0778:
   1:
     label: Vaxchora pdr. efferv. + susp. buv. (pdr.) sachet
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0778/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0778/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0778/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0778/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0778/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0778/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0778/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0778/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0778/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0778/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0778/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0778/1/SmPC/de
 VAC0780:
   1:
     label: Vaxneuvance susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0780/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0780/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0780/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0780/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0780/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0780/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0780/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0780/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0780/1/SmPC/de
 VAC0833:
   1:
     label: Comirnaty 10 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0833/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0833/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0833/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0833/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0833/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0833/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0833/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0833/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0833/1/SmPC/de
 VAC0836:
   1:
     label: Fluad Tetra susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0836/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0836/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0836/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0836/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0836/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0836/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0836/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0836/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0836/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0836/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0836/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0836/1/SmPC/de
 VAC0850:
   1:
     label: Neisvac-C 10 µg/0.5 ml susp. inj. i.m. ser. préremplie
@@ -1139,35 +1158,35 @@ VAC0871:
   1:
     label: Supemtek Tetra sol. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0871/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0871/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0871/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0871/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0871/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0871/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0871/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0871/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0871/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0871/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0871/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0871/1/SmPC/de
 VAC0900:
   1:
     label: Prevenar 20 susp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0900/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0900/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0900/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0900/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0900/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0900/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0900/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0900/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0900/1/SmPC/de
 VAC0913:
   1:
     label: Bimervax émuls. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0913/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0913/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0913/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0913/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0913/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0913/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0913/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC0913/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC0913/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC0913/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC0913/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC0913/1/SmPC/de
 VAC0990:
   1:
     label: Alpharix susp. inj. i.m. ser. préremplie
@@ -1183,242 +1202,242 @@ VAC1017:
     label: Spikevax Bivalent Original/Omicron BA.1 50 µg/ml - 50 µg/ml disp. inj.
       i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1017/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1017/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1017/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1017/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1017/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1017/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/de
 VAC1019:
   1:
     label: Spikevax 0.1 mg/ml disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1019/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1019/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1019/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1019/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1019/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1019/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1019/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1019/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1019/1/SmPC/de
 VAC1021:
   1:
     label: Comirnaty Original/Omicron BA.1 15 µg/dose - 15 µg/dose disp. inj. i.m.
       flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1021/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1021/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1021/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1021/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1021/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1021/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1021/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1021/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1021/1/SmPC/de
 VAC1022:
   1:
     label: Comirnaty 3 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1022/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1022/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1022/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1022/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1022/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1022/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1022/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1022/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1022/1/SmPC/de
 VAC1023:
   1:
     label: Comirnaty Original/Omicron BA.4-5 15 µg/dose - 15 µg/dose disp. inj. i.m.
       flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1023/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1023/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1023/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1023/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1023/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1023/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1023/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1023/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1023/1/SmPC/de
 VAC1031:
   1:
     label: Spikevax 50 µg disp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1031/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1031/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1031/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1031/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1031/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1031/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1031/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1031/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1031/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1031/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1031/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1031/1/SmPC/de
 VAC1033:
   1:
     label: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. (à diluer)
       i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/de
   2:
     label: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. i.m.
       flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/de
 VAC1036:
   1:
     label: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
       flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/de
   2:
     label: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
       ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/de
 VAC1040:
   1:
     label: Arexvy susp. inj. (pdr. + susp.) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1040/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1040/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1040/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1040/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1040/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1040/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1040/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1040/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1040/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1040/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1040/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1040/1/SmPC/de
 VAC1047:
   1:
     label: Abrysvo sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1047/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1047/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1047/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1047/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1047/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1047/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1047/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1047/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1047/1/SmPC/de
 VAC1051:
   1:
     label: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/de
   2:
     label: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/de
 VAC1052:
   1:
     label: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/de
   2:
     label: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/de
 VAC1053:
   1:
     label: Comirnaty Omicron XBB.1.5 3 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1053/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1053/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1053/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1053/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1053/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1053/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1053/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1053/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1053/1/SmPC/de
 VAC1055:
   1:
     label: Nuvaxovid XBB.1.5 disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1055/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1055/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1055/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1055/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1055/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1055/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1055/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1055/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1055/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1055/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1055/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1055/1/SmPC/de
 VAC1258:
   1:
     label: Comirnaty JN.1 30 µg/dose disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/de
   2:
     label: Comirnaty JN.1 30 µg/dose disp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/de
 VAC1261:
   1:
     label: Nuvaxovid JN.1 disp. inj. i.m. flac.
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1261/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1261/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1261/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1261/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1261/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1261/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1261/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1261/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1261/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1261/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1261/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1261/1/SmPC/de
 VAC1262:
   1:
     label: Mresvia disp. inj. i.m. ser. préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1262/ePIL/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1262/ePIL/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1262/ePIL/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1262/1/ePIL/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1262/1/ePIL/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1262/1/ePIL/de
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1262/SmPC/fr
-      nl: https://epil.euvabeco.eu/EUE/VAC1262/SmPC/nl
-      de: https://epil.euvabeco.eu/EUE/VAC1262/SmPC/de
+      fr: https://epil.euvabeco.eu/EUE/VAC1262/1/SmPC/fr
+      nl: https://epil.euvabeco.eu/EUE/VAC1262/1/SmPC/nl
+      de: https://epil.euvabeco.eu/EUE/VAC1262/1/SmPC/de
