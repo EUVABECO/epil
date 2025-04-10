@@ -1,763 +1,953 @@
 VAC0003:
   1:
-    label: Avaxim 160 U suspensija injekcijai pilnšļircē
+    label:
+      lv: Avaxim 160 U suspensija injekcijai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0193/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0193/smpc
 VAC0005:
   1:
-    label: Dukoral
+    label:
+      lv: Dukoral
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0005/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0005/1/SmPC/lv
 VAC0007:
   1:
-    label: Gardasil
+    label:
+      lv: Gardasil
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/lv
 VAC0009:
   1:
-    label: HBVAXPRO
+    label:
+      lv: HBVAXPRO
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/lv
 VAC0014:
   1:
-    label: Infanrix hexa
+    label:
+      lv: Infanrix hexa
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0014/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0014/1/SmPC/lv
 VAC0016:
   1:
-    label: Influvac suspensija injekcijām
+    label:
+      lv: Influvac suspensija injekcijām
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/24-0156/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/24-0156/smpc
 VAC0017:
   1:
-    label: M-M-RVAXPRO
+    label:
+      lv: M-M-RVAXPRO
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/lv
 VAC0031:
   1:
-    label: RotaTeq
+    label:
+      lv: RotaTeq
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0031/1/SmPC/lv
 VAC0035:
   1:
-    label: Stamaril pulveris un šķīdinātājs injekciju suspensijas pagatavošanai pilnšļircē
+    label:
+      lv: Stamaril pulveris un šķīdinātājs injekciju suspensijas pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0411/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0411/smpc
 VAC0038:
   1:
-    label: TicoVac 0,5 ml suspensija injekcijām pilnšļircē
+    label:
+      lv: TicoVac 0,5 ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0603/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0603/smpc
 VAC0039:
   1:
-    label: TicoVac 0,25 ml suspensija injekcijām pilnšļircē
+    label:
+      lv: TicoVac 0,25 ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0602/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0602/smpc
 VAC0041:
   1:
-    label: Typhim Vi šķīdums injekcijām pilnšļircē
+    label:
+      lv: Typhim Vi šķīdums injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0552/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0552/smpc
   2:
-    label: Typhim Vi šķīdums injekcijām
+    label:
+      lv: Typhim Vi šķīdums injekcijām
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001532/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001532/smpc
 VAC0044:
   1:
-    label: Cervarix
+    label:
+      lv: Cervarix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/lv
 VAC0045:
   1:
-    label: Engerix B 10 mikrogrami/0,5 ml suspensija injekcijām
+    label:
+      lv: Engerix B 10 mikrogrami/0,5 ml suspensija injekcijām
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0216/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0216/smpc
   2:
-    label: Engerix B 10 mikrogrami/0,5 ml suspensija injekcijām pilnšļircēs
+    label:
+      lv: Engerix B 10 mikrogrami/0,5 ml suspensija injekcijām pilnšļircēs
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0007/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0007/smpc
 VAC0046:
   1:
-    label: Engerix B 20 mikrogrami/ml suspensija injekcijām
+    label:
+      lv: Engerix B 20 mikrogrami/ml suspensija injekcijām
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0217/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0217/smpc
   2:
-    label: Engerix B 20 mikrogrami/ml suspensija injekcijām pilnšļircēs
+    label:
+      lv: Engerix B 20 mikrogrami/ml suspensija injekcijām pilnšļircēs
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0249/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0249/smpc
   3:
-    label: Engerix B 20 mikrogrami/1 ml suspensija injekcijām pilnšļircē
+    label:
+      lv: Engerix B 20 mikrogrami/1 ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001604/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001604/smpc
   4:
-    label: Engerix B 20 µg/ml suspensija injekcijām
+    label:
+      lv: Engerix B 20 µg/ml suspensija injekcijām
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001716/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001716/smpc
 VAC0049:
   1:
-    label: Havrix 1440 ELISA vienības/ml suspensija injekcijām pilnšļircē
+    label:
+      lv: Havrix 1440 ELISA vienības/ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0026/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0026/smpc
 VAC0050:
   1:
-    label: Havrix 720 ELISA vienības/0,5 ml suspensija injekcijām pilnšļircē
+    label:
+      lv: Havrix 720 ELISA vienības/0,5 ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/96-0351/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/96-0351/smpc
 VAC0053:
   1:
-    label: Priorix pulveris un šķīdinātājs injekciju šķīduma pagatavošanai pilnšļircē
+    label:
+      lv: Priorix pulveris un šķīdinātājs injekciju šķīduma pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/99-0657/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/99-0657/smpc
 VAC0057:
   1:
-    label: Twinrix Adult
+    label:
+      lv: Twinrix Adult
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0057/1/SmPC/lv
 VAC0058:
   1:
-    label: Twinrix Paediatric
+    label:
+      lv: Twinrix Paediatric
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0058/1/SmPC/lv
 VAC0060:
   1:
-    label: Varilrix pulveris un šķīdinātājs injekciju šķīduma pagatavošanai pilnšļircē
+    label:
+      lv: Varilrix pulveris un šķīdinātājs injekciju šķīduma pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0553/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/97-0553/smpc
 VAC0061:
   1:
-    label: Varivax pulveris un šķīdinātājs injekciju suspensijas pagatavošanai pilnšļircē
+    label:
+      lv: Varivax pulveris un šķīdinātājs injekciju suspensijas pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0364/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0364/smpc
 VAC0062:
   1:
-    label: Vaxigrip suspensija injekcijām pilnšļircē
+    label:
+      lv: Vaxigrip suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/24-0340/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/24-0340/smpc
 VAC0073:
   1:
-    label: Ixiaro
+    label:
+      lv: Ixiaro
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0073/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0073/1/SmPC/lv
 VAC0079:
   1:
-    label: Encepur Children 0,25 ml suspensija injekcijām pilnšļircē
+    label:
+      lv: Encepur Children 0,25 ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/01-0316/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/01-0316/smpc
   2:
-    label: Encepur adults 0,5 ml suspensija injekcijām pilnšļircē
+    label:
+      lv: Encepur adults 0,5 ml suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/98-0661/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/98-0661/smpc
 VAC0083:
   1:
-    label: Synflorix
+    label:
+      lv: Synflorix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/lv
 VAC0121:
   1:
-    label: Priorix-Tetra pulveris un šķīdinātājs injekciju šķīduma pagatavošanai pilnšļircē
+    label:
+      lv: Priorix-Tetra pulveris un šķīdinātājs injekciju šķīduma pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/07-0308/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/07-0308/smpc
 VAC0123:
   1:
-    label: Prevenar 13
+    label:
+      lv: Prevenar 13
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/lv
 VAC0141:
   1:
-    label: Menveo
+    label:
+      lv: Menveo
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/lv
 VAC0161:
   1:
-    label: Zostavax
+    label:
+      lv: Zostavax
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0161/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0161/1/SmPC/lv
 VAC0170:
   1:
-    label: Aflunov
+    label:
+      lv: Aflunov
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0170/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0170/1/SmPC/lv
 VAC0173:
   1:
-    label: Fluenz
+    label:
+      lv: Fluenz
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0173/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0173/1/SmPC/lv
 VAC0174:
   1:
-    label: ProQuad
+    label:
+      lv: ProQuad
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/lv
 VAC0182:
   1:
-    label: Adacel suspensija injekcijām pilnšļircē
+    label:
+      lv: Adacel suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/16-0098/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/16-0098/smpc
 VAC0230:
   1:
-    label: Fluad
+    label:
+      lv: Fluad
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0230/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0230/1/SmPC/lv
 VAC0254:
   1:
-    label: Imovax d.T. Adult suspensija injekcijām pilnšļircē
+    label:
+      lv: Imovax d.T. Adult suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/06-0098/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/06-0098/smpc
 VAC0475:
   1:
-    label: Foclivia
+    label:
+      lv: Foclivia
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0475/1/SmPC/lv
 VAC0480:
   1:
-    label: Fendrix
+    label:
+      lv: Fendrix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0480/1/SmPC/lv
 VAC0486:
   1:
-    label: Nimenrix
+    label:
+      lv: Nimenrix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0486/1/SmPC/lv
 VAC0488:
   1:
-    label: Pentaxim pulveris un suspensija injekciju suspensijas pagatavošanai pilnšļircē
+    label:
+      lv: Pentaxim pulveris un suspensija injekciju suspensijas pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0311/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0311/smpc
 VAC0495:
   1:
-    label: Bexsero
+    label:
+      lv: Bexsero
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0495/1/SmPC/lv
 VAC0507:
   1:
-    label: Hexacima
+    label:
+      lv: Hexacima
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0507/1/SmPC/lv
 VAC0510:
   1:
-    label: Hexyon
+    label:
+      lv: Hexyon
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/lv
 VAC0514:
   1:
-    label: Rotarix
+    label:
+      lv: Rotarix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/lv
 VAC0517:
   1:
-    label: Fluarix Tetra suspensija injekcijām pilnšļircē
+    label:
+      lv: Fluarix Tetra suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/18-0098/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/18-0098/smpc
 VAC0518:
   1:
-    label: Stamaril pulveris un šķīdinātājs injekciju suspensijas pagatavošanai pilnšļircē
+    label:
+      lv: Stamaril pulveris un šķīdinātājs injekciju suspensijas pagatavošanai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001516/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/I001516/smpc
 VAC0520:
   1:
-    label: IMVANEX
+    label:
+      lv: IMVANEX
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0520/1/SmPC/lv
 VAC0521:
   1:
-    label: Fluenz Tetra
+    label:
+      lv: Fluenz Tetra
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0521/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0521/1/SmPC/lv
 VAC0523:
   1:
-    label: Gardasil 9
+    label:
+      lv: Gardasil 9
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/lv
 VAC0535:
   1:
-    label: Vaxelis
+    label:
+      lv: Vaxelis
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0535/1/SmPC/lv
 VAC0539:
   1:
-    label: Dengvaxia
+    label:
+      lv: Dengvaxia
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/lv
 VAC0541:
   1:
-    label: Boostrix suspensija injekcijām pilnšļircē
+    label:
+      lv: Boostrix suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/07-0236/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/07-0236/smpc
 VAC0544:
   1:
-    label: Tetraxim suspensija injekcijai pilnšļircē
+    label:
+      lv: Tetraxim suspensija injekcijai pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0343/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/02-0343/smpc
 VAC0560:
   1:
-    label: VaxigripTetra suspensija injekcijām pilnšļircē
+    label:
+      lv: VaxigripTetra suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/16-0141/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/16-0141/smpc
 VAC0562:
   1:
-    label: Influvac Tetra suspensija injekcijām pilnšļircē
+    label:
+      lv: Influvac Tetra suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/19-0069/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/19-0069/smpc
 VAC0567:
   1:
-    label: Shingrix
+    label:
+      lv: Shingrix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0567/1/SmPC/lv
 VAC0568:
   1:
-    label: Boostrix Polio suspensija injekcijām pilnšļircē
+    label:
+      lv: Boostrix Polio suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/07-0238/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/07-0238/smpc
 VAC0569:
   1:
-    label: Infanrix polio suspensija injekcijām pilnšļircē
+    label:
+      lv: Infanrix polio suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0635/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/05-0635/smpc
 VAC0582:
   1:
-    label: Trumenba
+    label:
+      lv: Trumenba
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0582/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0582/1/SmPC/lv
 VAC0586:
   1:
-    label: Ervebo
+    label:
+      lv: Ervebo
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0586/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0586/1/SmPC/lv
 VAC0590:
   1:
-    label: BCG Vaccine AJVaccines pulveris un šķīdinātājs injekciju suspensijas pagatavošanai
+    label:
+      lv: BCG Vaccine AJVaccines pulveris un šķīdinātājs injekciju suspensijas pagatavošanai
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/95-0281/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/95-0281/smpc
 VAC0593:
   1:
-    label: Verorab pulveris un šķīdinātājs injekciju suspensijas pagatavošanai
+    label:
+      lv: Verorab pulveris un šķīdinātājs injekciju suspensijas pagatavošanai
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/95-0284/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/95-0284/smpc
 VAC0594:
   1:
-    label: MenQuadfi
+    label:
+      lv: MenQuadfi
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0594/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0594/1/SmPC/lv
 VAC0595:
   1:
-    label: Flucelvax Tetra
+    label:
+      lv: Flucelvax Tetra
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0595/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0595/1/SmPC/lv
 VAC0633:
   1:
-    label: ZABDENO
+    label:
+      lv: ZABDENO
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0633/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0633/1/SmPC/lv
 VAC0634:
   1:
-    label: Mvabea
+    label:
+      lv: Mvabea
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0634/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0634/1/SmPC/lv
 VAC0644:
   1:
-    label: Qdenga
+    label:
+      lv: Qdenga
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0644/1/SmPC/lv
 VAC0649:
   1:
-    label: Efluelda Tetra suspensija injekcijām pilnšļircē
+    label:
+      lv: Efluelda Tetra suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/20-0056/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/20-0056/smpc
   2:
-    label: Efluelda suspensija injekcijām pilnšļircē
+    label:
+      lv: Efluelda suspensija injekcijām pilnšļircē
     ePIL:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/24-0311/pil
     SmPC:
       lv: https://dati.zva.gov.lv/zalu-registrs/info/24-0311/smpc
 VAC0658:
   1:
-    label: Comirnaty
+    label:
+      lv: Comirnaty
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/lv
 VAC0667:
   1:
-    label: Nuvaxovid
+    label:
+      lv: Nuvaxovid
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0667/1/SmPC/lv
 VAC0733:
   1:
-    label: Heplisav B
+    label:
+      lv: Heplisav B
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0733/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0733/1/SmPC/lv
 VAC0777:
   1:
-    label: Adjupanrix
+    label:
+      lv: Adjupanrix
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0777/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0777/1/SmPC/lv
 VAC0778:
   1:
-    label: Vaxchora
+    label:
+      lv: Vaxchora
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0778/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0778/1/SmPC/lv
 VAC0780:
   1:
-    label: Vaxneuvance
+    label:
+      lv: Vaxneuvance
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0780/1/SmPC/lv
 VAC0833:
   1:
-    label: Comirnaty
+    label:
+      lv: Comirnaty
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0833/1/SmPC/lv
 VAC0836:
   1:
-    label: Fluad Tetra
+    label:
+      lv: Fluad Tetra
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0836/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0836/1/SmPC/lv
 VAC0871:
   1:
-    label: Supemtek
+    label:
+      lv: Supemtek
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0871/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0871/1/SmPC/lv
 VAC0875:
   1:
-    label: Pandemic influenza vaccine H5N1 AstraZeneca
+    label:
+      lv: Pandemic influenza vaccine H5N1 AstraZeneca
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0875/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0875/1/SmPC/lv
 VAC0900:
   1:
-    label: Prevenar 20
+    label:
+      lv: Prevenar 20
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0900/1/SmPC/lv
 VAC0913:
   1:
-    label: Bimervax
+    label:
+      lv: Bimervax
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0913/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0913/1/SmPC/lv
 VAC0926:
   1:
-    label: Flucelvax
+    label:
+      lv: Flucelvax
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0926/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0926/1/SmPC/lv
 VAC0939:
   1:
-    label: PreHevbri
+    label:
+      lv: PreHevbri
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC0939/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC0939/1/SmPC/lv
 VAC1017:
   1:
-    label: Spikevax bivalent Original/Omicron BA.1
+    label:
+      lv: Spikevax bivalent Original/Omicron BA.1
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/lv
 VAC1019:
   1:
-    label: Spikevax (iepriekš COVID-19 Vaccine Moderna)
+    label:
+      lv: Spikevax (iepriekš COVID-19 Vaccine Moderna)
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1019/1/SmPC/lv
 VAC1021:
   1:
-    label: COMIRNATY Original/Omicron BA.1
+    label:
+      lv: COMIRNATY Original/Omicron BA.1
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1021/1/SmPC/lv
 VAC1022:
   1:
-    label: Comirnaty
+    label:
+      lv: Comirnaty
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1022/1/SmPC/lv
 VAC1023:
   1:
-    label: COMIRNATY Original/Omicron BA.4-5
+    label:
+      lv: COMIRNATY Original/Omicron BA.4-5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1023/1/SmPC/lv
 VAC1024:
   1:
-    label: Spikevax bivalent Original/Omicron BA.4-5
+    label:
+      lv: Spikevax bivalent Original/Omicron BA.4-5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1024/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1024/1/SmPC/lv
 VAC1033:
   1:
-    label: COMIRNATY Original/Omicron BA.4-5
+    label:
+      lv: COMIRNATY Original/Omicron BA.4-5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/lv
+VAC1036:
+  1:
+    label:
+      lv: Spikevax bivalent Original/Omicron BA.4-5
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/lv
 VAC1047:
   1:
-    label: Abrysvo
+    label:
+      lv: Abrysvo
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1047/1/SmPC/lv
 VAC1051:
   1:
-    label: Comirnaty Omicron XBB.1.5
+    label:
+      lv: Comirnaty Omicron XBB.1.5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/lv
 VAC1052:
   1:
-    label: Comirnaty Omicron XBB.1.5
+    label:
+      lv: Comirnaty Omicron XBB.1.5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/lv
 VAC1053:
   1:
-    label: Comirnaty Omicron XBB.1.5
+    label:
+      lv: Comirnaty Omicron XBB.1.5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1053/1/SmPC/lv
 VAC1054:
   1:
-    label: COMIRNATY Original/Omicron BA.4-5
+    label:
+      lv: COMIRNATY Original/Omicron BA.4-5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1054/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1054/1/SmPC/lv
 VAC1055:
   1:
-    label: Nuvaxovid XBB.1.5
+    label:
+      lv: Nuvaxovid XBB.1.5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1055/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1055/1/SmPC/lv
 VAC1058:
   1:
-    label: Spikevax XBB.1.5
+    label:
+      lv: Spikevax XBB.1.5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1058/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1058/1/SmPC/lv
 VAC1060:
   1:
-    label: Spikevax XBB.1.5
+    label:
+      lv: Spikevax XBB.1.5
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1060/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1060/1/SmPC/lv
 VAC1061:
   1:
-    label: Penbraya
+    label:
+      lv: Penbraya
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1061/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1061/1/SmPC/lv
 VAC1258:
   1:
-    label: Comirnaty JN.1
+    label:
+      lv: Comirnaty JN.1
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/lv
 VAC1259:
   1:
-    label: Comirnaty JN.1
+    label:
+      lv: Comirnaty JN.1
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1259/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1259/1/SmPC/lv
 VAC1262:
   1:
-    label: mRESVIA
+    label:
+      lv: mRESVIA
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1262/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1262/1/SmPC/lv
 VAC1268:
   1:
-    label: Spikevax JN.1
+    label:
+      lv: Spikevax JN.1
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1268/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1268/1/SmPC/lv
 VAC1270:
   1:
-    label: Spikevax JN.1
+    label:
+      lv: Spikevax JN.1
     ePIL:
       lv: https://epil.euvabeco.eu/EUE/VAC1270/1/ePIL/lv
     SmPC:
       lv: https://epil.euvabeco.eu/EUE/VAC1270/1/SmPC/lv
+VAC1331:
+  1:
+    label:
+      lv: Celldemic
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1331/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1331/1/SmPC/lv
+VAC1332:
+  1:
+    label:
+      lv: Comirnaty KP.2
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1332/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1332/1/SmPC/lv
+VAC1333:
+  1:
+    label:
+      lv: Comirnaty KP.2
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1333/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1333/1/SmPC/lv
+VAC1334:
+  1:
+    label:
+      lv: Comirnaty KP.2
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1334/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1334/1/SmPC/lv
+VAC1335:
+  1:
+    label:
+      lv: Incellipan
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1335/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1335/1/SmPC/lv
+VAC1336:
+  1:
+    label:
+      lv: Kostaive
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1336/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1336/1/SmPC/lv
+VAC1338:
+  1:
+    label:
+      lv: Zoonotic Influenza Vaccine Seqirus
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1338/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1338/1/SmPC/lv
+VAC1339:
+  1:
+    label:
+      lv: Bimervax XBB.1.16
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1339/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1339/1/SmPC/lv
+VAC1340:
+  1:
+    label:
+      lv: Spikevax bivalent Original/Omicron BA.1
+    ePIL:
+      lv: https://epil.euvabeco.eu/EUE/VAC1340/1/ePIL/lv
+    SmPC:
+      lv: https://epil.euvabeco.eu/EUE/VAC1340/1/SmPC/lv

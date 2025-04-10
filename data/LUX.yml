@@ -1,15 +1,19 @@
 VAC0001:
   1:
-    label: ACT-HIB
+    label:
+      fr: ACT-HIB
+      de: ACT-HIB
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0001/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0001/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0001/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0001/1/SmPC/de
 VAC0009:
   1:
-    label: HBVAXPRO 10 µg
+    label:
+      fr: HBVAXPRO 10 µg
+      pt: HBVAXPRO 10 µg
+      de: HBVAXPRO 10 µg
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
@@ -20,7 +24,10 @@ VAC0009:
       de: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/de
 VAC0010:
   1:
-    label: HBVAXPRO 40 µg
+    label:
+      fr: HBVAXPRO 40 µg
+      pt: HBVAXPRO 40 µg
+      de: HBVAXPRO 40 µg
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/fr
@@ -31,16 +38,20 @@ VAC0010:
       de: https://epil.euvabeco.eu/EUE/VAC0010/1/SmPC/de
 VAC0013:
   1:
-    label: IMOVAX POLIO
+    label:
+      fr: IMOVAX POLIO
+      de: IMOVAX POLIO
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0013/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0013/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0013/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0013/1/SmPC/de
 VAC0017:
   1:
-    label: M-M-RVAXPRO
+    label:
+      fr: M-M-RVAXPRO
+      pt: M-M-RVAXPRO
+      de: M-M-RVAXPRO
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
@@ -51,21 +62,26 @@ VAC0017:
       de: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/de
 VAC0023:
   1:
-    label: PENTAVAC
+    label:
+      fr: PENTAVAC
     ePIL:
       fr: https://epil.euvabeco.eu/FRA/VAC0023/1/ePIL/fr
     SmPC:
       fr: https://epil.euvabeco.eu/FRA/VAC0023/1/SmPC/fr
 VAC0029:
   1:
-    label: REPEVAX
+    label:
+      fr: REPEVAX
     ePIL:
       fr: https://epil.euvabeco.eu/FRA/VAC0029/1/ePIL/fr
     SmPC:
       fr: https://epil.euvabeco.eu/FRA/VAC0029/1/SmPC/fr
 VAC0031:
   1:
-    label: ROTATEQ
+    label:
+      fr: ROTATEQ
+      pt: ROTATEQ
+      de: ROTATEQ
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/fr
@@ -76,16 +92,20 @@ VAC0031:
       de: https://epil.euvabeco.eu/EUE/VAC0031/1/SmPC/de
 VAC0046:
   1:
-    label: ENGERIX B 20 µg
+    label:
+      fr: ENGERIX B 20 µg
+      de: ENGERIX B 20 µg
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0046/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0046/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0046/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0046/1/SmPC/de
 VAC0053:
   1:
-    label: PRIORIX
+    label:
+      fr: PRIORIX
+      pt: PRIORIX
+      de: PRIORIX
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0053/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0053/1/ePIL/fr
@@ -96,7 +116,10 @@ VAC0053:
       de: https://epil.euvabeco.eu/EUE/VAC0053/1/SmPC/de
 VAC0060:
   1:
-    label: VARILRIX
+    label:
+      fr: VARILRIX
+      pt: VARILRIX
+      de: VARILRIX
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0060/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0060/1/ePIL/fr
@@ -107,7 +130,10 @@ VAC0060:
       de: https://epil.euvabeco.eu/EUE/VAC0060/1/SmPC/de
 VAC0123:
   1:
-    label: PREVENAR 13
+    label:
+      fr: PREVENAR 13
+      pt: PREVENAR 13
+      de: PREVENAR 13
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/fr
@@ -118,7 +144,10 @@ VAC0123:
       de: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/de
 VAC0174:
   1:
-    label: PROQUAD
+    label:
+      fr: PROQUAD
+      pt: PROQUAD
+      de: PROQUAD
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/fr
@@ -129,25 +158,30 @@ VAC0174:
       de: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/de
 VAC0336:
   1:
-    label: PNEUMOVAX
+    label:
+      fr: PNEUMOVAX
+      de: PNEUMOVAX
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0336/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0336/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0336/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0336/1/SmPC/de
 VAC0479:
   1:
-    label: TRIAXIS
+    label:
+      fr: TRIAXIS
+      de: TRIAXIS
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0479/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0479/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0479/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0479/1/SmPC/de
 VAC0480:
   1:
-    label: FENDRIX
+    label:
+      fr: FENDRIX
+      pt: FENDRIX
+      de: FENDRIX
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/fr
@@ -158,7 +192,10 @@ VAC0480:
       de: https://epil.euvabeco.eu/EUE/VAC0480/1/SmPC/de
 VAC0486:
   1:
-    label: NIMENRIX
+    label:
+      fr: NIMENRIX
+      pt: NIMENRIX
+      de: NIMENRIX
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/fr
@@ -169,14 +206,18 @@ VAC0486:
       de: https://epil.euvabeco.eu/EUE/VAC0486/1/SmPC/de
 VAC0488:
   1:
-    label: PENTAXIM
+    label:
+      fr: PENTAXIM
     ePIL:
       fr: https://epil.euvabeco.eu/FRA/VAC0488/1/ePIL/fr
     SmPC:
       fr: https://epil.euvabeco.eu/FRA/VAC0488/1/SmPC/fr
 VAC0495:
   1:
-    label: BEXSERO
+    label:
+      fr: BEXSERO
+      pt: BEXSERO
+      de: BEXSERO
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/fr
@@ -187,7 +228,10 @@ VAC0495:
       de: https://epil.euvabeco.eu/EUE/VAC0495/1/SmPC/de
 VAC0510:
   1:
-    label: HEXYON
+    label:
+      fr: HEXYON
+      pt: HEXYON
+      de: HEXYON
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
@@ -198,7 +242,10 @@ VAC0510:
       de: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/de
 VAC0520:
   1:
-    label: IMVANEX
+    label:
+      fr: IMVANEX
+      pt: IMVANEX
+      de: IMVANEX
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/fr
@@ -209,7 +256,10 @@ VAC0520:
       de: https://epil.euvabeco.eu/EUE/VAC0520/1/SmPC/de
 VAC0523:
   1:
-    label: GARDASIL 9
+    label:
+      fr: GARDASIL 9
+      pt: GARDASIL 9
+      de: GARDASIL 9
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
@@ -220,7 +270,10 @@ VAC0523:
       de: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/de
 VAC0535:
   1:
-    label: VAXELIS
+    label:
+      fr: VAXELIS
+      pt: VAXELIS
+      de: VAXELIS
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/fr
@@ -231,43 +284,50 @@ VAC0535:
       de: https://epil.euvabeco.eu/EUE/VAC0535/1/SmPC/de
 VAC0541:
   1:
-    label: BOOSTRIX
+    label:
+      fr: BOOSTRIX
+      de: BOOSTRIX
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0541/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0541/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0541/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0541/1/SmPC/de
 VAC0560:
   1:
-    label: VAXIGRIPTETRA
+    label:
+      fr: VAXIGRIPTETRA
+      de: VAXIGRIPTETRA
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0560/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0560/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0560/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0560/1/SmPC/de
 VAC0562:
   1:
-    label: INFLUVAC TETRA
+    label:
+      fr: INFLUVAC TETRA
+      de: INFLUVAC TETRA
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0562/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0562/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0562/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0562/1/SmPC/de
 VAC0563:
   1:
-    label: ALPHA-RIX-TETRA
+    label:
+      fr: ALPHA-RIX-TETRA
+      de: ALPHA-RIX-TETRA
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0563/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0563/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0563/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0563/1/SmPC/de
 VAC0567:
   1:
-    label: SHINGRIX
+    label:
+      fr: SHINGRIX
+      pt: SHINGRIX
+      de: SHINGRIX
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/fr
@@ -278,16 +338,20 @@ VAC0567:
       de: https://epil.euvabeco.eu/EUE/VAC0567/1/SmPC/de
 VAC0568:
   1:
-    label: BOOSTRIX-POLIO
+    label:
+      fr: BOOSTRIX-POLIO
+      de: BOOSTRIX-POLIO
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0568/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0568/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0568/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0568/1/SmPC/de
 VAC0650:
   1:
-    label: VAXZEVRIA ASTRAZENECA
+    label:
+      fr: VAXZEVRIA ASTRAZENECA
+      pt: VAXZEVRIA ASTRAZENECA
+      de: VAXZEVRIA ASTRAZENECA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0650/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0650/1/ePIL/fr
@@ -298,7 +362,10 @@ VAC0650:
       de: https://epil.euvabeco.eu/EUE/VAC0650/1/SmPC/de
 VAC0656:
   1:
-    label: SPIKEVAX 0,2 mg/mL MODERNA
+    label:
+      fr: SPIKEVAX 0,2 mg/mL MODERNA
+      pt: SPIKEVAX 0,2 mg/mL MODERNA
+      de: SPIKEVAX 0,2 mg/mL MODERNA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/fr
@@ -309,7 +376,10 @@ VAC0656:
       de: https://epil.euvabeco.eu/EUE/VAC0656/1/SmPC/de
 VAC0658:
   1:
-    label: COMIRNATY 30 µg BIONTECH-PFIZER
+    label:
+      fr: COMIRNATY 30 µg BIONTECH-PFIZER
+      pt: COMIRNATY 30 µg BIONTECH-PFIZER
+      de: COMIRNATY 30 µg BIONTECH-PFIZER
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
@@ -320,7 +390,10 @@ VAC0658:
       de: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/de
 VAC0666:
   1:
-    label: JCOVDEN - COVID-19 VACCINE JANSSEN
+    label:
+      fr: JCOVDEN
+      pt: JCOVDEN
+      de: JCOVDEN
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0666/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0666/1/ePIL/fr
@@ -331,7 +404,10 @@ VAC0666:
       de: https://epil.euvabeco.eu/EUE/VAC0666/1/SmPC/de
 VAC0667:
   1:
-    label: NUVAXOVID
+    label:
+      fr: NUVAXOVID
+      pt: NUVAXOVID
+      de: NUVAXOVID
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/fr
@@ -342,16 +418,20 @@ VAC0667:
       de: https://epil.euvabeco.eu/EUE/VAC0667/1/SmPC/de
 VAC0736:
   1:
-    label: TRIAXIS POLIO
+    label:
+      fr: TRIAXIS POLIO
+      de: TRIAXIS POLIO
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0736/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0736/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0736/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0736/1/SmPC/de
 VAC0780:
   1:
-    label: VAXNEUVANCE
+    label:
+      fr: VAXNEUVANCE
+      pt: VAXNEUVANCE
+      de: VAXNEUVANCE
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/fr
@@ -362,7 +442,10 @@ VAC0780:
       de: https://epil.euvabeco.eu/EUE/VAC0780/1/SmPC/de
 VAC0833:
   1:
-    label: COMIRNATY 10 µg ENFANT 5-11 ANS BIONTECH-PFIZER
+    label:
+      fr: COMIRNATY 10 µg ENFANT 5-11 ANS BIONTECH-PFIZER
+      pt: COMIRNATY 10 µg ENFANT 5-11 ANS BIONTECH-PFIZER
+      de: COMIRNATY 10 µg ENFANT 5-11 ANS BIONTECH-PFIZER
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/fr
@@ -373,16 +456,20 @@ VAC0833:
       de: https://epil.euvabeco.eu/EUE/VAC0833/1/SmPC/de
 VAC0850:
   1:
-    label: NEISVAC-C
+    label:
+      fr: NEISVAC-C
+      de: NEISVAC-C
     ePIL:
       fr: https://epil.euvabeco.eu/BEL/VAC0850/1/ePIL/fr
       de: https://epil.euvabeco.eu/BEL/VAC0850/1/ePIL/de
     SmPC:
       fr: https://epil.euvabeco.eu/BEL/VAC0850/1/SmPC/fr
-      de: https://epil.euvabeco.eu/BEL/VAC0850/1/SmPC/de
 VAC0900:
   1:
-    label: PREVENAR 20
+    label:
+      fr: PREVENAR 20
+      pt: PREVENAR 20
+      de: PREVENAR 20
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/fr
@@ -393,7 +480,10 @@ VAC0900:
       de: https://epil.euvabeco.eu/EUE/VAC0900/1/SmPC/de
 VAC1017:
   1:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MULTIDOSE MODERNA
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MULTIDOSE MODERNA
+      pt: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MULTIDOSE MODERNA
+      de: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MULTIDOSE MODERNA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/fr
@@ -404,7 +494,10 @@ VAC1017:
       de: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/de
 VAC1019:
   1:
-    label: SPIKEVAX 0,1 mg/mL MODERNA
+    label:
+      fr: SPIKEVAX 0,1 mg/mL MODERNA
+      pt: SPIKEVAX 0,1 mg/mL MODERNA
+      de: SPIKEVAX 0,1 mg/mL MODERNA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/fr
@@ -415,7 +508,10 @@ VAC1019:
       de: https://epil.euvabeco.eu/EUE/VAC1019/1/SmPC/de
 VAC1021:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
+      pt: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
+      de: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/fr
@@ -426,7 +522,10 @@ VAC1021:
       de: https://epil.euvabeco.eu/EUE/VAC1021/1/SmPC/de
 VAC1022:
   1:
-    label: COMIRNATY 3 µg 6 MOIS-4 ANS BIONTECH-PFIZER
+    label:
+      fr: COMIRNATY 3 µg 6 MOIS-4 ANS BIONTECH-PFIZER
+      pt: COMIRNATY 3 µg 6 MOIS-4 ANS BIONTECH-PFIZER
+      de: COMIRNATY 3 µg 6 MOIS-4 ANS BIONTECH-PFIZER
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/fr
@@ -437,7 +536,10 @@ VAC1022:
       de: https://epil.euvabeco.eu/EUE/VAC1022/1/SmPC/de
 VAC1023:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
+      pt: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
+      de: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/fr
@@ -448,7 +550,10 @@ VAC1023:
       de: https://epil.euvabeco.eu/EUE/VAC1023/1/SmPC/de
 VAC1024:
   1:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA
+      pt: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA
+      de: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1024/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1024/1/ePIL/fr
@@ -459,7 +564,10 @@ VAC1024:
       de: https://epil.euvabeco.eu/EUE/VAC1024/1/SmPC/de
 VAC1032:
   1:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA
+      pt: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA
+      de: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1032/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1032/1/ePIL/fr
@@ -470,7 +578,10 @@ VAC1032:
       de: https://epil.euvabeco.eu/EUE/VAC1032/1/SmPC/de
 VAC1033:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) ENFANT 5-11 ANS BIONTECH-PFIZER
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) ENFANT 5-11 ANS BIONTECH-PFIZER
+      pt: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) ENFANT 5-11 ANS BIONTECH-PFIZER
+      de: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) ENFANT 5-11 ANS BIONTECH-PFIZER
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/fr
@@ -481,7 +592,10 @@ VAC1033:
       de: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/de
 VAC1036:
   1:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
+      pt: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
+      de: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/fr
@@ -492,7 +606,10 @@ VAC1036:
       de: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/de
 VAC1046:
   1:
-    label: BEYFORTUS 50 mg (nirsevimab)
+    label:
+      fr: BEYFORTUS 50 mg (nirsevimab)
+      pt: BEYFORTUS 50 mg (nirsevimab)
+      de: BEYFORTUS 50 mg (nirsevimab)
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1046/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1046/1/ePIL/fr
@@ -503,7 +620,10 @@ VAC1046:
       de: https://epil.euvabeco.eu/EUE/VAC1046/1/SmPC/de
 VAC1047:
   1:
-    label: ABRYSVO
+    label:
+      fr: ABRYSVO
+      pt: ABRYSVO
+      de: ABRYSVO
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/fr
@@ -514,7 +634,10 @@ VAC1047:
       de: https://epil.euvabeco.eu/EUE/VAC1047/1/SmPC/de
 VAC1050:
   1:
-    label: BEYFORTUS 100 mg (nirsevimab)
+    label:
+      fr: BEYFORTUS 100 mg (nirsevimab)
+      pt: BEYFORTUS 100 mg (nirsevimab)
+      de: BEYFORTUS 100 mg (nirsevimab)
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1050/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1050/1/ePIL/fr
@@ -525,7 +648,10 @@ VAC1050:
       de: https://epil.euvabeco.eu/EUE/VAC1050/1/SmPC/de
 VAC1051:
   1:
-    label: PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)
+    label:
+      fr: PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)
+      pt: PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)
+      de: PFIZER COMIRNATY-30 XBB.1.5 ADULTE (+ 12 ANS)
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
@@ -536,7 +662,10 @@ VAC1051:
       de: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/de
 VAC1052:
   1:
-    label: PFIZER COMIRNATY-10 XBB.1.5 ENFANT (5-11 ANS)
+    label:
+      fr: PFIZER COMIRNATY-10 XBB.1.5 ENFANT (5-11 ANS)
+      pt: PFIZER COMIRNATY-10 XBB.1.5 ENFANT (5-11 ANS)
+      de: PFIZER COMIRNATY-10 XBB.1.5 ENFANT (5-11 ANS)
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
@@ -547,7 +676,10 @@ VAC1052:
       de: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/de
 VAC1053:
   1:
-    label: PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)
+    label:
+      fr: PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)
+      pt: PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)
+      de: PFIZER COMIRNATY-3 XBB.1.5 ENFANT (6 MOIS-4 ANS)
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/fr
@@ -558,7 +690,10 @@ VAC1053:
       de: https://epil.euvabeco.eu/EUE/VAC1053/1/SmPC/de
 VAC1054:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg) ENFANT 6 MOIS-4 ANS
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg) ENFANT 6 MOIS-4 ANS
+      pt: COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg) ENFANT 6 MOIS-4 ANS
+      de: COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg) ENFANT 6 MOIS-4 ANS
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1054/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1054/1/ePIL/fr
@@ -569,7 +704,10 @@ VAC1054:
       de: https://epil.euvabeco.eu/EUE/VAC1054/1/SmPC/de
 VAC1057:
   1:
-    label: ENGERIX B JUNIOR
+    label:
+      fr: ENGERIX B JUNIOR
+      pt: ENGERIX B JUNIOR
+      de: ENGERIX B JUNIOR
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1057/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1057/1/ePIL/fr
@@ -580,7 +718,10 @@ VAC1057:
       de: https://epil.euvabeco.eu/EUE/VAC1057/1/SmPC/de
 VAC1260:
   1:
-    label: COMIRNATY JN.1 3 µg ENFANT (6 MOIS-4 ANS)
+    label:
+      fr: COMIRNATY JN.1 3 µg ENFANT (6 MOIS-4 ANS)
+      pt: COMIRNATY JN.1 3 µg ENFANT (6 MOIS-4 ANS)
+      de: COMIRNATY JN.1 3 µg ENFANT (6 MOIS-4 ANS)
     ePIL:
       pt: https://epil.euvabeco.eu/EUE/VAC1260/1/ePIL/pt
       fr: https://epil.euvabeco.eu/EUE/VAC1260/1/ePIL/fr

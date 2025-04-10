@@ -1,1730 +1,1950 @@
 VAC0001:
   1:
-    label: ACT-HIB 10 microgrammes/0,5 mL, poudre et solvant pour solution injectable
-      en seringue préremplie. Vaccin conjugué de l'Haemophilus type b
+    label:
+      fr: ACT-HIB 10 microgrammes/0,5 mL, poudre et solvant pour solution injectable
+        en seringue préremplie. Vaccin conjugué de l'Haemophilus type b
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429919.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429919.htm
   2:
-    label: ACT-HIB 10 microgrammes/0,5 ml, poudre et solvant pour solution injectable
-      en flacon multidose. Vaccin conjugué de l'Haemophilus type b
+    label:
+      fr: ACT-HIB 10 microgrammes/0,5 ml, poudre et solvant pour solution injectable
+        en flacon multidose. Vaccin conjugué de l'Haemophilus type b
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0258686.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0258686.htm
 VAC0002:
   1:
-    label: AGRIPPAL, suspension injectable en seringue préremplie. Vaccin grippal
-      inactivé (antigènes de surface)
+    label:
+      fr: AGRIPPAL, suspension injectable en seringue préremplie. Vaccin grippal inactivé
+        (antigènes de surface)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0309397.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0309397.htm
 VAC0003:
   1:
-    label: AVAXIM 160 U, suspension injectable en seringue préremplie. Vaccin de l'hépatite
-      A (inactivé, adsorbé)
+    label:
+      fr: AVAXIM 160 U, suspension injectable en seringue préremplie. Vaccin de l'hépatite
+        A (inactivé, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429932.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429932.htm
 VAC0004:
   1:
-    label: DT POLIO MERIEUX, suspension injectable
+    label:
+      fr: DT POLIO MERIEUX, suspension injectable
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0169553.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0169553.htm
 VAC0005:
   1:
-    label: DUKORAL, suspension et poudre effervescente pour suspension buvable.Vaccin
-      du choléra (inactivé, buvable)
+    label:
+      fr: DUKORAL, suspension et poudre effervescente pour suspension buvable.Vaccin
+        du choléra (inactivé, buvable)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0005/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0005/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0005/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0005/1/SmPC/fr
 VAC0006:
   1:
-    label: FLUVIRINE, suspension injectable en seringue pré-remplie. Vaccin grippal
-      inactivé à antigènes de surface
+    label:
+      fr: FLUVIRINE, suspension injectable en seringue pré-remplie. Vaccin grippal
+        inactivé à antigènes de surface
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0134381.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0134381.htm
 VAC0007:
   1:
-    label: GARDASIL, suspension injectable en seringue préremplie. Vaccin Papillomavirus
-      Humain [Types 6, 11, 16, 18] (Recombinant, adsorbé)
+    label:
+      fr: GARDASIL, suspension injectable en seringue préremplie. Vaccin Papillomavirus
+        Humain [Types 6, 11, 16, 18] (Recombinant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/fr
   2:
-    label: GARDASIL, suspension injectable. Vaccin Papillomavirus Humain [Types 6,
-      11, 16, 18] (Recombinant, adsorbé)
+    label:
+      fr: GARDASIL, suspension injectable. Vaccin Papillomavirus Humain [Types 6,
+        11, 16, 18] (Recombinant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0007/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0007/1/SmPC/fr
 VAC0008:
   1:
-    label: GRIPGUARD, suspension injectable en seringue préremplie, vaccin grippal
-      inactivé à antigènes de surface avec adjuvant MF59C.1
+    label:
+      fr: GRIPGUARD, suspension injectable en seringue préremplie, vaccin grippal
+        inactivé à antigènes de surface avec adjuvant MF59C.1
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0245933.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0245933.htm
 VAC0009:
   1:
-    label: HBVAXPRO 10 microgrammes, suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite B (ADNr)
+    label:
+      fr: HBVAXPRO 10 microgrammes, suspension injectable en seringue préremplie.
+        Vaccin de l'hépatite B (ADNr)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/fr
   2:
-    label: HBVAXPRO 10 microgrammes, suspension injectable. Vaccin de l'hépatite B
-      (ADNr)
+    label:
+      fr: HBVAXPRO 10 microgrammes, suspension injectable. Vaccin de l'hépatite B
+        (ADNr)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0009/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0009/1/SmPC/fr
 VAC0010:
   1:
-    label: HBVAXPRO 40 microgrammes, suspension injectable. Vaccin de l'hépatite B
-      (ADNr)
+    label:
+      fr: HBVAXPRO 40 microgrammes, suspension injectable. Vaccin de l'hépatite B
+        (ADNr)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0010/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0010/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0010/1/SmPC/fr
 VAC0011:
   1:
-    label: HBVAXPRO 5 microgrammes, suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite B (ADNr)
+    label:
+      fr: HBVAXPRO 5 microgrammes, suspension injectable en seringue préremplie. Vaccin
+        de l'hépatite B (ADNr)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/fr
   2:
-    label: HBVAXPRO 5 microgrammes, suspension injectable. Vaccin de l'hépatite B
-      (ADNr)
+    label:
+      fr: HBVAXPRO 5 microgrammes, suspension injectable. Vaccin de l'hépatite B (ADNr)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0011/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0011/1/SmPC/fr
 VAC0012:
   1:
-    label: IMMUGRIP, suspension injectable en seringue préremplie. Vaccin grippal
-      (inactivé, à virion fragmenté)
+    label:
+      fr: IMMUGRIP, suspension injectable en seringue préremplie. Vaccin grippal (inactivé,
+        à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0307936.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0307936.htm
 VAC0013:
   1:
-    label: IMOVAX POLIO, suspension injectable en multidose. Vaccin poliomyélitique
-      (inactivé)
+    label:
+      fr: IMOVAX POLIO, suspension injectable en multidose. Vaccin poliomyélitique
+        (inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429922.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429922.htm
   2:
-    label: IMOVAX POLIO, suspension injectable en seringue préremplie. Vaccin poliomyélitique
-      (inactivé)
+    label:
+      fr: IMOVAX POLIO, suspension injectable en seringue préremplie. Vaccin poliomyélitique
+        (inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429923.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429923.htm
 VAC0014:
   1:
-    label: INFANRIX hexa, poudre et suspension pour suspension injectable en seringue
-      préremplie. Vaccin diphtérique(D), tétanique(T), coquelucheux (acellulaire,
-      multicomposé)(Ca), de l'hépatite B (ADNr)(HepB), poliomyélitique(inactivé)(P)
-      et de l'Haemophilus influe
+    label:
+      fr: INFANRIX hexa, poudre et suspension pour suspension injectable en seringue
+        préremplie. Vaccin diphtérique(D), tétanique(T), coquelucheux (acellulaire,
+        multicomposé)(Ca), de l'hépatite B (ADNr)(HepB), poliomyélitique(inactivé)(P)
+        et de l'Haemophilus influe
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0014/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0014/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0014/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0014/1/SmPC/fr
 VAC0015:
   1:
-    label: INFANRIXQUINTA, poudre et suspension pour suspension injectable. Vaccin
-      diphtérique (D), tétanique (T), coquelucheux (acellulaire, multicomposé) (Ca),
-      poliomyélitique (inactivé) (P) et conjugué de l’Haemophilus influenzae type
-      b (Hib), adsorbé
+    label:
+      fr: INFANRIXQUINTA, poudre et suspension pour suspension injectable. Vaccin
+        diphtérique (D), tétanique (T), coquelucheux (acellulaire, multicomposé) (Ca),
+        poliomyélitique (inactivé) (P) et conjugué de l’Haemophilus influenzae type
+        b (Hib), adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410095.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410095.htm
 VAC0016:
   1:
-    label: INFLUVAC, suspension injectable en seringue préremplie, vaccin grippal
-      inactivé à antigènes de surface
+    label:
+      fr: INFLUVAC, suspension injectable en seringue préremplie, vaccin grippal inactivé
+        à antigènes de surface
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0375673.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0375673.htm
   2:
-    label: INFLUVAC, suspension injectable en seringue préremplie. Vaccin grippal
-      inactivé à antigènes de surface
+    label:
+      fr: INFLUVAC, suspension injectable en seringue préremplie. Vaccin grippal inactivé
+        à antigènes de surface
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0423194.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0423194.htm
   3:
-    label: INFLUVAC, suspension injectable, vaccin grippal inactivé à antigènes de
-      surface
+    label:
+      fr: INFLUVAC, suspension injectable, vaccin grippal inactivé à antigènes de
+        surface
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0075749.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0075749.htm
 VAC0017:
   1:
-    label: M-M-RVAXPRO poudre et solvant pour suspension injectable en seringue préremplie.Vaccin
-      rougeoleux, des oreillons, et rubéoleux (vivant).
+    label:
+      fr: M-M-RVAXPRO poudre et solvant pour suspension injectable en seringue préremplie.Vaccin
+        rougeoleux, des oreillons, et rubéoleux (vivant).
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/fr
   2:
-    label: M-M-RVAXPRO, poudre et solvant pour suspension injectable. Vaccin rougeoleux,
-      des oreillons, et rubéoleux (vivant)
+    label:
+      fr: M-M-RVAXPRO, poudre et solvant pour suspension injectable. Vaccin rougeoleux,
+        des oreillons, et rubéoleux (vivant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0017/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0017/1/SmPC/fr
 VAC0018:
   1:
-    label: MENCEVAX, poudre et solvant pour solution injectable en seringue préremplie.
-      Vaccin méningococcique polyosidique des groupes A, C, Y, et W135
+    label:
+      fr: MENCEVAX, poudre et solvant pour solution injectable en seringue préremplie.
+        Vaccin méningococcique polyosidique des groupes A, C, Y, et W135
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0249140.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0249140.htm
   2:
-    label: MENCEVAX, poudre et solvant pour solution injectable multidose. Vaccin
-      méningococcique polyosidique des groupes A, C, Yet W135
+    label:
+      fr: MENCEVAX, poudre et solvant pour solution injectable multidose. Vaccin méningococcique
+        polyosidique des groupes A, C, Yet W135
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0190971.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0190971.htm
   3:
-    label: MENCEVAX, poudre et solvant pour solution injectable. Vaccin méningococcique
-      polyosidique des groupes A, C, Y et W135
+    label:
+      fr: MENCEVAX, poudre et solvant pour solution injectable. Vaccin méningococcique
+        polyosidique des groupes A, C, Y et W135
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0248716.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0248716.htm
 VAC0019:
   1:
-    label: MENINGITEC, suspension injectable en seringue préremplie. Vaccin méningococcique
-      du sérogroupe C oligosidique conjugué (adsorbé)
+    label:
+      fr: MENINGITEC, suspension injectable en seringue préremplie. Vaccin méningococcique
+        du sérogroupe C oligosidique conjugué (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0245728.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0245728.htm
   2:
-    label: MENINGITEC, suspension injectable, Vaccin méningococcique du groupe C oligosidique
-      conjugué (adsorbé)
+    label:
+      fr: MENINGITEC, suspension injectable, Vaccin méningococcique du groupe C oligosidique
+        conjugué (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0134389.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0134389.htm
 VAC0020:
   1:
-    label: MENJUGATEKIT10 microgrammes, poudre et solvant pour suspension injectable.
-      Vaccin conjugué méningococcique groupe C
+    label:
+      fr: MENJUGATEKIT10 microgrammes, poudre et solvant pour suspension injectable.
+        Vaccin conjugué méningococcique groupe C
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0273272.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0273272.htm
 VAC0021:
   1:
-    label: MUTAGRIP, suspension injectable en ampoule vaccin grippal inactivé à virion
-      fragmenté
+    label:
+      fr: MUTAGRIP, suspension injectable en ampoule vaccin grippal inactivé à virion
+        fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0074020.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0074020.htm
   2:
-    label: MUTAGRIP, suspension injectable en flacon multidose. vaccin grippal inactivé
-      à virion fragmenté
+    label:
+      fr: MUTAGRIP, suspension injectable en flacon multidose. vaccin grippal inactivé
+        à virion fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0074018.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0074018.htm
   3:
-    label: MUTAGRIP, suspension injectable en seringue préremplie. Vaccin grippal
-      (inactivé, à virion fragmenté)
+    label:
+      fr: MUTAGRIP, suspension injectable en seringue préremplie. Vaccin grippal (inactivé,
+        à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0356290.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0356290.htm
 VAC0022:
   1:
-    label: NEISVAC, suspension injectable en seringue préremplie. Vaccin méningococcique
-      polyosidique du groupe C (conjugué, adsorbé)
+    label:
+      fr: NEISVAC, suspension injectable en seringue préremplie. Vaccin méningococcique
+        polyosidique du groupe C (conjugué, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0419301.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0419301.htm
 VAC0023:
   1:
-    label: PENTAVAC, poudre et suspension pour suspension injectable en seringue préremplie.
-      Vaccin diphtérique, tétanique, coquelucheux (acellulaire, multicomposé), poliomyélitique
-      (inactivé) et conjugué de l'haemophilus type b, adsorbé
+    label:
+      fr: PENTAVAC, poudre et suspension pour suspension injectable en seringue préremplie.
+        Vaccin diphtérique, tétanique, coquelucheux (acellulaire, multicomposé), poliomyélitique
+        (inactivé) et conjugué de l'haemophilus type b, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429926.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429926.htm
 VAC0024:
   1:
-    label: PNEUMO 23 , solution injectable en récipient multidose, vaccin pneumococcique
-      polyosidique
+    label:
+      fr: PNEUMO 23 , solution injectable en récipient multidose, vaccin pneumococcique
+        polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0199399.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0199399.htm
   2:
-    label: PNEUMO 23, solution injectable en seringue pré-remplie. vaccin pneumococcique
-      polyosidique
+    label:
+      fr: PNEUMO 23, solution injectable en seringue pré-remplie. vaccin pneumococcique
+        polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0292383.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0292383.htm
 VAC0025:
   1:
-    label: PREVENAR, suspension injectable en seringue préremplie. Vaccin pneumococcique
-      osidique conjugué adsorbé
+    label:
+      fr: PREVENAR, suspension injectable en seringue préremplie. Vaccin pneumococcique
+        osidique conjugué adsorbé
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0025/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0025/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0025/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0025/1/SmPC/fr
   2:
-    label: PREVENAR, suspension injectable. Vaccin pneumococcique osidique conjugué
-      adsorbé
+    label:
+      fr: PREVENAR, suspension injectable. Vaccin pneumococcique osidique conjugué
+        adsorbé
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0025/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0025/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0025/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0025/1/SmPC/fr
 VAC0026:
   1:
-    label: PREVIGRIP, suspension injectable en seringue préremplie, vaccin grippal
-      inactivé à virion fragmenté
+    label:
+      fr: PREVIGRIP, suspension injectable en seringue préremplie, vaccin grippal
+        inactivé à virion fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0178510.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0178510.htm
 VAC0027:
   1:
-    label: R.O.R. VAX, poudre et solvant pour suspension injectable. Vaccin rougeoleux,
-      des oreillons et rubéoleux atténué.
+    label:
+      fr: R.O.R. VAX, poudre et solvant pour suspension injectable. Vaccin rougeoleux,
+        des oreillons et rubéoleux atténué.
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0134392.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0134392.htm
 VAC0028:
   1:
-    label: RABIPUR, poudre et solvant pour solution injectable en seringue préremplie.
-      Vaccin rabique (inactivé)
+    label:
+      fr: RABIPUR, poudre et solvant pour solution injectable en seringue préremplie.
+        Vaccin rabique (inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0426453.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0426453.htm
   2:
-    label: RABIPUR, poudre et solvant pour solution injectable. Vaccin rabique (inactivé)
+    label:
+      fr: RABIPUR, poudre et solvant pour solution injectable. Vaccin rabique (inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0321734.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0321734.htm
 VAC0029:
   1:
-    label: REPEVAX, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux (acellulaire, multicomposé) et poliomyélitique (inactivé),
-      (adsorbé, à teneur réduite en antigène(s))
+    label:
+      fr: REPEVAX, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux (acellulaire, multicomposé) et poliomyélitique (inactivé),
+        (adsorbé, à teneur réduite en antigène(s))
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0430214.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0430214.htm
 VAC0030:
   1:
-    label: REVAXIS, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique et poliomyélitique (inactivé), adsorbé, à teneur réduite en antigènes
+    label:
+      fr: REVAXIS, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique et poliomyélitique (inactivé), adsorbé, à teneur réduite en antigènes
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429921.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429921.htm
 VAC0031:
   1:
-    label: ROTATEQ, solution buvable. Vaccin Rotavirus (vivant, oral)
+    label:
+      fr: ROTATEQ, solution buvable. Vaccin Rotavirus (vivant, oral)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0031/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0031/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0031/1/SmPC/fr
 VAC0032:
   1:
-    label: ROUVAX, poudre et solvant pour suspension injectable en flacon multidose,
-      vaccin vivant hyperatténué contre la rougeole
+    label:
+      fr: ROUVAX, poudre et solvant pour suspension injectable en flacon multidose,
+        vaccin vivant hyperatténué contre la rougeole
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0268270.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0268270.htm
   2:
-    label: ROUVAX, poudre et solvant pour suspension injectable. Vaccin rougeoleux
-      vivant
+    label:
+      fr: ROUVAX, poudre et solvant pour suspension injectable. Vaccin rougeoleux
+        vivant
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410108.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410108.htm
 VAC0034:
   1:
-    label: SPIROLEPT 200 millions U/ml, suspension injectable en seringue préremplie.
-      Vaccin leptospires inactivé
+    label:
+      fr: SPIROLEPT 200 millions U/ml, suspension injectable en seringue préremplie.
+        Vaccin leptospires inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0412266.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0412266.htm
 VAC0035:
   1:
-    label: STAMARIL, poudre et solvant pour suspension injectable en récipient multidose,
-      Vaccin de la fièvre jaune (vivant)
+    label:
+      fr: STAMARIL, poudre et solvant pour suspension injectable en récipient multidose,
+        Vaccin de la fièvre jaune (vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429933.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429933.htm
   2:
-    label: STAMARIL, poudre et solvant pour suspension injectable en seringue préremplie.
-      Vaccin de la fièvre jaune (Vivant)
+    label:
+      fr: STAMARIL, poudre et solvant pour suspension injectable en seringue préremplie.
+        Vaccin de la fièvre jaune (Vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0430249.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0430249.htm
 VAC0036:
   1:
-    label: TETAGRIP, suspension injectable en seringue préremplie, vaccin tétanique
-      et grippal inactivé à virion fragmenté
+    label:
+      fr: TETAGRIP, suspension injectable en seringue préremplie, vaccin tétanique
+        et grippal inactivé à virion fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0194293.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0194293.htm
 VAC0037:
   1:
-    label: TETRAVAC-ACELLULAIRE, suspension injectable en seringue préremplie. Vaccin
-      diphtérique, tétanique, coquelucheux acellulaire et poliomyélitique (inactivé),
-      adsorbé
+    label:
+      fr: TETRAVAC-ACELLULAIRE, suspension injectable en seringue préremplie. Vaccin
+        diphtérique, tétanique, coquelucheux acellulaire et poliomyélitique (inactivé),
+        adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429925.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429925.htm
 VAC0038:
   1:
-    label: TICOVAC 0,5 ml ADULTES, suspension injectable en seringue préremplie. Vaccin
-      de l'encéphalite à tiques (virus entier inactivé)
+    label:
+      fr: TICOVAC 0,5 ml ADULTES, suspension injectable en seringue préremplie. Vaccin
+        de l'encéphalite à tiques (virus entier inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0425447.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0425447.htm
 VAC0039:
   1:
-    label: TICOVAC 0,25 ml ENFANTS, suspension injectable en seringue préremplie.
-      Vaccin de l'encéphalite à tiques (virus entier inactivé)
+    label:
+      fr: TICOVAC 0,25 ml ENFANTS, suspension injectable en seringue préremplie. Vaccin
+        de l'encéphalite à tiques (virus entier inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0425448.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0425448.htm
 VAC0040:
   1:
-    label: TYAVAX, suspension et solution pour suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite A (inactivé, adsorbé) et typhoïdique polyosidique
+    label:
+      fr: TYAVAX, suspension et solution pour suspension injectable en seringue préremplie.
+        Vaccin de l'hépatite A (inactivé, adsorbé) et typhoïdique polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0367697.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0367697.htm
 VAC0041:
   1:
-    label: TYPHIM Vi, solution injectable en multidose. Vaccin typhoïdique polyosidique
+    label:
+      fr: TYPHIM Vi, solution injectable en multidose. Vaccin typhoïdique polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0428661.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0428661.htm
   2:
-    label: TYPHIM Vi, solution injectable en seringue préremplie. Vaccin typhoïdique
-      polyosidique
+    label:
+      fr: TYPHIM Vi, solution injectable en seringue préremplie. Vaccin typhoïdique
+        polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429934.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429934.htm
 VAC0043:
   1:
-    label: BOOSTRIXTETRA, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux (acellulaire multicomposé) et poliomyélitique (inactivé),
-      (adsorbé, à teneur réduite en antigènes)
+    label:
+      fr: BOOSTRIXTETRA, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux (acellulaire multicomposé) et poliomyélitique (inactivé),
+        (adsorbé, à teneur réduite en antigènes)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0414783.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0414783.htm
   2:
-    label: BOOSTRIXTETRA, suspension injectable. Vaccin diphtérique, tétanique, coquelucheux
-      (acellulaire, multicomposé) et poliomyélitique (inactivé, adsorbé)
+    label:
+      fr: BOOSTRIXTETRA, suspension injectable. Vaccin diphtérique, tétanique, coquelucheux
+        (acellulaire, multicomposé) et poliomyélitique (inactivé, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0135956.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0135956.htm
 VAC0044:
   1:
-    label: CERVARIX, suspension injectable en flacon. Vaccin Papillomavirus Humain
-      [Types 16, 18] (Recombinant, avec adjuvant, adsorbé)
+    label:
+      fr: CERVARIX, suspension injectable en flacon. Vaccin Papillomavirus Humain
+        [Types 16, 18] (Recombinant, avec adjuvant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/fr
   2:
-    label: CERVARIX, suspension injectable en seringue pré-remplie .Vaccin Papillomavirus
-      Humain [Types 16, 18] (Recombinant, avec adjuvant, adsorbé)
+    label:
+      fr: CERVARIX, suspension injectable en seringue pré-remplie .Vaccin Papillomavirus
+        Humain [Types 16, 18] (Recombinant, avec adjuvant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0044/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0044/1/SmPC/fr
 VAC0045:
   1:
-    label: ENGERIX B 10 microgrammes/0,5 mL, suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite B (ADNr), (adsorbé) (VHB)
+    label:
+      fr: ENGERIX B 10 microgrammes/0,5 mL, suspension injectable en seringue préremplie.
+        Vaccin de l'hépatite B (ADNr), (adsorbé) (VHB)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0420816.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0420816.htm
   2:
-    label: ENGERIX B 10 microgrammes/0,5 ml, suspension injectable. Vaccin de l'hépatite
-      B recombinant, adsorbé
+    label:
+      fr: ENGERIX B 10 microgrammes/0,5 ml, suspension injectable. Vaccin de l'hépatite
+        B recombinant, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0132232.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0132232.htm
 VAC0046:
   1:
-    label: ENGERIX B 20 microgrammes/1 mL, suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite B (ADNr), (adsorbé) (VHB)
+    label:
+      fr: ENGERIX B 20 microgrammes/1 mL, suspension injectable en seringue préremplie.
+        Vaccin de l'hépatite B (ADNr), (adsorbé) (VHB)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0420815.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0420815.htm
   2:
-    label: ENGERIX B 20 microgrammes/1 ml, suspension injectable. Vaccin de l'hépatite
-      B recombinant, adsorbé
+    label:
+      fr: ENGERIX B 20 microgrammes/1 ml, suspension injectable. Vaccin de l'hépatite
+        B recombinant, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0161126.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0161126.htm
 VAC0047:
   1:
-    label: FLUARIX, suspension injectable en seringue préremplie. Vaccin grippal inactivé
-      à virion fragmenté
+    label:
+      fr: FLUARIX, suspension injectable en seringue préremplie. Vaccin grippal inactivé
+        à virion fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0305584.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0305584.htm
 VAC0048:
   1:
-    label: VACCIN GENHEVAC B PASTEUR 20 microgrammes/0,5 ml,suspension injectable
-      en seringue préremplie, vaccin de l'hépatite B recombinant
+    label:
+      fr: VACCIN GENHEVAC B PASTEUR 20 microgrammes/0,5 ml,suspension injectable en
+        seringue préremplie, vaccin de l'hépatite B recombinant
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0274637.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0274637.htm
 VAC0049:
   1:
-    label: HAVRIX 1440 U/1 ml ADULTES, suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite A (inactivé, adsorbé)
+    label:
+      fr: HAVRIX 1440 U/1 ml ADULTES, suspension injectable en seringue préremplie.
+        Vaccin de l'hépatite A (inactivé, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0427246.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0427246.htm
   2:
-    label: HAVRIX ADULTES 1440 U/1 ml, suspension injectable en unidose. vaccin inactivé
-      de l'hépatite A adsorbé
+    label:
+      fr: HAVRIX ADULTES 1440 U/1 ml, suspension injectable en unidose. vaccin inactivé
+        de l'hépatite A adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0144533.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0144533.htm
 VAC0050:
   1:
-    label: HAVRIX NOURRISSONS ET ENFANTS 720 U/0,5 ml, suspension injectable en seringue
-      préremplie. Vaccin de l'hépatite A (inactivé, adsorbé)
+    label:
+      fr: HAVRIX NOURRISSONS ET ENFANTS 720 U/0,5 ml, suspension injectable en seringue
+        préremplie. Vaccin de l'hépatite A (inactivé, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0427245.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0427245.htm
 VAC0051:
   1:
-    label: INFANRIXTETRA, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux acellulaire, poliomyélitique inactivé, adsorbé
+    label:
+      fr: INFANRIXTETRA, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux acellulaire, poliomyélitique inactivé, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0414785.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0414785.htm
 VAC0052:
   1:
-    label: VACCIN MENINGOCOCCIQUE A+C POLYOSIDIQUE, poudre et solvant pour suspension
-      injectable en multidose
+    label:
+      fr: VACCIN MENINGOCOCCIQUE A+C POLYOSIDIQUE, poudre et solvant pour suspension
+        injectable en multidose
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0309027.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0309027.htm
   2:
-    label: VACCIN MENINGOCOCCIQUE A+C POLYOSIDIQUE, poudre et solvant pour suspension
-      injectable en seringue préremplie
+    label:
+      fr: VACCIN MENINGOCOCCIQUE A+C POLYOSIDIQUE, poudre et solvant pour suspension
+        injectable en seringue préremplie
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0309028.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0309028.htm
 VAC0053:
   1:
-    label: PRIORIX, poudre et solvant pour solution injectable en seringue préremplie.
-      Vaccin rougeoleux, des oreillons et rubéoleux vivant
+    label:
+      fr: PRIORIX, poudre et solvant pour solution injectable en seringue préremplie.
+        Vaccin rougeoleux, des oreillons et rubéoleux vivant
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0426342.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0426342.htm
 VAC0054:
   1:
-    label: VACCIN RABIQUE PASTEUR, poudre et solvant pour suspension injectable. Vaccin
-      rabique pour usage humain préparé sur cultures cellulaires (inactivé)
+    label:
+      fr: VACCIN RABIQUE PASTEUR, poudre et solvant pour suspension injectable. Vaccin
+        rabique pour usage humain préparé sur cultures cellulaires (inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0269034.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0269034.htm
   2:
-    label: VACCIN RABIQUE PASTEUR, poudre et solvant pour suspension injectable. Vaccin
-      rabique, inactivé
+    label:
+      fr: VACCIN RABIQUE PASTEUR, poudre et solvant pour suspension injectable. Vaccin
+        rabique, inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0430235.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0430235.htm
 VAC0056:
   1:
-    label: VACCIN TETANIQUE PASTEUR, suspension injectable en seringue préremplie.
-      Vaccin tétanique adsorbé
+    label:
+      fr: VACCIN TETANIQUE PASTEUR, suspension injectable en seringue préremplie.
+        Vaccin tétanique adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429930.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429930.htm
 VAC0057:
   1:
-    label: TWINRIX ADULTE, suspension injectable en seringue préremplie. Vaccin de
-      l'hépatite A (inactivé) et de l'hépatite B (ADNr) (HAB) (adsorbé)
+    label:
+      fr: TWINRIX ADULTE, suspension injectable en seringue préremplie. Vaccin de
+        l'hépatite A (inactivé) et de l'hépatite B (ADNr) (HAB) (adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0057/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0057/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0057/1/SmPC/fr
   2:
-    label: TWINRIX ADULTE, suspension injectable. Vaccin de l'hépatite A (inactivé)
-      et de l'hépatite B (ADNr) (HAB) (adsorbé)
+    label:
+      fr: TWINRIX ADULTE, suspension injectable. Vaccin de l'hépatite A (inactivé)
+        et de l'hépatite B (ADNr) (HAB) (adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0057/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0057/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0057/1/SmPC/fr
 VAC0058:
   1:
-    label: TWINRIX ENFANT, suspension injectable en seringue préremplie. Vaccin de
-      l'hépatite A (inactivé) et de l'hépatite B (ADNr) (HAB) (adsorbé)
+    label:
+      fr: TWINRIX ENFANT, suspension injectable en seringue préremplie. Vaccin de
+        l'hépatite A (inactivé) et de l'hépatite B (ADNr) (HAB) (adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0058/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0058/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0058/1/SmPC/fr
   2:
-    label: TWINRIX ENFANT, suspension injectable. Vaccin de l'hépatite A (inactivé)
-      et de l'hépatite B (ADNr) (HAB) (adsorbé)
+    label:
+      fr: TWINRIX ENFANT, suspension injectable. Vaccin de l'hépatite A (inactivé)
+        et de l'hépatite B (ADNr) (HAB) (adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0058/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0058/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0058/1/SmPC/fr
 VAC0059:
   1:
-    label: TYPHERIX, solution injectable en seringue préremplie Vaccin typhoïdique
-      polyosidique
+    label:
+      fr: TYPHERIX, solution injectable en seringue préremplie Vaccin typhoïdique
+        polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0305554.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0305554.htm
 VAC0060:
   1:
-    label: VARILRIX, poudre et solvant pour solution injectable en seringue préremplie.
-      Vaccin varicelleux (vivant)
+    label:
+      fr: VARILRIX, poudre et solvant pour solution injectable en seringue préremplie.
+        Vaccin varicelleux (vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410096.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410096.htm
 VAC0061:
   1:
-    label: VARIVAX, poudre et solvant pour suspension injectable en seringue préremplie.
-      Vaccin varicelleux (vivant)
+    label:
+      fr: VARIVAX, poudre et solvant pour suspension injectable en seringue préremplie.
+        Vaccin varicelleux (vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0430365.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0430365.htm
 VAC0062:
   1:
-    label: VAXIGRIP, suspension injectable en ampoule, vaccin grippal inactivé à virion
-      fragmenté
+    label:
+      fr: VAXIGRIP, suspension injectable en ampoule, vaccin grippal inactivé à virion
+        fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0172535.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0172535.htm
   2:
-    label: VAXIGRIP, suspension injectable en flacon multidose. Vaccin grippal (inactivé,
-      à virion fragmenté)
+    label:
+      fr: VAXIGRIP, suspension injectable en flacon multidose. Vaccin grippal (inactivé,
+        à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0389884.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0389884.htm
   3:
-    label: VAXIGRIP, suspension injectable en seringue préremplie. Vaccin grippal
-      (inactivé, à virion fragmenté)
+    label:
+      fr: VAXIGRIP, suspension injectable en seringue préremplie. Vaccin grippal (inactivé,
+        à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0356291.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0356291.htm
 VAC0064:
   1:
-    label: PENTACOQ, poudre et suspension pour suspension injectable en multidose
-      vaccin diphtérique, tétanique, pertussique, poliomyélitique inactivé, adsorbé
-      et vaccin haemophilus influenzae b
+    label:
+      fr: PENTACOQ, poudre et suspension pour suspension injectable en multidose vaccin
+        diphtérique, tétanique, pertussique, poliomyélitique inactivé, adsorbé et
+        vaccin haemophilus influenzae b
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0075635.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0075635.htm
 VAC0069:
   1:
-    label: MENOMUNE, poudre et solvant pour solution injectable, vaccin méningococcique
-      polyosidique A, C, Y, W135
+    label:
+      fr: MENOMUNE, poudre et solvant pour solution injectable, vaccin méningococcique
+        polyosidique A, C, Y, W135
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0097147.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0097147.htm
 VAC0073:
   1:
-    label: IXIARO, suspension injectable. Vaccin de l'encéphalite japonaise (inactivé,
-      adsorbé)
+    label:
+      fr: IXIARO, suspension injectable. Vaccin de l'encéphalite japonaise (inactivé,
+        adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0073/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0073/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0073/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0073/1/SmPC/fr
 VAC0074:
   1:
-    label: D.T.COQ., suspension injectable (I.M.) en flacon multidose. vaccin diphtérique,
-      tétanique, coquelucheux adsorbé
+    label:
+      fr: D.T.COQ., suspension injectable (I.M.) en flacon multidose. vaccin diphtérique,
+        tétanique, coquelucheux adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410117.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410117.htm
   2:
-    label: D.T.COQ., suspension injectable (I.M.) en seringue pré-remplie. vaccin
-      diphtérique, tétanique, coquelucheux adsorbé
+    label:
+      fr: D.T.COQ., suspension injectable (I.M.) en seringue pré-remplie. vaccin diphtérique,
+        tétanique, coquelucheux adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410116.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410116.htm
 VAC0076:
   1:
-    label: DTVAX, suspension injectable en multidose vaccin diphtérique et tétanique
-      (adsorbé)
+    label:
+      fr: DTVAX, suspension injectable en multidose vaccin diphtérique et tétanique
+        (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0315622.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0315622.htm
   2:
-    label: DTVAX, suspension injectable en seringue préremplie vaccin diphtérique
-      et tétanique adsorbé
+    label:
+      fr: DTVAX, suspension injectable en seringue préremplie vaccin diphtérique et
+        tétanique adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0318954.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0318954.htm
 VAC0083:
   1:
-    label: SYNFLORIX, suspension injectable en seringue préremplie. Vaccin pneumococcique
-      polyosidique conjugué (adsorbé)
+    label:
+      fr: SYNFLORIX, suspension injectable en seringue préremplie. Vaccin pneumococcique
+        polyosidique conjugué (adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0083/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0083/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0083/1/SmPC/fr
 VAC0086:
   1:
-    label: TETAVAX, suspension injectable en multidose. Vaccin tétanique adsorbé
+    label:
+      fr: TETAVAX, suspension injectable en multidose. Vaccin tétanique adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0428658.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0428658.htm
   2:
-    label: TETAVAX, suspension injectable en seringue préremplie. Vaccin tétanique
-      adsorbé
+    label:
+      fr: TETAVAX, suspension injectable en seringue préremplie. Vaccin tétanique
+        adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429929.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429929.htm
   3:
-    label: TETAVAX, suspension injectable en unidose. Vaccin tétanique adsorbé
+    label:
+      fr: TETAVAX, suspension injectable en unidose. Vaccin tétanique adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0315579.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0315579.htm
 VAC0098:
   1:
-    label: HEXAVAC, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux acellulaire, poliomyélitique inactivé, de l'hépatite
-      B (recombinant) et de l'Haemophilus influenzae type b conjugué, adjuvé
+    label:
+      fr: HEXAVAC, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux acellulaire, poliomyélitique inactivé, de l'hépatite
+        B (recombinant) et de l'Haemophilus influenzae type b conjugué, adjuvé
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0098/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0098/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0098/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0098/1/SmPC/fr
 VAC0099:
   1:
-    label: MENINVACT, poudre et solvant pour suspension injectable, vaccin meningococcique
-      du groupe C oligosidique conjugué (adsorbé)
+    label:
+      fr: MENINVACT, poudre et solvant pour suspension injectable, vaccin meningococcique
+        du groupe C oligosidique conjugué (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0134364.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0134364.htm
 VAC0105:
   1:
-    label: PANENZA, suspension injectable en flacon multidose. Vaccin grippal (H1N1)v
-      (virion fragmenté, inactivé)
+    label:
+      fr: PANENZA, suspension injectable en flacon multidose. Vaccin grippal (H1N1)v
+        (virion fragmenté, inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0180269.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0180269.htm
   2:
-    label: PANENZA, suspension injectable en seringue préremplie. Vaccin grippal (H1N1)v
-      (virion fragmenté, inactivé)
+    label:
+      fr: PANENZA, suspension injectable en seringue préremplie. Vaccin grippal (H1N1)v
+        (virion fragmenté, inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0180268.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0180268.htm
 VAC0107:
   1:
-    label: CELVAPAN, suspension injectable. Vaccin grippal pandémique (H1N1) (virion
-      entier, cultivé sur cellule Vero, inactivé)
+    label:
+      fr: CELVAPAN, suspension injectable. Vaccin grippal pandémique (H1N1) (virion
+        entier, cultivé sur cellule Vero, inactivé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0107/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0107/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0107/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0107/1/SmPC/fr
 VAC0108:
   1:
-    label: PANDEMRIX suspension et émulsion pour émulsion injectable. Vaccin grippal
-      (H1N1)v (virion fragmenté, inactivé, avec adjuvant)
+    label:
+      fr: PANDEMRIX suspension et émulsion pour émulsion injectable. Vaccin grippal
+        (H1N1)v (virion fragmenté, inactivé, avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0108/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0108/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0108/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0108/1/SmPC/fr
 VAC0109:
   1:
-    label: FOCETRIA, suspension injectable en seringue préremplie. Vaccin grippal
-      pandémique (antigène de surface, inactivé, avec adjuvant)
+    label:
+      fr: FOCETRIA, suspension injectable en seringue préremplie. Vaccin grippal pandémique
+        (antigène de surface, inactivé, avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0109/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0109/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0109/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0109/1/SmPC/fr
 VAC0115:
   1:
-    label: AVAXIM 80 U PEDIATRIQUE, suspension injectable en récipient multidose.
-      Vaccin de l'hépatite A (inactivé, adsorbé)
+    label:
+      fr: AVAXIM 80 U PEDIATRIQUE, suspension injectable en récipient multidose. Vaccin
+        de l'hépatite A (inactivé, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0315586.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0315586.htm
   2:
-    label: AVAXIM 80 U PEDIATRIQUE, suspension injectable en seringue préremplie.
-      Vaccin de l'hépatite A (inactivé, adsorbé)
+    label:
+      fr: AVAXIM 80 U PEDIATRIQUE, suspension injectable en seringue préremplie. Vaccin
+        de l'hépatite A (inactivé, adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429931.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429931.htm
 VAC0121:
   1:
-    label: PRIORIX-TETRA, poudre et solvant pour solution injectable en seringue préremplie.
-      Vaccin rougeoleux, des oreillons, rubéoleux et varicelleux (vivant)
+    label:
+      fr: PRIORIX-TETRA, poudre et solvant pour solution injectable en seringue préremplie.
+        Vaccin rougeoleux, des oreillons, rubéoleux et varicelleux (vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0426341.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0426341.htm
   2:
-    label: PRIORIX-TETRA, poudre et solvant pour solution injectable. Vaccin rougeoleux,
-      des oreillons, rubéoleux et varicelleux (vivant)
+    label:
+      fr: PRIORIX-TETRA, poudre et solvant pour solution injectable. Vaccin rougeoleux,
+        des oreillons, rubéoleux et varicelleux (vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0214503.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0214503.htm
 VAC0123:
   1:
-    label: PREVENAR 13 suspension injectable. Vaccin pneumococcique polyosidique conjugué
-      (13-valent, adsorbé)
+    label:
+      fr: PREVENAR 13 suspension injectable. Vaccin pneumococcique polyosidique conjugué
+        (13-valent, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0123/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0123/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0123/1/SmPC/fr
 VAC0124:
   1:
-    label: FOCETRIA, suspension injectable en récipient multidose. Vaccin grippal
-      pandémique (antigène de surface, inactivé, avec adjuvant)
+    label:
+      fr: FOCETRIA, suspension injectable en récipient multidose. Vaccin grippal pandémique
+        (antigène de surface, inactivé, avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0124/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0124/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0124/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0124/1/SmPC/fr
 VAC0140:
   1:
-    label: INTANZA 15 microgrammes/souche, suspension injectable. Vaccin grippal (inactivé,
-      à virion fragmenté)
+    label:
+      fr: INTANZA 15 microgrammes/souche, suspension injectable. Vaccin grippal (inactivé,
+        à virion fragmenté)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0140/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0140/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0140/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0140/1/SmPC/fr
 VAC0141:
   1:
-    label: MENVEO, poudre et solution pour solution injectable. Vaccin méningococcique
-      des groupes A, C, W-135 et Y conjugué
+    label:
+      fr: MENVEO, poudre et solution pour solution injectable. Vaccin méningococcique
+        des groupes A, C, W-135 et Y conjugué
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0141/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0141/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0141/1/SmPC/fr
 VAC0161:
   1:
-    label: ZOSTAVAX, poudre et solvant pour suspension injectable en seringue préremplie.
-      Vaccin zona (vivant atténué)
+    label:
+      fr: ZOSTAVAX, poudre et solvant pour suspension injectable en seringue préremplie.
+        Vaccin zona (vivant atténué)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0161/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0161/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0161/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0161/1/SmPC/fr
   2:
-    label: ZOSTAVAX, poudre et solvant pour suspension injectable. Vaccin zona (vivant
-      aténué)
+    label:
+      fr: ZOSTAVAX, poudre et solvant pour suspension injectable. Vaccin zona (vivant
+        aténué)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0161/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0161/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0161/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0161/1/SmPC/fr
 VAC0164:
   1:
-    label: INTANZA 9 microgrammes/souche, suspension injectable. Vaccin grippal (inactivé,
-      à virion fragmenté)
+    label:
+      fr: INTANZA 9 microgrammes/souche, suspension injectable. Vaccin grippal (inactivé,
+        à virion fragmenté)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0164/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0164/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0164/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0164/1/SmPC/fr
 VAC0165:
   1:
-    label: VAQTA 25 U/0,5 mL, suspension injectable en seringue préremplie. Vaccin
-      de l'hépatite A, inactivé, adsorbé. Pour enfants et adolescents
+    label:
+      fr: VAQTA 25 U/0,5 mL, suspension injectable en seringue préremplie. Vaccin
+        de l'hépatite A, inactivé, adsorbé. Pour enfants et adolescents
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0394741.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0394741.htm
 VAC0166:
   1:
-    label: VAQTA 50 U/1 ml, suspension injectable en seringue préremplie. Vaccin de
-      l’hépatite A, inactivé, adsorbé. Pour adultes
+    label:
+      fr: VAQTA 50 U/1 ml, suspension injectable en seringue préremplie. Vaccin de
+        l’hépatite A, inactivé, adsorbé. Pour adultes
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0394722.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0394722.htm
 VAC0169:
   1:
-    label: OPTAFLU, suspension injectable en seringue préremplie. Vaccin grippal (antigène
-      de surface, inactivé, préparé à partir de cultures cellulaires)
+    label:
+      fr: OPTAFLU, suspension injectable en seringue préremplie. Vaccin grippal (antigène
+        de surface, inactivé, préparé à partir de cultures cellulaires)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0169/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0169/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0169/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0169/1/SmPC/fr
 VAC0172:
   1:
-    label: DIFTAVAX, suspension injectable en multidose. Vaccin diphtérique et tétanique
-      adsorbé
+    label:
+      fr: DIFTAVAX, suspension injectable en multidose. Vaccin diphtérique et tétanique
+        adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0428652.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0428652.htm
   2:
-    label: DIFTAVAX, suspension injectable en seringue préremplie. Vaccin diphtérique
-      et tétanique adsorbé
+    label:
+      fr: DIFTAVAX, suspension injectable en seringue préremplie. Vaccin diphtérique
+        et tétanique adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429928.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429928.htm
 VAC0173:
   1:
-    label: FLUENZ, suspension pour pulvérisation nasale. Vaccin grippal (vivant atténué,
-      nasal)
+    label:
+      fr: FLUENZ, suspension pour pulvérisation nasale. Vaccin grippal (vivant atténué,
+        nasal)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0173/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0173/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0173/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0173/1/SmPC/fr
 VAC0174:
   1:
-    label: PROQUAD, poudre et solvant pour suspension injectable en seringue préremplie.
-      Vaccin rougeoleux, des oreillons, rubéoleux et varicelleux (vivant).
+    label:
+      fr: PROQUAD, poudre et solvant pour suspension injectable en seringue préremplie.
+        Vaccin rougeoleux, des oreillons, rubéoleux et varicelleux (vivant).
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0174/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0174/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/fr
   2:
-    label: PROQUAD, poudre et solvant pour suspension injectable. Vaccin rougeoleux,
-      des oreillons, rubéoleux et varicelleux (vivant).
+    label:
+      fr: PROQUAD, poudre et solvant pour suspension injectable. Vaccin rougeoleux,
+        des oreillons, rubéoleux et varicelleux (vivant).
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0174/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0174/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0174/1/SmPC/fr
 VAC0227:
   1:
-    label: EPAXAL, suspension injectable en seringue préremplie. Vaccin de l'hépatite
-      A (inactivé, virosomal)
+    label:
+      fr: EPAXAL, suspension injectable en seringue préremplie. Vaccin de l'hépatite
+        A (inactivé, virosomal)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0210310.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0210310.htm
 VAC0252:
   1:
-    label: VAXIGRIP ENFANTS, suspension injectable en seringue préremplie. Vaccin
-      grippal (inactivé, à virion fragmenté)
+    label:
+      fr: VAXIGRIP ENFANTS, suspension injectable en seringue préremplie. Vaccin grippal
+        (inactivé, à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0356293.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0356293.htm
 VAC0336:
   1:
-    label: PNEUMOVAX en seringue préremplie, vaccin pneumococcique polyosidique
+    label:
+      fr: PNEUMOVAX en seringue préremplie, vaccin pneumococcique polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0082567.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0082567.htm
   2:
-    label: PNEUMOVAX solution injectable en flacon. Vaccin pneumococcique polyosidique
+    label:
+      fr: PNEUMOVAX solution injectable en flacon. Vaccin pneumococcique polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410093.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410093.htm
   3:
-    label: PNEUMOVAX, solution injectable en seringue préremplie. Vaccin pneumococcique
-      polyosidique
+    label:
+      fr: PNEUMOVAX, solution injectable en seringue préremplie. Vaccin pneumococcique
+        polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410092.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410092.htm
 VAC0390:
   1:
-    label: TETRAct-HIB, poudre et suspension pour suspension injectable en multidose.
-      Vaccin diphtérique, tétanique, coquelucheux et conjugué de l’Haemophilus type
-      b, adsorbé
+    label:
+      fr: TETRAct-HIB, poudre et suspension pour suspension injectable en multidose.
+        Vaccin diphtérique, tétanique, coquelucheux et conjugué de l’Haemophilus type
+        b, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0247353.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0247353.htm
   2:
-    label: TETRAct-HIB, poudre et suspension pour suspension injectable en seringue
-      préremplie. Vaccin diphtérique, tétanique, coquelucheux et conjugué de l’Haemophilus
-      type b, adsorbé
+    label:
+      fr: TETRAct-HIB, poudre et suspension pour suspension injectable en seringue
+        préremplie. Vaccin diphtérique, tétanique, coquelucheux et conjugué de l’Haemophilus
+        type b, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0247232.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0247232.htm
 VAC0451:
   1:
-    label: VIVOTIF, gélule gastro-résistante
+    label:
+      fr: VIVOTIF, gélule gastro-résistante
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0414042.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0414042.htm
 VAC0477:
   1:
-    label: PUMARIX, suspension et emulsion pour émulsion injectable. Vaccin grippal
-      pandémique (H5N1) (virion fragmenté, inactivé, avec adjuvant)
+    label:
+      fr: PUMARIX, suspension et emulsion pour émulsion injectable. Vaccin grippal
+        pandémique (H5N1) (virion fragmenté, inactivé, avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0477/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0477/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0477/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0477/1/SmPC/fr
 VAC0479:
   1:
-    label: TRIAXIS, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique et coquelucheux (acellulaire, multicomposé) (adsorbé, à teneur réduite
-      en antigène(s))
+    label:
+      fr: TRIAXIS, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique et coquelucheux (acellulaire, multicomposé) (adsorbé, à teneur réduite
+        en antigène(s))
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0428976.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0428976.htm
   2:
-    label: TRIAXIS, suspension injectable. Vaccin diphtérique, tétanique et coquelucheux
-      (acellulaire, multicomposé) (adsorbé, à teneur réduite en antigène(s))
+    label:
+      fr: TRIAXIS, suspension injectable. Vaccin diphtérique, tétanique et coquelucheux
+        (acellulaire, multicomposé) (adsorbé, à teneur réduite en antigène(s))
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0309042.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0309042.htm
 VAC0480:
   1:
-    label: FENDRIX, suspension injectable.Vaccin de l'hépatite B (ADNr) (avec adjuvant,
-      adsorbé)
+    label:
+      fr: FENDRIX, suspension injectable.Vaccin de l'hépatite B (ADNr) (avec adjuvant,
+        adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0480/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0480/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0480/1/SmPC/fr
 VAC0486:
   1:
-    label: NIMENRIX, poudre et solvant pour solution injectable. Vaccin méningococcique
-      conjugué des groupes A, C, W135 et Y
+    label:
+      fr: NIMENRIX, poudre et solvant pour solution injectable. Vaccin méningococcique
+        conjugué des groupes A, C, W135 et Y
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0486/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0486/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0486/1/SmPC/fr
 VAC0488:
   1:
-    label: PENTAXIM, poudre et suspension pour suspension injectable en seringue préremplie.
-      Vaccin diphtérique, tétanique, coquelucheux (acellulaire, multicomposé), poliomyélitique
-      (inactivé) et conjugué de l'haemophilus type b, adsorbé
+    label:
+      fr: PENTAXIM, poudre et suspension pour suspension injectable en seringue préremplie.
+        Vaccin diphtérique, tétanique, coquelucheux (acellulaire, multicomposé), poliomyélitique
+        (inactivé) et conjugué de l'haemophilus type b, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429927.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429927.htm
 VAC0492:
   1:
-    label: AFLURIA, suspension injectable en seringue préremplie. Vaccin gippal (virion
-      fragmenté, inactivé)
+    label:
+      fr: AFLURIA, suspension injectable en seringue préremplie. Vaccin gippal (virion
+        fragmenté, inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0283694.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0283694.htm
 VAC0495:
   1:
-    label: BEXSERO suspension injectable en seringue préremplie. Vaccin méningococcique
-      groupe B (ADNr, composant, adsorbé)
+    label:
+      fr: BEXSERO suspension injectable en seringue préremplie. Vaccin méningococcique
+        groupe B (ADNr, composant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0495/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0495/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0495/1/SmPC/fr
 VAC0510:
   1:
-    label: HEXYON, suspension injectable
+    label:
+      fr: HEXYON, suspension injectable
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/fr
   2:
-    label: HEXYON, suspension injectable en seringue préremplie
+    label:
+      fr: HEXYON, suspension injectable en seringue préremplie
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0510/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0510/1/SmPC/fr
 VAC0514:
   1:
-    label: ROTARIX, poudre et solvant pour suspension buvable. Vaccin à rotavirus
-      vivant
+    label:
+      fr: ROTARIX, poudre et solvant pour suspension buvable. Vaccin à rotavirus vivant
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/fr
   2:
-    label: ROTARIX, suspension buvable en applicateur prérempli pour administration
-      orale. Vaccin à rotavirus, vivant
+    label:
+      fr: ROTARIX, suspension buvable en applicateur prérempli pour administration
+        orale. Vaccin à rotavirus, vivant
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/fr
   3:
-    label: ROTARIX, suspension buvable en tube souple. Vaccin à rotavirus, vivant
+    label:
+      fr: ROTARIX, suspension buvable en tube souple. Vaccin à rotavirus, vivant
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0514/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0514/1/SmPC/fr
 VAC0517:
   1:
-    label: FLUARIXTETRA, suspension injectable en seringue préremplie. Vaccin grippal
-      inactivé à virion fragmenté
+    label:
+      fr: FLUARIXTETRA, suspension injectable en seringue préremplie. Vaccin grippal
+        inactivé à virion fragmenté
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0422594.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0422594.htm
 VAC0521:
   1:
-    label: FLUENZ TETRA, suspension pour pulvérisation nasale. Vaccin grippal (vivant
-      atténué, nasal)
+    label:
+      fr: FLUENZ TETRA, suspension pour pulvérisation nasale. Vaccin grippal (vivant
+        atténué, nasal)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0521/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0521/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0521/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0521/1/SmPC/fr
 VAC0523:
   1:
-    label: GARDASIL 9, suspension injectable en seringue préremplie. Vaccin Papillomavirus
-      Humain 9-valent (Recombinant, adsorbé)
+    label:
+      fr: GARDASIL 9, suspension injectable en seringue préremplie. Vaccin Papillomavirus
+        Humain 9-valent (Recombinant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/fr
   2:
-    label: GARDASIL 9, suspension injectable. Vaccin Papillomavirus Humain 9-valent
-      (Recombinant, adsorbé)
+    label:
+      fr: GARDASIL 9, suspension injectable. Vaccin Papillomavirus Humain 9-valent
+        (Recombinant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0523/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0523/1/SmPC/fr
 VAC0534:
   1:
-    label: MENJUGATE 10 microgrammes, suspension injectable en seringue préremplie.
-      Vaccin conjugué méningococcique groupe C
+    label:
+      fr: MENJUGATE 10 microgrammes, suspension injectable en seringue préremplie.
+        Vaccin conjugué méningococcique groupe C
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0379933.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0379933.htm
   2:
-    label: MENJUGATE 10 microgrammes, suspension injectable. Vaccin conjugué méningococcique
-      groupe C
+    label:
+      fr: MENJUGATE 10 microgrammes, suspension injectable. Vaccin conjugué méningococcique
+        groupe C
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0316924.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0316924.htm
   3:
-    label: MENJUGATE, poudre et solvant pour suspension injectable vaccin meningococcique
-      du groupe C oligosidique conjugué (adsorbé)
+    label:
+      fr: MENJUGATE, poudre et solvant pour suspension injectable vaccin meningococcique
+        du groupe C oligosidique conjugué (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0157256.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0157256.htm
 VAC0535:
   1:
-    label: VAXELIS, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux (acellulaire, multicomposé), de l'hépatite B (ADNr),
-      poliomyélitique (inactivé) et conjugué de l'Haemophilus de type b (adsorbé)
+    label:
+      fr: VAXELIS, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux (acellulaire, multicomposé), de l'hépatite B (ADNr),
+        poliomyélitique (inactivé) et conjugué de l'Haemophilus de type b (adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0535/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0535/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0535/1/SmPC/fr
 VAC0539:
   1:
-    label: DENGVAXIA, poudre et solvant pour suspension injectable en seringue préremplie.
-      Vaccin dengue quadrivalent (vivant, atténué)
+    label:
+      fr: DENGVAXIA, poudre et solvant pour suspension injectable en seringue préremplie.
+        Vaccin dengue quadrivalent (vivant, atténué)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0539/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0539/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0539/1/SmPC/fr
 VAC0541:
   1:
-    label: BOOSTRIX, suspension injectable en seringue préremplie Vaccin diphtérique,
-      tétanique et coquelucheux (acellulaire multicomposé), (adsorbé, à teneur réduite
-      en antigènes)
+    label:
+      fr: BOOSTRIX, suspension injectable en seringue préremplie Vaccin diphtérique,
+        tétanique et coquelucheux (acellulaire multicomposé), (adsorbé, à teneur réduite
+        en antigènes)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0414784.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0414784.htm
 VAC0542:
   1:
-    label: VACCIN D.T.P. PASTEUR, vaccin diphtérique, tétanique, poliomyélitique,
-      suspension injectable
+    label:
+      fr: VACCIN D.T.P. PASTEUR, vaccin diphtérique, tétanique, poliomyélitique, suspension
+        injectable
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0161446.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0161446.htm
 VAC0544:
   1:
-    label: TETRAXIM, suspension injectable en multidose. Vaccin diphtérique, tétanique,
-      coquelucheux (acellulaire, multicomposé) et poliomyélitique (inactivé), adsorbé
+    label:
+      fr: TETRAXIM, suspension injectable en multidose. Vaccin diphtérique, tétanique,
+        coquelucheux (acellulaire, multicomposé) et poliomyélitique (inactivé), adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0253118.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0253118.htm
   2:
-    label: TETRAXIM, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux acellulaire et poliomyélitique (inactivé), adsorbé
+    label:
+      fr: TETRAXIM, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux acellulaire et poliomyélitique (inactivé), adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429924.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429924.htm
 VAC0546:
   1:
-    label: DULTAVAX, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique et poliomyélitique (inactivé), adsorbé, à teneur réduite en antigènes
+    label:
+      fr: DULTAVAX, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique et poliomyélitique (inactivé), adsorbé, à teneur réduite en antigènes
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429920.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429920.htm
 VAC0554:
   1:
-    label: PEDIACEL, suspension injectable en seringue préremplie. Vaccin diphtérique,
-      tétanique, coquelucheux (acellulaire, multicomposé), poliomyélitique (inactivé)
-      et conjugué de l'Haemophilus type b (adsorbé)
+    label:
+      fr: PEDIACEL, suspension injectable en seringue préremplie. Vaccin diphtérique,
+        tétanique, coquelucheux (acellulaire, multicomposé), poliomyélitique (inactivé)
+        et conjugué de l'Haemophilus type b (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0309039.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0309039.htm
 VAC0560:
   1:
-    label: VAXIGRIPTETRA, suspension injectable en flacon multidose,Vaccin grippal
-      quadrivalent (inactivé, à virion fragmenté)
+    label:
+      fr: VAXIGRIPTETRA, suspension injectable en flacon multidose,Vaccin grippal
+        quadrivalent (inactivé, à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0430250.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0430250.htm
   2:
-    label: VAXIGRIPTETRA, suspension injectable en seringue préremplie. Vaccin grippal
-      quadrivalent (inactivé, à virion fragmenté)
+    label:
+      fr: VAXIGRIPTETRA, suspension injectable en seringue préremplie. Vaccin grippal
+        quadrivalent (inactivé, à virion fragmenté)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0428058.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0428058.htm
 VAC0562:
   1:
-    label: INFLUVAC TETRA, suspension injectable en seringue préremplie. Vaccin grippal
-      inactivé à antigènes de surface
+    label:
+      fr: INFLUVAC TETRA, suspension injectable en seringue préremplie. Vaccin grippal
+        inactivé à antigènes de surface
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0422644.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0422644.htm
 VAC0567:
   1:
-    label: SHINGRIX, poudre et suspension pour suspension injectable. Vaccin zona
-      (recombinant, avec adjuvant)
+    label:
+      fr: SHINGRIX, poudre et suspension pour suspension injectable. Vaccin zona (recombinant,
+        avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0567/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0567/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0567/1/SmPC/fr
 VAC0579:
   1:
-    label: CLAIRYG 50 mg/mL, solution pour perfusion
+    label:
+      fr: CLAIRYG 50 mg/mL, solution pour perfusion
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0425388.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0425388.htm
 VAC0582:
   1:
-    label: TRUMENBA, suspension injectable en seringue préremplie. Vaccin méningococcique
-      groupe B (recombinant, adsorbé)
+    label:
+      fr: TRUMENBA, suspension injectable en seringue préremplie. Vaccin méningococcique
+        groupe B (recombinant, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0582/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0582/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0582/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0582/1/SmPC/fr
 VAC0586:
   1:
-    label: ERVEBO, solution injectable. Vaccin contre Ebola Zaïre (rVSVdeltaG-ZEBOV-GP,
-      vivant)
+    label:
+      fr: ERVEBO, solution injectable. Vaccin contre Ebola Zaïre (rVSVdeltaG-ZEBOV-GP,
+        vivant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0586/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0586/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0586/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0586/1/SmPC/fr
 VAC0590:
   1:
-    label: VACCIN BCG AJVaccines, poudre et solvant pour suspension injectable. Vaccin
-      BCG, lyophilisé
+    label:
+      fr: VACCIN BCG AJVaccines, poudre et solvant pour suspension injectable. Vaccin
+        BCG, lyophilisé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0427399.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0427399.htm
 VAC0591:
   1:
-    label: VIVAXIM, suspension et solution pour suspension injectable en seringue
-      préremplie. Vaccin de l'hépatite A (inactivé, adsorbé) et typhoïdique polyosidique
+    label:
+      fr: VIVAXIM, suspension et solution pour suspension injectable en seringue préremplie.
+        Vaccin de l'hépatite A (inactivé, adsorbé) et typhoïdique polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0367696.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0367696.htm
 VAC0593:
   1:
-    label: VERORAB, poudre et solvant pour suspension injectable en récipient multidose.
-      Vaccin rabique pour usage humain préparé sur cultures cellulaires (inactivé)
+    label:
+      fr: VERORAB, poudre et solvant pour suspension injectable en récipient multidose.
+        Vaccin rabique pour usage humain préparé sur cultures cellulaires (inactivé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0185131.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0185131.htm
   2:
-    label: VERORAB, poudre et solvant pour suspension injectable. Vaccin rabique,
-      inactivé
+    label:
+      fr: VERORAB, poudre et solvant pour suspension injectable. Vaccin rabique, inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429936.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429936.htm
   3:
-    label: VERORAB, poudre et solvant pour suspension injectable.. Vaccin rabique,
-      inactivé
+    label:
+      fr: VERORAB, poudre et solvant pour suspension injectable.. Vaccin rabique,
+        inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0429935.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0429935.htm
 VAC0594:
   1:
-    label: MENQUADFI, solution injectable. Vaccin méningococcique conjugué des groupes
-      A,C,W et Y
+    label:
+      fr: MENQUADFI, solution injectable. Vaccin méningococcique conjugué des groupes
+        A,C,W et Y
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0594/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0594/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0594/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0594/1/SmPC/fr
 VAC0595:
   1:
-    label: FLUCELVAX TETRA, suspension injectable en seringue préremplie. Vaccin grippal
-      inactivé (antigène de surface, préparé sur cultures cellulaires)
+    label:
+      fr: FLUCELVAX TETRA, suspension injectable en seringue préremplie. Vaccin grippal
+        inactivé (antigène de surface, préparé sur cultures cellulaires)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0595/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0595/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0595/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0595/1/SmPC/fr
 VAC0631:
   1:
-    label: MENINVACTKIT, poudre et solvant pour suspension injectable. Vaccin méningococcique
-      du groupe C oligosidique conjugué (adsorbé)
+    label:
+      fr: MENINVACTKIT, poudre et solvant pour suspension injectable. Vaccin méningococcique
+        du groupe C oligosidique conjugué (adsorbé)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0194756.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0194756.htm
 VAC0632:
   1:
-    label: OPVERO, suspension buvable en récipient multidose. Vaccin poliomyélitique
-      oral (trivalent, vivant)
+    label:
+      fr: OPVERO, suspension buvable en récipient multidose. Vaccin poliomyélitique
+        oral (trivalent, vivant)
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410103.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410103.htm
 VAC0633:
   1:
-    label: ZABDENO suspension injectable, Vaccin contre Ebola (Ad26.ZEBOV-GP [recombinant])
+    label:
+      fr: ZABDENO suspension injectable, Vaccin contre Ebola (Ad26.ZEBOV-GP [recombinant])
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0633/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0633/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0633/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0633/1/SmPC/fr
 VAC0634:
   1:
-    label: MVABEA suspension injectable. Vaccin contre Ebola (MVA-BN-Filo [recombinant])
+    label:
+      fr: MVABEA suspension injectable. Vaccin contre Ebola (MVA-BN-Filo [recombinant])
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0634/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0634/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0634/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0634/1/SmPC/fr
 VAC0649:
   1:
-    label: EFLUELDA TETRA, suspension injectable en seringue préremplie Vaccin grippal
-      quadrivalent (inactivé, à virion fragmenté), 60 microgrammes HA/souche
+    label:
+      fr: EFLUELDA TETRA, suspension injectable en seringue préremplie Vaccin grippal
+        quadrivalent (inactivé, à virion fragmenté), 60 microgrammes HA/souche
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0428060.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0428060.htm
 VAC0650:
   1:
-    label: VAXZEVRIA, suspension injectable. Vaccin COVID-19 (ChAdOx1-S [recombinant])
+    label:
+      fr: VAXZEVRIA, suspension injectable. Vaccin COVID-19 (ChAdOx1-S [recombinant])
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0650/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0650/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0650/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0650/1/SmPC/fr
 VAC0656:
   1:
-    label: SPIKEVAX 0,2 mg/mL, dispersion injectable. Vaccin à ARNm contre la COVID-19
+    label:
+      fr: SPIKEVAX 0,2 mg/mL, dispersion injectable. Vaccin à ARNm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0656/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0656/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0656/1/SmPC/fr
 VAC0658:
   1:
-    label: COMIRNATY 30 microgrammes/dose, dispersion injectable.Vaccin à ARNm (à
-      nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY 30 microgrammes/dose, dispersion injectable.Vaccin à ARNm (à nucléoside
+        modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/fr
   2:
-    label: COMIRNATY 30 microgrammes/dose, dispersion à diluer pour dispersion injectable.
-      Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY 30 microgrammes/dose, dispersion à diluer pour dispersion injectable.
+        Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0658/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0658/1/SmPC/fr
 VAC0666:
   1:
-    label: JCOVDEN, suspension injectable Vaccin contre la COVID-19 (Ad26.COV2-S [recombinant])
+    label:
+      fr: JCOVDEN, suspension injectable Vaccin contre la COVID-19 (Ad26.COV2-S [recombinant])
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0666/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0666/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0666/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0666/1/SmPC/fr
 VAC0667:
   1:
-    label: NUVAXOVID, dispersion injectable. Vaccin contre la COVID-19 (recombinant,
-      avec adjuvant)
+    label:
+      fr: NUVAXOVID, dispersion injectable. Vaccin contre la COVID-19 (recombinant,
+        avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0667/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0667/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0667/1/SmPC/fr
 VAC0685:
   1:
-    label: VIDPREVTYN BETA, solution et émulsion pour émulsion injectable. Vaccin
-      contre la COVID-19 (recombinant avec adjuvant)
+    label:
+      fr: VIDPREVTYN BETA, solution et émulsion pour émulsion injectable. Vaccin contre
+        la COVID-19 (recombinant avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0685/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0685/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0685/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0685/1/SmPC/fr
 VAC0779:
   1:
-    label: BATREVAC, suspension injectable en seringue préremplie, vaccin grippal
-      inactivé à antigènes de surface
+    label:
+      fr: BATREVAC, suspension injectable en seringue préremplie, vaccin grippal inactivé
+        à antigènes de surface
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0178512.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0178512.htm
 VAC0780:
   1:
-    label: VAXNEUVANCE, suspension injectable en seringue préremplie.Vaccin pneumococcique
-      polyosidique conjugué (15-valent, adsorbé)
+    label:
+      fr: VAXNEUVANCE, suspension injectable en seringue préremplie.Vaccin pneumococcique
+        polyosidique conjugué (15-valent, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0780/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0780/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0780/1/SmPC/fr
 VAC0833:
   1:
-    label: COMIRNATY 10 microgrammes/dose, dispersion à diluer pour dispersion injectable.Vaccin
-      à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY 10 microgrammes/dose, dispersion à diluer pour dispersion injectable.Vaccin
+        à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0833/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0833/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0833/1/SmPC/fr
 VAC0836:
   1:
-    label: FLUAD TETRA, suspension injectable en seringue préremplie.Vaccin antigrippal
-      (antigènes de surface, inactivé, avec adjuvant)
+    label:
+      fr: FLUAD TETRA, suspension injectable en seringue préremplie.Vaccin antigrippal
+        (antigènes de surface, inactivé, avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0836/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0836/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0836/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0836/1/SmPC/fr
 VAC0840:
   1:
-    label: ADDIGRIP, suspension injectable en seringue préremplie vaccin grippal inactivé
-      à antigènes de surface avec adjuvant MF59C.1
+    label:
+      fr: ADDIGRIP, suspension injectable en seringue préremplie vaccin grippal inactivé
+        à antigènes de surface avec adjuvant MF59C.1
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0166938.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0166938.htm
 VAC0841:
   1:
-    label: INFLUVAC ENFANT, suspension injectable en seringue préremplie, vaccin grippal
-      inactivé à antigènes de surface. Saison 2015/2016
+    label:
+      fr: INFLUVAC ENFANT, suspension injectable en seringue préremplie, vaccin grippal
+        inactivé à antigènes de surface. Saison 2015/2016
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0266028.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0266028.htm
 VAC0842:
   1:
-    label: NEORABIS, poudre et solvant pour suspension injectable, vaccin rabique
-      inactivé
+    label:
+      fr: NEORABIS, poudre et solvant pour suspension injectable, vaccin rabique inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0047821.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0047821.htm
 VAC0843:
   1:
-    label: NOVIRAB, poudre et solvant pour suspension injectable, vaccin rabique inactivé
+    label:
+      fr: NOVIRAB, poudre et solvant pour suspension injectable, vaccin rabique inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0047820.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0047820.htm
 VAC0844:
   1:
-    label: VERORABVAX, poudre et solvant pour suspension injectable en seringue préremplie.
-      Vaccin rabique, inactivé
+    label:
+      fr: VERORABVAX, poudre et solvant pour suspension injectable en seringue préremplie.
+        Vaccin rabique, inactivé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0232735.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0232735.htm
 VAC0846:
   1:
-    label: VACCIN POLIOMYELITIQUE ORAL BIVALENT TYPES 1 et 3, suspension buvable en
-      récipient multidose
+    label:
+      fr: VACCIN POLIOMYELITIQUE ORAL BIVALENT TYPES 1 et 3, suspension buvable en
+        récipient multidose
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0410105.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0410105.htm
 VAC0900:
   1:
-    label: PREVENAR 20, suspension injectable en seringue préremplie. Vaccin pneumococcique
-      polyosidique conjugué (20-valent, adsorbé)
+    label:
+      fr: PREVENAR 20, suspension injectable en seringue préremplie. Vaccin pneumococcique
+        polyosidique conjugué (20-valent, adsorbé)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC0900/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC0900/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC0900/1/SmPC/fr
 VAC0933:
   1:
-    label: TICOVAC 2,7 microgrammes, suspension injectable en seringue préremplie.
-      vaccin de l'encéphalite à tiques, adsorbé
+    label:
+      fr: TICOVAC 2,7 microgrammes, suspension injectable en seringue préremplie.
+        vaccin de l'encéphalite à tiques, adsorbé
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0082634.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0082634.htm
 VAC0934:
   1:
-    label: VACCIN OREILLONS AVENTIS PASTEUR MSD, poudre et solvant pour suspension
-      injectable en seringue préremplie vaccin des oreillons, atténué
+    label:
+      fr: VACCIN OREILLONS AVENTIS PASTEUR MSD, poudre et solvant pour suspension
+        injectable en seringue préremplie vaccin des oreillons, atténué
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0075798.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0075798.htm
 VAC0935:
   1:
-    label: VACCIN RABIQUE INACTIVE MERIEUX, poudre et solvant pour suspension injectable.
-      Vaccin rabique préparé sur cellules diploïdes humaines
+    label:
+      fr: VACCIN RABIQUE INACTIVE MERIEUX, poudre et solvant pour suspension injectable.
+        Vaccin rabique préparé sur cellules diploïdes humaines
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0391538.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0391538.htm
 VAC0936:
   1:
-    label: VACCIN PNEUMOCOCCIQUE POLYOSIDIQUE AVENTIS PASTEUR MSD, en seringue préremplie,
-      vaccin pneumococcique polyosidique
+    label:
+      fr: VACCIN PNEUMOCOCCIQUE POLYOSIDIQUE AVENTIS PASTEUR MSD, en seringue préremplie,
+        vaccin pneumococcique polyosidique
     ePIL:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/notice/N0082566.htm
     SmPC:
       fr: https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0082566.htm
 VAC1017:
   1:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 microgrammes/50 microgrammes)/ml,
-      dispersion injectable, Vaccin à ARNm contre la COVID-19
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 microgrammes/50 microgrammes)/ml,
+        dispersion injectable, Vaccin à ARNm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1017/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1017/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/fr
   2:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 microgrammes/50 microgrammes)/mL,
-      dispersion injectable. Vaccin à ARNm contre la COVID-19
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 microgrammes/50 microgrammes)/mL,
+        dispersion injectable. Vaccin à ARNm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1017/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1017/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1017/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1017/1/SmPC/fr
 VAC1021:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 microgrammes)/dose, dispersion injectable.
-      Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 microgrammes)/dose, dispersion injectable.
+        Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1021/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1021/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1021/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1021/1/SmPC/fr
 VAC1022:
   1:
-    label: COMIRNATY 3 microgrammes/dose, dispersion à diluer pour dispersion injectable.Vaccin
-      à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY 3 microgrammes/dose, dispersion à diluer pour dispersion injectable.Vaccin
+        à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1022/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1022/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1022/1/SmPC/fr
 VAC1023:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 microgrammes)/dose, dispersion
-      injectable. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 microgrammes)/dose, dispersion
+        injectable. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1023/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1023/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1023/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1023/1/SmPC/fr
 VAC1033:
   1:
-    label: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 microgrammes)/dose, dispersion à
-      diluer pour dispersion injectable. Vaccin à ARNm (à nucléoside modifié) contre
-      la COVID-19
+    label:
+      fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 microgrammes)/dose, dispersion à
+        diluer pour dispersion injectable. Vaccin à ARNm (à nucléoside modifié) contre
+        la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1033/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1033/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1033/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1033/1/SmPC/fr
 VAC1036:
   1:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 microgrammes/25 microgrammes,
-      dispersion injectable en seringue préremplie. Vaccin à ARNm contre la COVID-19
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 microgrammes/25 microgrammes,
+        dispersion injectable en seringue préremplie. Vaccin à ARNm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/fr
   2:
-    label: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 microgrammes/25 microgrammes,
-      dispersion injectable. Vaccin à ARNm contre la COVID-19
+    label:
+      fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 microgrammes/25 microgrammes,
+        dispersion injectable. Vaccin à ARNm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1036/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1036/1/SmPC/fr
 VAC1051:
   1:
-    label: COMIRNATY OMICRON XBB.1.5 30 microgrammes/dose, dispersion injectable en
-      seringue préremplie. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY OMICRON XBB.1.5 30 microgrammes/dose, dispersion injectable en
+        seringue préremplie. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/fr
   2:
-    label: COMIRNATY OMICRON XBB.1.5 30 microgrammes/dose, dispersion injectable.
-      Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY OMICRON XBB.1.5 30 microgrammes/dose, dispersion injectable. Vaccin
+        à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1051/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1051/1/SmPC/fr
 VAC1052:
   1:
-    label: COMIRNATY OMICRON XBB.1.5 10 microgrammes/dose, dispersion injectable.
-      Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY OMICRON XBB.1.5 10 microgrammes/dose, dispersion injectable. Vaccin
+        à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/fr
   2:
-    label: COMIRNATY OMICRON XBB.1.5 10 microgrammes/dose, dispersion à diluer pour
-      dispersion injectable. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY OMICRON XBB.1.5 10 microgrammes/dose, dispersion à diluer pour
+        dispersion injectable. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1052/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1052/1/SmPC/fr
 VAC1053:
   1:
-    label: COMIRNATY OMICRON XBB.1.5 3 microgrammes/dose, dispersion à diluer pour
-      dispersion injectable. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
+    label:
+      fr: COMIRNATY OMICRON XBB.1.5 3 microgrammes/dose, dispersion à diluer pour
+        dispersion injectable. Vaccin à ARNm (à nucléoside modifié) contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1053/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1053/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1053/1/SmPC/fr
 VAC1055:
   1:
-    label: NUVAXOVID XBB.1.5, dispersion injectable. Vaccin contre la COVID-19 (recombinant,
-      avec adjuvant)
+    label:
+      fr: NUVAXOVID XBB.1.5, dispersion injectable. Vaccin contre la COVID-19 (recombinant,
+        avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1055/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1055/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1055/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1055/1/SmPC/fr
 VAC1060:
   1:
-    label: SPIKEVAX XBB.1.5 50 microgrammes, dispersion injectable en seringue préemplie.
-      Vaccin à ARNm contre la COVID-19
+    label:
+      fr: SPIKEVAX XBB.1.5 50 microgrammes, dispersion injectable en seringue préemplie.
+        Vaccin à ARNm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1060/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1060/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1060/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1060/1/SmPC/fr
   2:
-    label: SPIKEVAX XBB.1.5 50 microgrammes, dispersion injectable. Vaccin à ARNm
-      contre la COVID-19
+    label:
+      fr: SPIKEVAX XBB.1.5 50 microgrammes, dispersion injectable. Vaccin à ARNm contre
+        la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1060/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1060/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1060/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1060/1/SmPC/fr
 VAC1258:
   1:
-    label: COMIRNATY JN.1 30 microgrammes/dose, dispersion injectable en seringue
-      préremplie. Vaccin à ARMm contre la COVID-19
+    label:
+      fr: COMIRNATY JN.1 30 microgrammes/dose, dispersion injectable en seringue préremplie.
+        Vaccin à ARMm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/fr
   2:
-    label: COMIRNATY JN.1 30 microgrammes/dose, dispersion injectable. Vaccin à ARMm
-      contre la COVID-19
+    label:
+      fr: COMIRNATY JN.1 30 microgrammes/dose, dispersion injectable. Vaccin à ARMm
+        contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1258/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1258/1/SmPC/fr
 VAC1259:
   1:
-    label: COMIRNATY JN.1 10 microgrammes/dose, dispersion injectable. Vaccin à ARMm
-      contre la COVID-19
+    label:
+      fr: COMIRNATY JN.1 10 microgrammes/dose, dispersion injectable. Vaccin à ARMm
+        contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1259/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1259/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1259/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1259/1/SmPC/fr
 VAC1260:
   1:
-    label: COMIRNATY JN.1 3 microgrammes/dose, dispersion à diluer pour dispersion
-      injectable. Vaccin à ARMm contre la COVID-19
+    label:
+      fr: COMIRNATY JN.1 3 microgrammes/dose, dispersion à diluer pour dispersion
+        injectable. Vaccin à ARMm contre la COVID-19
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1260/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1260/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1260/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1260/1/SmPC/fr
 VAC1261:
   1:
-    label: NUVAXOVID JN.1, dispersion injectable. Vaccin contre la COVID-19 (recombinant,
-      avec adjuvant)
+    label:
+      fr: NUVAXOVID JN.1, dispersion injectable. Vaccin contre la COVID-19 (recombinant,
+        avec adjuvant)
     ePIL:
-      fr: https://epil.euvabeco.eu/EUE/VAC1261/ePIL/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1261/1/ePIL/fr
     SmPC:
-      fr: https://epil.euvabeco.eu/EUE/VAC1261/SmPC/fr
+      fr: https://epil.euvabeco.eu/EUE/VAC1261/1/SmPC/fr
