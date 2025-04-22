@@ -2,7 +2,7 @@ VAC0001:
   1:
     label:
       fr: Act-HIB 10 µg/0.5 ml sol. inj. (pdr. + solv.) i.m. flac.
-      nl: Act-HIB 10 µg/0.5 ml sol. inj. (pdr. + solv.) i.m. flac.
+      nl: Act-HIB 10 µg/0.5 ml inj. opl. (pdr. + oplosm.) i.m. flac.
       de: Act-HIB 10 µg/0.5 ml sol. inj. (pdr. + solv.) i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7e371e5c015ab3073b8a
@@ -15,7 +15,7 @@ VAC0003:
   1:
     label:
       fr: Avaxim 0.5 ml susp. inj. s.c./i.m. ser. préremplie
-      nl: Avaxim 0.5 ml susp. inj. s.c./i.m. ser. préremplie
+      nl: Avaxim 0.5 ml inj. susp. s.c./i.m. voorgev. spuit
       de: Avaxim 0.5 ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc75d21e5c015ab3f8ffc1
@@ -28,7 +28,7 @@ VAC0005:
   1:
     label:
       fr: Dukoral susp. buv. (susp. + gran. efferv.) sachet flac.
-      nl: Dukoral susp. buv. (susp. + gran. efferv.) sachet flac.
+      nl: Dukoral or. susp. (susp. + bruisgran.) sachet flac.
       de: Dukoral susp. buv. (susp. + gran. efferv.) sachet flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0005/1/ePIL/fr
@@ -42,7 +42,7 @@ VAC0007:
   1:
     label:
       fr: Gardasil susp. inj. i.m. flac.
-      nl: Gardasil susp. inj. i.m. flac.
+      nl: Gardasil inj. susp. i.m. flac.
       de: Gardasil susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/fr
@@ -55,7 +55,7 @@ VAC0007:
   2:
     label:
       fr: Gardasil susp. inj. i.m. ser. préremplie
-      nl: Gardasil susp. inj. i.m. ser. préremplie
+      nl: Gardasil inj. susp. i.m. voorgev. spuit
       de: Gardasil susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0007/1/ePIL/fr
@@ -69,7 +69,7 @@ VAC0009:
   1:
     label:
       fr: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. flac.
-      nl: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. flac.
+      nl: HBVaxPro 10 µg/ml inj. susp. s.c./i.m. flac.
       de: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
@@ -82,7 +82,7 @@ VAC0009:
   2:
     label:
       fr: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. ser. préremplie
-      nl: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. ser. préremplie
+      nl: HBVaxPro 10 µg/ml inj. susp. s.c./i.m. voorgev. spuit
       de: HBVaxPro 10 µg/ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0009/1/ePIL/fr
@@ -96,7 +96,7 @@ VAC0010:
   1:
     label:
       fr: HBVaxPro 40 µg/ml susp. inj. s.c./i.m. flac.
-      nl: HBVaxPro 40 µg/ml susp. inj. s.c./i.m. flac.
+      nl: HBVaxPro 40 µg/ml inj. susp. s.c./i.m. flac.
       de: HBVaxPro 40 µg/ml susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0010/1/ePIL/fr
@@ -110,7 +110,7 @@ VAC0011:
   1:
     label:
       fr: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. flac.
-      nl: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. flac.
+      nl: HBVaxPro 5 µg/0.5 ml inj. susp. s.c./i.m. flac.
       de: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/fr
@@ -123,7 +123,7 @@ VAC0011:
   2:
     label:
       fr: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. ser. préremplie
-      nl: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. ser. préremplie
+      nl: HBVaxPro 5 µg/0.5 ml inj. susp. s.c./i.m. voorgev. spuit
       de: HBVaxPro 5 µg/0.5 ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0011/1/ePIL/fr
@@ -137,7 +137,7 @@ VAC0013:
   1:
     label:
       fr: Imovax Polio susp. inj. s.c./i.m. ser. préremplie
-      nl: Imovax Polio susp. inj. s.c./i.m. ser. préremplie
+      nl: Imovax Polio inj. susp. s.c./i.m. voorgev. spuit
       de: Imovax Polio susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ff51e5c015ab309c948
@@ -150,7 +150,7 @@ VAC0014:
   1:
     label:
       fr: Infanrix Hexa susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
-      nl: Infanrix Hexa susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
+      nl: Infanrix Hexa inj. susp. (pdr. + susp.) i.m. voorgev. spuit flac.
       de: Infanrix Hexa susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0014/1/ePIL/fr
@@ -164,7 +164,7 @@ VAC0016:
   1:
     label:
       fr: Influvac susp. inj. s.c./i.m. ser. préremplie
-      nl: Influvac susp. inj. s.c./i.m. ser. préremplie
+      nl: Influvac inj. susp. s.c./i.m. voorgev. spuit
       de: Influvac susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/66a0e0781524e60e290a5e20
@@ -177,7 +177,7 @@ VAC0017:
   1:
     label:
       fr: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. flac.
-      nl: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. flac.
+      nl: M-M-RVaxPro inj. susp. (pdr. + oplosm.) s.c./i.m. flac.
       de: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
@@ -190,7 +190,7 @@ VAC0017:
   2:
     label:
       fr: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
-      nl: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+      nl: M-M-RVaxPro inj. susp. (pdr. + oplosm.) s.c./i.m. voorgev. spuit flac.
       de: M-M-RVaxPro susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0017/1/ePIL/fr
@@ -229,7 +229,7 @@ VAC0023:
   1:
     label:
       fr: Pentavac susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
-      nl: Pentavac susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
+      nl: Pentavac inj. susp. (pdr. + susp.) i.m. voorgev. spuit flac.
       de: Pentavac susp. inj. (pdr. + susp.) i.m. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c11e5c015ab3fd0941
@@ -242,7 +242,7 @@ VAC0028:
   1:
     label:
       fr: Rabipur sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
-      nl: Rabipur sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
+      nl: Rabipur inj. opl. (pdr. + oplosm.) i.m. voorgev. spuit flac.
       de: Rabipur sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc5aa21e5c015ab3c396fd
@@ -255,7 +255,7 @@ VAC0030:
   1:
     label:
       fr: Revaxis susp. inj. i.m. ser. préremplie
-      nl: Revaxis susp. inj. i.m. ser. préremplie
+      nl: Revaxis inj. susp. i.m. voorgev. spuit
       de: Revaxis susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7bac1e5c015ab3024541
@@ -268,7 +268,7 @@ VAC0031:
   1:
     label:
       fr: RotaTeq sol. buv.
-      nl: RotaTeq sol. buv.
+      nl: RotaTeq or. opl.
       de: RotaTeq sol. buv.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0031/1/ePIL/fr
@@ -282,7 +282,7 @@ VAC0037:
   1:
     label:
       fr: Tetravac susp. inj. i.m. ser. préremplie
-      nl: Tetravac susp. inj. i.m. ser. préremplie
+      nl: Tetravac inj. susp. i.m. voorgev. spuit
       de: Tetravac susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc78c71e5c015ab3fd1869
@@ -295,7 +295,7 @@ VAC0041:
   1:
     label:
       fr: Typhim Vi 25 µg/dose sol. inj. s.c./i.m. ser. préremplie
-      nl: Typhim Vi 25 µg/dose sol. inj. s.c./i.m. ser. préremplie
+      nl: Typhim Vi 25 µg/dosis inj. opl. s.c./i.m. voorgev. spuit
       de: Typhim Vi 25 µg/dose sol. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7dcd1e5c015ab3066fdf
@@ -308,7 +308,7 @@ VAC0044:
   1:
     label:
       fr: Cervarix susp. inj. i.m. flac.
-      nl: Cervarix susp. inj. i.m. flac.
+      nl: Cervarix inj. susp. i.m. flac.
       de: Cervarix susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/fr
@@ -321,7 +321,7 @@ VAC0044:
   2:
     label:
       fr: Cervarix susp. inj. i.m. ser. préremplie
-      nl: Cervarix susp. inj. i.m. ser. préremplie
+      nl: Cervarix inj. susp. i.m. voorgev. spuit
       de: Cervarix susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0044/1/ePIL/fr
@@ -335,7 +335,7 @@ VAC0046:
   1:
     label:
       fr: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. flac.
-      nl: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. flac.
+      nl: Engerix B 20 µg/1 ml inj. susp. s.c./i.m. flac.
       de: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73091e5c015ab3f4ead0
@@ -347,7 +347,7 @@ VAC0046:
   2:
     label:
       fr: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. ser. préremplie
-      nl: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. ser. préremplie
+      nl: Engerix B 20 µg/1 ml inj. susp. s.c./i.m. voorgev. spuit
       de: Engerix B 20 µg/1 ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73091e5c015ab3f4ead0
@@ -360,7 +360,7 @@ VAC0049:
   1:
     label:
       fr: Havrix 1440 susp. inj. s.c./i.m. flac.
-      nl: Havrix 1440 susp. inj. s.c./i.m. flac.
+      nl: Havrix 1440 inj. susp. s.c./i.m. flac.
       de: Havrix 1440 susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab30481ba
@@ -372,7 +372,7 @@ VAC0049:
   2:
     label:
       fr: Havrix 1440 susp. inj. s.c./i.m. ser. préremplie
-      nl: Havrix 1440 susp. inj. s.c./i.m. ser. préremplie
+      nl: Havrix 1440 inj. susp. s.c./i.m. voorgev. spuit
       de: Havrix 1440 susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab30481ba
@@ -385,7 +385,7 @@ VAC0050:
   1:
     label:
       fr: Havrix Junior 720 susp. inj. s.c./i.m. flac.
-      nl: Havrix Junior 720 susp. inj. s.c./i.m. flac.
+      nl: Havrix Junior 720 inj. susp. s.c./i.m. flac.
       de: Havrix Junior 720 susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab304815c
@@ -397,7 +397,7 @@ VAC0050:
   2:
     label:
       fr: Havrix Junior 720 susp. inj. s.c./i.m. ser. préremplie
-      nl: Havrix Junior 720 susp. inj. s.c./i.m. ser. préremplie
+      nl: Havrix Junior 720 inj. susp. s.c./i.m. voorgev. spuit
       de: Havrix Junior 720 susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc7ce71e5c015ab304815c
@@ -410,7 +410,7 @@ VAC0053:
   1:
     label:
       fr: Priorix sol. inj. (pdr. + solv.) s.c./i.m. amp. ser. préremplie flac.
-      nl: Priorix sol. inj. (pdr. + solv.) s.c./i.m. amp. ser. préremplie flac.
+      nl: Priorix inj. opl. (pdr. + oplosm.) s.c./i.m. amp. voorgev. spuit flac.
       de: Priorix sol. inj. (pdr. + solv.) s.c./i.m. amp. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc5c691e5c015ab3c76080
@@ -423,7 +423,7 @@ VAC0057:
   1:
     label:
       fr: Twinrix Adulte susp. inj. s.c./i.m. ser. préremplie
-      nl: Twinrix Adulte susp. inj. s.c./i.m. ser. préremplie
+      nl: Twinrix Adult inj. susp. s.c./i.m. voorgev. spuit
       de: Twinrix Adulte susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0057/1/ePIL/fr
@@ -437,7 +437,7 @@ VAC0058:
   1:
     label:
       fr: Twinrix Enfant susp. inj. s.c./i.m. ser. préremplie
-      nl: Twinrix Enfant susp. inj. s.c./i.m. ser. préremplie
+      nl: Twinrix Paediatric inj. susp. s.c./i.m. voorgev. spuit
       de: Twinrix Enfant susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0058/1/ePIL/fr
@@ -451,7 +451,7 @@ VAC0060:
   1:
     label:
       fr: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. amp. flac.
-      nl: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. amp. flac.
+      nl: Varilrix inj. opl. (pdr. + oplosm.) s.c./i.m. amp. flac.
       de: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. amp. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62eceb7ec9b3830206f12eae
@@ -463,7 +463,7 @@ VAC0060:
   2:
     label:
       fr: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
-      nl: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+      nl: Varilrix inj. opl. (pdr. + oplosm.) s.c./i.m. voorgev. spuit flac.
       de: Varilrix sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc4bac1e5c015ab3a92b3a
@@ -476,7 +476,7 @@ VAC0061:
   1:
     label:
       fr: Varivax susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
-      nl: Varivax susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+      nl: Varivax inj. susp. (pdr. + oplosm.) s.c./i.m. voorgev. spuit flac.
       de: Varivax susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc71f11e5c015ab3f32d5c
@@ -489,7 +489,7 @@ VAC0062:
   1:
     label:
       fr: Vaxigrip susp. inj. s.c./i.m. ser. préremplie
-      nl: Vaxigrip susp. inj. s.c./i.m. ser. préremplie
+      nl: Vaxigrip inj. susp. s.c./i.m. voorgev. spuit
       de: Vaxigrip susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/674f1e9a6da5986c67064587
@@ -502,7 +502,7 @@ VAC0073:
   1:
     label:
       fr: Ixiaro susp. inj. s.c./i.m. ser. préremplie
-      nl: Ixiaro susp. inj. s.c./i.m. ser. préremplie
+      nl: Ixiaro inj. susp. s.c./i.m. voorgev. spuit
       de: Ixiaro susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0073/1/ePIL/fr
@@ -516,7 +516,7 @@ VAC0083:
   1:
     label:
       fr: Synflorix susp. inj. i.m. flac.
-      nl: Synflorix susp. inj. i.m. flac.
+      nl: Synflorix inj. susp. i.m. flac.
       de: Synflorix susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/fr
@@ -529,7 +529,7 @@ VAC0083:
   2:
     label:
       fr: Synflorix susp. inj. i.m. ser. préremplie
-      nl: Synflorix susp. inj. i.m. ser. préremplie
+      nl: Synflorix inj. susp. i.m. voorgev. spuit
       de: Synflorix susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0083/1/ePIL/fr
@@ -543,7 +543,7 @@ VAC0121:
   1:
     label:
       fr: Priorix-Tetra sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
-      nl: Priorix-Tetra sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+      nl: Priorix-Tetra inj. opl. (pdr. + oplosm.) s.c./i.m. voorgev. spuit flac.
       de: Priorix-Tetra sol. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62ebc275c9b3830206f12b5e
@@ -556,7 +556,7 @@ VAC0123:
   1:
     label:
       fr: Prevenar 13 susp. inj. i.m. récip. multidos.
-      nl: Prevenar 13 susp. inj. i.m. récip. multidos.
+      nl: Prevenar 13 inj. susp. i.m. multidos. cont.
       de: Prevenar 13 susp. inj. i.m. récip. multidos.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/fr
@@ -569,7 +569,7 @@ VAC0123:
   2:
     label:
       fr: Prevenar 13 susp. inj. i.m. ser. préremplie flac.
-      nl: Prevenar 13 susp. inj. i.m. ser. préremplie flac.
+      nl: Prevenar 13 inj. susp. i.m. voorgev. spuit flac.
       de: Prevenar 13 susp. inj. i.m. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0123/1/ePIL/fr
@@ -583,7 +583,7 @@ VAC0141:
   1:
     label:
       fr: Menveo sol. inj. (pdr. + solv.) i.m. flac.
-      nl: Menveo sol. inj. (pdr. + solv.) i.m. flac.
+      nl: Menveo inj. opl. (pdr. + opl.) i.m. flac.
       de: Menveo sol. inj. (pdr. + solv.) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/fr
@@ -596,7 +596,7 @@ VAC0141:
   2:
     label:
       fr: Menveo sol. inj. i.m. flac.
-      nl: Menveo sol. inj. i.m. flac.
+      nl: Menveo inj. opl. i.m. flac.
       de: Menveo sol. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0141/1/ePIL/fr
@@ -624,7 +624,7 @@ VAC0165:
   1:
     label:
       fr: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. flac.
-      nl: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. flac.
+      nl: Vaqta Junior 25 IE/0.5 ml inj. susp. s.c./i.m. flac.
       de: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780f1e5c015ab3fc1a01
@@ -636,7 +636,7 @@ VAC0165:
   2:
     label:
       fr: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. ser. préremplie
-      nl: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. ser. préremplie
+      nl: Vaqta Junior 25 IE/0.5 ml inj. susp. s.c./i.m. voorgev. spuit
       de: Vaqta Junior 25 UI/0.5 ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780f1e5c015ab3fc1a01
@@ -649,7 +649,7 @@ VAC0166:
   1:
     label:
       fr: Vaqta 50 UI/ml susp. inj. s.c./i.m. flac.
-      nl: Vaqta 50 UI/ml susp. inj. s.c./i.m. flac.
+      nl: Vaqta 50 IE/ml inj. susp. s.c./i.m. flac.
       de: Vaqta 50 UI/ml susp. inj. s.c./i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc12b4
@@ -661,7 +661,7 @@ VAC0166:
   2:
     label:
       fr: Vaqta 50 UI/ml susp. inj. s.c./i.m. ser. préremplie
-      nl: Vaqta 50 UI/ml susp. inj. s.c./i.m. ser. préremplie
+      nl: Vaqta 50 IE/ml inj. susp. s.c./i.m. voorgev. spuit
       de: Vaqta 50 UI/ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc780a1e5c015ab3fc12b4
@@ -674,7 +674,7 @@ VAC0168:
   1:
     label:
       fr: Ambirix susp. inj. s.c./i.m. ser. préremplie
-      nl: Ambirix susp. inj. s.c./i.m. ser. préremplie
+      nl: Ambirix inj. susp. s.c./i.m. voorgev. spuit
       de: Ambirix susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0168/1/ePIL/fr
@@ -688,7 +688,7 @@ VAC0170:
   1:
     label:
       fr: Aflunov susp. inj. i.m. ser. préremplie
-      nl: Aflunov susp. inj. i.m. ser. préremplie
+      nl: Aflunov inj. susp. i.m. voorgev. spuit
       de: Aflunov susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0170/1/ePIL/fr
@@ -702,7 +702,7 @@ VAC0173:
   1:
     label:
       fr: Fluenz susp. pulv. nas. flac. pulv.
-      nl: Fluenz susp. pulv. nas. flac. pulv.
+      nl: Fluenz neusspray susp. spuitbus
       de: Fluenz susp. pulv. nas. flac. pulv.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0173/1/ePIL/fr
@@ -716,7 +716,7 @@ VAC0174:
   1:
     label:
       fr: ProQuad susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
-      nl: ProQuad susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
+      nl: ProQuad inj. susp. (pdr. + oplosm.) s.c./i.m. voorgev. spuit flac.
       de: ProQuad susp. inj. (pdr. + solv.) s.c./i.m. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0174/1/ePIL/fr
@@ -730,7 +730,7 @@ VAC0230:
   1:
     label:
       fr: Fluad susp. inj. i.m. ser. préremplie
-      nl: Fluad susp. inj. i.m. ser. préremplie
+      nl: Fluad inj. susp. i.m. voorgev. spuit
       de: Fluad susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0230/1/ePIL/fr
@@ -744,7 +744,7 @@ VAC0336:
   1:
     label:
       fr: Pneumovax 23 sol. inj. s.c./i.m. flac.
-      nl: Pneumovax 23 sol. inj. s.c./i.m. flac.
+      nl: Pneumovax 23 inj. opl. s.c./i.m. flac.
       de: Pneumovax 23 sol. inj. s.c./i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52e91e5c015ab3b20c9f
@@ -756,7 +756,7 @@ VAC0336:
   2:
     label:
       fr: Pneumovax 23 sol. inj. s.c./i.m. ser. préremplie
-      nl: Pneumovax 23 sol. inj. s.c./i.m. ser. préremplie
+      nl: Pneumovax 23 inj. opl. s.c./i.m. voorgev. spuit
       de: Pneumovax 23 sol. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52f11e5c015ab3b22272
@@ -769,7 +769,7 @@ VAC0451:
   1:
     label:
       fr: Vivotif gél. gastro-résist.
-      nl: Vivotif gél. gastro-résist.
+      nl: Vivotif harde maagsapresist. caps.
       de: Vivotif gél. gastro-résist.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc52a01e5c015ab3b17674
@@ -782,7 +782,7 @@ VAC0472:
   1:
     label:
       fr: Prepandrix émuls. inj. (émuls. + susp.) i.m. flac.
-      nl: Prepandrix émuls. inj. (émuls. + susp.) i.m. flac.
+      nl: Prepandrix inj. emuls. (emuls. + susp.) i.m. flac.
       de: Prepandrix émuls. inj. (émuls. + susp.) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0472/1/ePIL/fr
@@ -796,7 +796,7 @@ VAC0475:
   1:
     label:
       fr: Foclivia susp. inj. i.m. flac.
-      nl: Foclivia susp. inj. i.m. flac.
+      nl: Foclivia inj. susp. i.m. flac.
       de: Foclivia susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/fr
@@ -809,7 +809,7 @@ VAC0475:
   2:
     label:
       fr: Foclivia susp. inj. i.m. ser. préremplie
-      nl: Foclivia susp. inj. i.m. ser. préremplie
+      nl: Foclivia inj. susp. i.m. voorgev. spuit
       de: Foclivia susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0475/1/ePIL/fr
@@ -823,7 +823,7 @@ VAC0479:
   1:
     label:
       fr: Triaxis susp. inj. s.c./i.m. ser. préremplie
-      nl: Triaxis susp. inj. s.c./i.m. ser. préremplie
+      nl: Triaxis inj. susp. s.c./i.m. voorgev. spuit
       de: Triaxis susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc582d1e5c015ab3bde38a
@@ -836,7 +836,7 @@ VAC0480:
   1:
     label:
       fr: Fendrix susp. inj. i.m. ser. préremplie
-      nl: Fendrix susp. inj. i.m. ser. préremplie
+      nl: Fendrix inj. susp. i.m. voorgev. spuit
       de: Fendrix susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0480/1/ePIL/fr
@@ -850,7 +850,7 @@ VAC0486:
   1:
     label:
       fr: Nimenrix sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie flac.
-      nl: Nimenrix sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie flac.
+      nl: Nimenrix inj. opl. (pdr. + oplosm.) i.m. amp. voorgev. spuit flac.
       de: Nimenrix sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0486/1/ePIL/fr
@@ -864,7 +864,7 @@ VAC0495:
   1:
     label:
       fr: Bexsero susp. inj. i.m. ser. préremplie
-      nl: Bexsero susp. inj. i.m. ser. préremplie
+      nl: Bexsero inj. susp. i.m. voorgev. spuit
       de: Bexsero susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0495/1/ePIL/fr
@@ -878,7 +878,7 @@ VAC0507:
   1:
     label:
       fr: Hexacima susp. inj. i.m. flac.
-      nl: Hexacima susp. inj. i.m. flac.
+      nl: Hexacima inj. susp. i.m. flac.
       de: Hexacima susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/fr
@@ -891,7 +891,7 @@ VAC0507:
   2:
     label:
       fr: Hexacima susp. inj. i.m. ser. préremplie
-      nl: Hexacima susp. inj. i.m. ser. préremplie
+      nl: Hexacima inj. susp. i.m. voorgev. spuit
       de: Hexacima susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0507/1/ePIL/fr
@@ -905,7 +905,7 @@ VAC0510:
   1:
     label:
       fr: Hexyon susp. inj. i.m. flac.
-      nl: Hexyon susp. inj. i.m. flac.
+      nl: Hexyon inj. susp. i.m. flac.
       de: Hexyon susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
@@ -918,7 +918,7 @@ VAC0510:
   2:
     label:
       fr: Hexyon susp. inj. i.m. ser. préremplie
-      nl: Hexyon susp. inj. i.m. ser. préremplie
+      nl: Hexyon inj. susp. i.m. voorgev. spuit
       de: Hexyon susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0510/1/ePIL/fr
@@ -932,7 +932,7 @@ VAC0514:
   1:
     label:
       fr: Rotarix susp. buv.
-      nl: Rotarix susp. buv.
+      nl: Rotarix or. susp.
       de: Rotarix susp. buv.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
@@ -945,7 +945,7 @@ VAC0514:
   2:
     label:
       fr: Rotarix susp. buv. applic. préremplie or.
-      nl: Rotarix susp. buv. applic. préremplie or.
+      nl: Rotarix or. susp. voorgev. applic. or.
       de: Rotarix susp. buv. applic. préremplie or.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0514/1/ePIL/fr
@@ -959,7 +959,7 @@ VAC0520:
   1:
     label:
       fr: Imvanex susp. inj. s.c. flac.
-      nl: Imvanex susp. inj. s.c. flac.
+      nl: Imvanex inj. susp. s.c. flac.
       de: Imvanex susp. inj. s.c. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0520/1/ePIL/fr
@@ -973,7 +973,7 @@ VAC0521:
   1:
     label:
       fr: Fluenz Tetra susp. pulv. nas. flac. pulv.
-      nl: Fluenz Tetra susp. pulv. nas. flac. pulv.
+      nl: Fluenz Tetra neusspray susp. spuitbus
       de: Fluenz Tetra susp. pulv. nas. flac. pulv.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0521/1/ePIL/fr
@@ -987,7 +987,7 @@ VAC0523:
   1:
     label:
       fr: Gardasil 9 susp. inj. i.m. flac.
-      nl: Gardasil 9 susp. inj. i.m. flac.
+      nl: Gardasil 9 inj. susp. i.m. flac.
       de: Gardasil 9 susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
@@ -1000,7 +1000,7 @@ VAC0523:
   2:
     label:
       fr: Gardasil 9 susp. inj. i.m. ser. préremplie
-      nl: Gardasil 9 susp. inj. i.m. ser. préremplie
+      nl: Gardasil 9 inj. susp. i.m. voorgev. spuit
       de: Gardasil 9 susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0523/1/ePIL/fr
@@ -1014,7 +1014,7 @@ VAC0535:
   1:
     label:
       fr: Vaxelis susp. inj. i.m. ser. préremplie
-      nl: Vaxelis susp. inj. i.m. ser. préremplie
+      nl: Vaxelis inj. susp. i.m. voorgev. spuit
       de: Vaxelis susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0535/1/ePIL/fr
@@ -1028,7 +1028,7 @@ VAC0539:
   1:
     label:
       fr: Dengvaxia susp. inj. (pdr. + solv.) s.c. flac.
-      nl: Dengvaxia susp. inj. (pdr. + solv.) s.c. flac.
+      nl: Dengvaxia inj. susp. (pdr. + oplosm.) s.c. flac.
       de: Dengvaxia susp. inj. (pdr. + solv.) s.c. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/fr
@@ -1041,7 +1041,7 @@ VAC0539:
   2:
     label:
       fr: Dengvaxia susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
-      nl: Dengvaxia susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
+      nl: Dengvaxia inj. susp. (pdr. + oplosm.) s.c. voorgev. spuit flac.
       de: Dengvaxia susp. inj. (pdr. + solv.) s.c. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0539/1/ePIL/fr
@@ -1055,7 +1055,7 @@ VAC0541:
   1:
     label:
       fr: Boostrix susp. inj. i.m. flac.
-      nl: Boostrix susp. inj. i.m. flac.
+      nl: Boostrix inj. susp. i.m. flac.
       de: Boostrix susp. inj. i.m. flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62ea6c46c9b3830206f12631
@@ -1067,7 +1067,7 @@ VAC0541:
   2:
     label:
       fr: Boostrix susp. inj. i.m. ser. préremplie
-      nl: Boostrix susp. inj. i.m. ser. préremplie
+      nl: Boostrix inj. susp. i.m. voorgev. spuit
       de: Boostrix susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc77f31e5c015ab3fbe977
@@ -1080,7 +1080,7 @@ VAC0556:
   1:
     label:
       fr: Menitorix sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
-    ePIL:
+      nl: 
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc6a771e5c015ab3e566b7
     SmPC:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc6a781e5c015ab3e5696b
@@ -1088,7 +1088,7 @@ VAC0560:
   1:
     label:
       fr: Vaxigrip Tetra susp. inj. s.c./i.m. ser. préremplie
-      nl: Vaxigrip Tetra susp. inj. s.c./i.m. ser. préremplie
+      nl: Vaxigrip Tetra inj. susp. s.c./i.m. voorgev. spuit
       de: Vaxigrip Tetra susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58f61e5c015ab3bfb0f4
@@ -1101,7 +1101,7 @@ VAC0562:
   1:
     label:
       fr: Influvac Tetra susp. inj. s.c./i.m. ser. préremplie
-      nl: Influvac Tetra susp. inj. s.c./i.m. ser. préremplie
+      nl: Influvac Tetra inj. susp. s.c./i.m. voorgev. spuit
       de: Influvac Tetra susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc54d81e5c015ab3b67419
@@ -1114,7 +1114,7 @@ VAC0563:
   1:
     label:
       fr: Alpharix-Tetra susp. inj. i.m. ser. préremplie
-      nl: Alpharix-Tetra susp. inj. i.m. ser. préremplie
+      nl: Alpharix-Tetra inj. susp. i.m. voorgev. spuit
       de: Alpharix-Tetra susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc59641e5c015ab3c08d2c
@@ -1127,7 +1127,7 @@ VAC0567:
   1:
     label:
       fr: Shingrix susp. inj. (pdr. + susp.) i.m. flac.
-      nl: Shingrix susp. inj. (pdr. + susp.) i.m. flac.
+      nl: Shingrix inj. susp. (pdr. + susp.) i.m. flac.
       de: Shingrix susp. inj. (pdr. + susp.) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0567/1/ePIL/fr
@@ -1141,7 +1141,7 @@ VAC0568:
   1:
     label:
       fr: Boostrix Polio susp. inj. i.m. ser. préremplie
-      nl: Boostrix Polio susp. inj. i.m. ser. préremplie
+      nl: Boostrix Polio inj. susp. i.m. voorgev. spuit
       de: Boostrix Polio susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc73041e5c015ab3f4e08b
@@ -1154,7 +1154,7 @@ VAC0569:
   1:
     label:
       fr: Infanrix IPV susp. inj. i.m. ser. préremplie
-      nl: Infanrix IPV susp. inj. i.m. ser. préremplie
+      nl: Infanrix IPV inj. susp. i.m. voorgev. spuit
       de: Infanrix IPV susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc79fe1e5c015ab3ff1722
@@ -1167,7 +1167,7 @@ VAC0570:
   1:
     label:
       fr: Hiberix 10 µg/0.5 ml sol. inj. (pdr. + solv.) i.m. amp. ser. préremplie
-        flac.
+      nl: ac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc75ff1e5c015ab3f939cd
     SmPC:
@@ -1176,7 +1176,7 @@ VAC0575:
   1:
     label:
       fr: Fsme-Immun 0.5 ml susp. inj. s.c./i.m. ser. préremplie
-      nl: Fsme-Immun 0.5 ml susp. inj. s.c./i.m. ser. préremplie
+      nl: Fsme-Immun 0.5 ml inj. susp. s.c./i.m. voorgev. spuit
       de: Fsme-Immun 0.5 ml susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58e21e5c015ab3bf83cd
@@ -1189,7 +1189,7 @@ VAC0582:
   1:
     label:
       fr: Trumenba susp. inj. i.m. ser. préremplie
-      nl: Trumenba susp. inj. i.m. ser. préremplie
+      nl: Trumenba inj. susp. i.m. voorgev. spuit
       de: Trumenba susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0582/1/ePIL/fr
@@ -1203,7 +1203,7 @@ VAC0586:
   1:
     label:
       fr: Ervebo sol. inj. i.m. flac.
-      nl: Ervebo sol. inj. i.m. flac.
+      nl: Ervebo inj. opl. i.m. flac.
       de: Ervebo sol. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0586/1/ePIL/fr
@@ -1217,7 +1217,7 @@ VAC0593:
   1:
     label:
       fr: Verorab susp. inj. (pdr. + solv.) i.derm./i.m. ser. préremplie flac.
-      nl: Verorab susp. inj. (pdr. + solv.) i.derm./i.m. ser. préremplie flac.
+      nl: Verorab inj. susp. (pdr. + oplosm.) i.derm./i.m. voorgev. spuit flac.
       de: Verorab susp. inj. (pdr. + solv.) i.derm./i.m. ser. préremplie flac.
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/64e85af0cf8faa692ba47161
@@ -1230,7 +1230,7 @@ VAC0595:
   1:
     label:
       fr: Flucelvax Tetra susp. inj. i.m. ser. préremplie
-      nl: Flucelvax Tetra susp. inj. i.m. ser. préremplie
+      nl: Flucelvax Tetra inj. susp. i.m. voorgev. spuit
       de: Flucelvax Tetra susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0595/1/ePIL/fr
@@ -1244,7 +1244,7 @@ VAC0633:
   1:
     label:
       fr: Zabdeno susp. inj. i.m. flac.
-      nl: Zabdeno susp. inj. i.m. flac.
+      nl: Zabdeno inj. susp. i.m. flac.
       de: Zabdeno susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0633/1/ePIL/fr
@@ -1258,7 +1258,7 @@ VAC0634:
   1:
     label:
       fr: Mvabea susp. inj. i.m. flac.
-      nl: Mvabea susp. inj. i.m. flac.
+      nl: Mvabea inj. susp. i.m. flac.
       de: Mvabea susp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0634/1/ePIL/fr
@@ -1272,7 +1272,7 @@ VAC0644:
   1:
     label:
       fr: Qdenga sol. inj. (pdr. + solv.) s.c. flac.
-      nl: Qdenga sol. inj. (pdr. + solv.) s.c. flac.
+      nl: Qdenga inj. opl. (pdr. + oplosm.) s.c. flac.
       de: Qdenga sol. inj. (pdr. + solv.) s.c. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/fr
@@ -1285,7 +1285,7 @@ VAC0644:
   2:
     label:
       fr: Qdenga sol. inj. (pdr. + solv.) s.c. ser. préremplie flac.
-      nl: Qdenga sol. inj. (pdr. + solv.) s.c. ser. préremplie flac.
+      nl: Qdenga inj. opl. (pdr. + oplosm.) s.c. voorgev. spuit flac.
       de: Qdenga sol. inj. (pdr. + solv.) s.c. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0644/1/ePIL/fr
@@ -1299,7 +1299,7 @@ VAC0649:
   1:
     label:
       fr: Efluelda Tetra susp. inj. s.c./i.m. ser. préremplie
-      nl: Efluelda Tetra susp. inj. s.c./i.m. ser. préremplie
+      nl: Efluelda Tetra inj. susp. s.c./i.m. voorgev. spuit
       de: Efluelda Tetra susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc4d511e5c015ab3aad5de
@@ -1312,7 +1312,7 @@ VAC0656:
   1:
     label:
       fr: Spikevax 0.2 mg/ml disp. inj. i.m. flac.
-      nl: Spikevax 0.2 mg/ml disp. inj. i.m. flac.
+      nl: Spikevax 0.2 mg/ml inj. disp. i.m. flac.
       de: Spikevax 0.2 mg/ml disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0656/1/ePIL/fr
@@ -1326,7 +1326,7 @@ VAC0658:
   1:
     label:
       fr: Comirnaty 30 µg/dose disp. inj. (à diluer) i.m. flac.
-      nl: Comirnaty 30 µg/dose disp. inj. (à diluer) i.m. flac.
+      nl: Comirnaty 30 µg/dosis inj. disp. (conc.) i.m. flac.
       de: Comirnaty 30 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
@@ -1339,7 +1339,7 @@ VAC0658:
   2:
     label:
       fr: Comirnaty 30 µg/dose disp. inj. i.m. flac.
-      nl: Comirnaty 30 µg/dose disp. inj. i.m. flac.
+      nl: Comirnaty 30 µg/dosis inj. disp. i.m. flac.
       de: Comirnaty 30 µg/dose disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0658/1/ePIL/fr
@@ -1353,7 +1353,7 @@ VAC0667:
   1:
     label:
       fr: Nuvaxovid disp. inj. i.m. flac.
-      nl: Nuvaxovid disp. inj. i.m. flac.
+      nl: Nuvaxovid inj. disp. i.m. flac.
       de: Nuvaxovid disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0667/1/ePIL/fr
@@ -1367,7 +1367,7 @@ VAC0733:
   1:
     label:
       fr: Heplisav B 20 µg sol. inj. i.m. ser. préremplie
-      nl: Heplisav B 20 µg sol. inj. i.m. ser. préremplie
+      nl: Heplisav B 20 µg inj. opl. i.m. voorgev. spuit
       de: Heplisav B 20 µg sol. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0733/1/ePIL/fr
@@ -1381,7 +1381,7 @@ VAC0736:
   1:
     label:
       fr: Triaxis Polio 0.5 ml susp. inj. i.m. ser. préremplie
-      nl: Triaxis Polio 0.5 ml susp. inj. i.m. ser. préremplie
+      nl: Triaxis Polio 0.5 ml inj. susp. i.m. voorgev. spuit
       de: Triaxis Polio 0.5 ml susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc74101e5c015ab3f64f31
@@ -1394,7 +1394,7 @@ VAC0774:
   1:
     label:
       fr: Fsme-Immun 0,25 ml Junior  susp. inj. s.c./i.m. ser. préremplie
-      nl: Fsme-Immun 0,25 ml Junior  susp. inj. s.c./i.m. ser. préremplie
+      nl: Fsme-Immun 0,25 ml Junior  inj. susp. s.c./i.m. voorgev. spuit
       de: Fsme-Immun 0,25 ml Junior  susp. inj. s.c./i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc58d91e5c015ab3bf6b0d
@@ -1407,7 +1407,7 @@ VAC0777:
   1:
     label:
       fr: Adjupanrix émuls. inj. (émuls. + susp.) i.m. flac.
-      nl: Adjupanrix émuls. inj. (émuls. + susp.) i.m. flac.
+      nl: Adjupanrix inj. emuls. (emuls. + susp.) i.m. flac.
       de: Adjupanrix émuls. inj. (émuls. + susp.) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0777/1/ePIL/fr
@@ -1421,7 +1421,7 @@ VAC0778:
   1:
     label:
       fr: Vaxchora pdr. efferv. + susp. buv. (pdr.) sachet
-      nl: Vaxchora pdr. efferv. + susp. buv. (pdr.) sachet
+      nl: Vaxchora bruispdr. + or. susp. (pdr.) sachet
       de: Vaxchora pdr. efferv. + susp. buv. (pdr.) sachet
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0778/1/ePIL/fr
@@ -1435,7 +1435,7 @@ VAC0780:
   1:
     label:
       fr: Vaxneuvance susp. inj. i.m. ser. préremplie
-      nl: Vaxneuvance susp. inj. i.m. ser. préremplie
+      nl: Vaxneuvance inj. susp. i.m. voorgev. spuit
       de: Vaxneuvance susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0780/1/ePIL/fr
@@ -1449,7 +1449,7 @@ VAC0833:
   1:
     label:
       fr: Comirnaty 10 µg/dose disp. inj. (à diluer) i.m. flac.
-      nl: Comirnaty 10 µg/dose disp. inj. (à diluer) i.m. flac.
+      nl: Comirnaty 10 µg/dosis inj. disp. (conc.) i.m. flac.
       de: Comirnaty 10 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0833/1/ePIL/fr
@@ -1463,7 +1463,7 @@ VAC0836:
   1:
     label:
       fr: Fluad Tetra susp. inj. i.m. ser. préremplie
-      nl: Fluad Tetra susp. inj. i.m. ser. préremplie
+      nl: Fluad Tetra inj. susp. i.m. voorgev. spuit
       de: Fluad Tetra susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0836/1/ePIL/fr
@@ -1477,7 +1477,7 @@ VAC0850:
   1:
     label:
       fr: Neisvac-C 10 µg/0.5 ml susp. inj. i.m. ser. préremplie
-      nl: Neisvac-C 10 µg/0.5 ml susp. inj. i.m. ser. préremplie
+      nl: Neisvac-C 10 µg/0.5 ml inj. susp. i.m. voorgev. spuit
       de: Neisvac-C 10 µg/0.5 ml susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc77781e5c015ab3fb43e8
@@ -1490,7 +1490,7 @@ VAC0871:
   1:
     label:
       fr: Supemtek Tetra sol. inj. i.m. ser. préremplie
-      nl: Supemtek Tetra sol. inj. i.m. ser. préremplie
+      nl: Supemtek Tetra inj. opl. i.m. voorgev. spuit
       de: Supemtek Tetra sol. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0871/1/ePIL/fr
@@ -1504,7 +1504,7 @@ VAC0900:
   1:
     label:
       fr: Prevenar 20 susp. inj. i.m. ser. préremplie
-      nl: Prevenar 20 susp. inj. i.m. ser. préremplie
+      nl: Prevenar 20 inj. susp. i.m. voorgev. spuit
       de: Prevenar 20 susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0900/1/ePIL/fr
@@ -1518,7 +1518,7 @@ VAC0913:
   1:
     label:
       fr: Bimervax émuls. inj. i.m. flac.
-      nl: Bimervax émuls. inj. i.m. flac.
+      nl: Bimervax inj. emuls. i.m. flac.
       de: Bimervax émuls. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC0913/1/ePIL/fr
@@ -1532,7 +1532,7 @@ VAC0990:
   1:
     label:
       fr: Alpharix susp. inj. i.m. ser. préremplie
-      nl: Alpharix susp. inj. i.m. ser. préremplie
+      nl: Alpharix inj. susp. i.m. voorgev. spuit
       de: Alpharix susp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/67bdb6f041393c0123ab7c09
@@ -1545,7 +1545,7 @@ VAC1017:
   1:
     label:
       fr: Spikevax Bivalent Original/Omicron BA.1 50 µg/ml - 50 µg/ml disp. inj. i.m.
-        flac.
+      nl: ac.
       nl: Spikevax Bivalent Original/Omicron BA.1 50 µg/ml - 50 µg/ml disp. inj. i.m.
         flac.
       de: Spikevax Bivalent Original/Omicron BA.1 50 µg/ml - 50 µg/ml disp. inj. i.m.
@@ -1562,7 +1562,7 @@ VAC1019:
   1:
     label:
       fr: Spikevax 0.1 mg/ml disp. inj. i.m. flac.
-      nl: Spikevax 0.1 mg/ml disp. inj. i.m. flac.
+      nl: Spikevax 0.1 mg/ml inj. disp. i.m. flac.
       de: Spikevax 0.1 mg/ml disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1019/1/ePIL/fr
@@ -1576,7 +1576,7 @@ VAC1021:
   1:
     label:
       fr: Comirnaty Original/Omicron BA.1 15 µg/dose - 15 µg/dose disp. inj. i.m.
-        flac.
+      nl: ac.
       nl: Comirnaty Original/Omicron BA.1 15 µg/dose - 15 µg/dose disp. inj. i.m.
         flac.
       de: Comirnaty Original/Omicron BA.1 15 µg/dose - 15 µg/dose disp. inj. i.m.
@@ -1593,7 +1593,7 @@ VAC1022:
   1:
     label:
       fr: Comirnaty 3 µg/dose disp. inj. (à diluer) i.m. flac.
-      nl: Comirnaty 3 µg/dose disp. inj. (à diluer) i.m. flac.
+      nl: Comirnaty 3 µg/dosis inj. disp. (conc.) i.m. flac.
       de: Comirnaty 3 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1022/1/ePIL/fr
@@ -1607,7 +1607,7 @@ VAC1023:
   1:
     label:
       fr: Comirnaty Original/Omicron BA.4-5 15 µg/dose - 15 µg/dose disp. inj. i.m.
-        flac.
+      nl: ac.
       nl: Comirnaty Original/Omicron BA.4-5 15 µg/dose - 15 µg/dose disp. inj. i.m.
         flac.
       de: Comirnaty Original/Omicron BA.4-5 15 µg/dose - 15 µg/dose disp. inj. i.m.
@@ -1624,7 +1624,7 @@ VAC1031:
   1:
     label:
       fr: Spikevax 50 µg disp. inj. i.m. ser. préremplie
-      nl: Spikevax 50 µg disp. inj. i.m. ser. préremplie
+      nl: Spikevax 50 µg inj. disp. i.m. voorgev. spuit
       de: Spikevax 50 µg disp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1031/1/ePIL/fr
@@ -1638,7 +1638,7 @@ VAC1033:
   1:
     label:
       fr: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. (à diluer)
-        i.m. flac.
+      nl: m. flac.
       nl: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. (à diluer)
         i.m. flac.
       de: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. (à diluer)
@@ -1654,7 +1654,7 @@ VAC1033:
   2:
     label:
       fr: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. i.m.
-        flac.
+      nl: ac.
       nl: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. i.m.
         flac.
       de: Comirnaty Original/Omicron BA.4-5 5 µg/dose - 5 µg/dose disp. inj. i.m.
@@ -1671,7 +1671,7 @@ VAC1036:
   1:
     label:
       fr: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
-        flac.
+      nl: ac.
       nl: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
         flac.
       de: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
@@ -1687,7 +1687,7 @@ VAC1036:
   2:
     label:
       fr: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
-        ser. préremplie
+      nl: r. préremplie
       nl: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
         ser. préremplie
       de: Spikevax Bivalent Original/Omicron BA.4-5 25 µg - 25 µg disp. inj. i.m.
@@ -1704,7 +1704,7 @@ VAC1040:
   1:
     label:
       fr: Arexvy susp. inj. (pdr. + susp.) i.m. flac.
-      nl: Arexvy susp. inj. (pdr. + susp.) i.m. flac.
+      nl: Arexvy inj. susp. (pdr. + susp.) i.m. flac.
       de: Arexvy susp. inj. (pdr. + susp.) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1040/1/ePIL/fr
@@ -1718,7 +1718,7 @@ VAC1047:
   1:
     label:
       fr: Abrysvo sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
-      nl: Abrysvo sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
+      nl: Abrysvo inj. opl. (pdr. + oplosm.) i.m. voorgev. spuit flac.
       de: Abrysvo sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1047/1/ePIL/fr
@@ -1732,7 +1732,7 @@ VAC1051:
   1:
     label:
       fr: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. flac.
-      nl: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. flac.
+      nl: Comirnaty Omicron XBB.1.5 30 µg/dosis inj. disp. i.m. flac.
       de: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
@@ -1745,7 +1745,7 @@ VAC1051:
   2:
     label:
       fr: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. ser. préremplie
-      nl: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. ser. préremplie
+      nl: Comirnaty Omicron XBB.1.5 30 µg/dosis inj. disp. i.m. voorgev. spuit
       de: Comirnaty Omicron XBB.1.5 30 µg/dose disp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1051/1/ePIL/fr
@@ -1759,7 +1759,7 @@ VAC1052:
   1:
     label:
       fr: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. (à diluer) i.m. flac.
-      nl: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. (à diluer) i.m. flac.
+      nl: Comirnaty Omicron XBB.1.5 10 µg/dosis inj. disp. (conc.) i.m. flac.
       de: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
@@ -1772,7 +1772,7 @@ VAC1052:
   2:
     label:
       fr: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. i.m. flac.
-      nl: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. i.m. flac.
+      nl: Comirnaty Omicron XBB.1.5 10 µg/dosis inj. disp. i.m. flac.
       de: Comirnaty Omicron XBB.1.5 10 µg/dose disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1052/1/ePIL/fr
@@ -1786,7 +1786,7 @@ VAC1053:
   1:
     label:
       fr: Comirnaty Omicron XBB.1.5 3 µg/dose disp. inj. (à diluer) i.m. flac.
-      nl: Comirnaty Omicron XBB.1.5 3 µg/dose disp. inj. (à diluer) i.m. flac.
+      nl: Comirnaty Omicron XBB.1.5 3 µg/dosis inj. disp. (conc.) i.m. flac.
       de: Comirnaty Omicron XBB.1.5 3 µg/dose disp. inj. (à diluer) i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1053/1/ePIL/fr
@@ -1800,7 +1800,7 @@ VAC1055:
   1:
     label:
       fr: Nuvaxovid XBB.1.5 disp. inj. i.m. flac.
-      nl: Nuvaxovid XBB.1.5 disp. inj. i.m. flac.
+      nl: Nuvaxovid XBB.1.5 inj. disp. i.m. flac.
       de: Nuvaxovid XBB.1.5 disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1055/1/ePIL/fr
@@ -1814,7 +1814,7 @@ VAC1258:
   1:
     label:
       fr: Comirnaty JN.1 30 µg/dose disp. inj. i.m. flac.
-      nl: Comirnaty JN.1 30 µg/dose disp. inj. i.m. flac.
+      nl: Comirnaty JN.1 30 µg/dosis inj. disp. i.m. flac.
       de: Comirnaty JN.1 30 µg/dose disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/fr
@@ -1827,7 +1827,7 @@ VAC1258:
   2:
     label:
       fr: Comirnaty JN.1 30 µg/dose disp. inj. i.m. ser. préremplie
-      nl: Comirnaty JN.1 30 µg/dose disp. inj. i.m. ser. préremplie
+      nl: Comirnaty JN.1 30 µg/dosis inj. disp. i.m. voorgev. spuit
       de: Comirnaty JN.1 30 µg/dose disp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1258/1/ePIL/fr
@@ -1841,7 +1841,7 @@ VAC1261:
   1:
     label:
       fr: Nuvaxovid JN.1 disp. inj. i.m. flac.
-      nl: Nuvaxovid JN.1 disp. inj. i.m. flac.
+      nl: Nuvaxovid JN.1 inj. disp. i.m. flac.
       de: Nuvaxovid JN.1 disp. inj. i.m. flac.
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1261/1/ePIL/fr
@@ -1855,7 +1855,7 @@ VAC1262:
   1:
     label:
       fr: Mresvia disp. inj. i.m. ser. préremplie
-      nl: Mresvia disp. inj. i.m. ser. préremplie
+      nl: Mresvia inj. disp. i.m. voorgev. spuit
       de: Mresvia disp. inj. i.m. ser. préremplie
     ePIL:
       fr: https://epil.euvabeco.eu/EUE/VAC1262/1/ePIL/fr
