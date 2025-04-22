@@ -1080,7 +1080,7 @@ VAC0556:
   1:
     label:
       fr: Menitorix sol. inj. (pdr. + solv.) i.m. ser. préremplie flac.
-      nl: 
+    ePIL:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc6a771e5c015ab3e566b7
     SmPC:
       fr: https://app.fagg-afmps.be/pharma-status/api/files/62bc6a781e5c015ab3e5696b
