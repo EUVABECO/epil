@@ -27,7 +27,7 @@ VAC0004:
     label:
       fr: D.T. POLIO MERIEUX
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/4-d-t--polio-merieux
+      fr: https://www.mesvaccins.net/web/vaccines/4-d-t-polio-merieux
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0005:
@@ -67,7 +67,7 @@ VAC0009:
     label:
       fr: HBVAXPRO 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/9-hbvaxpro-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/9-hbvaxpro-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0010:
@@ -75,7 +75,7 @@ VAC0010:
     label:
       fr: HBVAXPRO 40 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/10-hbvaxpro-40--g
+      fr: https://www.mesvaccins.net/web/vaccines/10-hbvaxpro-40-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0011:
@@ -83,7 +83,7 @@ VAC0011:
     label:
       fr: HBVAXPRO 5 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/11-hbvaxpro-5--g
+      fr: https://www.mesvaccins.net/web/vaccines/11-hbvaxpro-5-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0012:
@@ -155,7 +155,7 @@ VAC0020:
     label:
       fr: MENJUGATEKIT 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/20-menjugatekit-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/20-menjugatekit-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0021:
@@ -211,7 +211,7 @@ VAC0027:
     label:
       fr: R.O.R. VAX
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/27-r-o-r--vax
+      fr: https://www.mesvaccins.net/web/vaccines/27-r-o-r-vax
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0028:
@@ -355,7 +355,7 @@ VAC0045:
     label:
       fr: ENGERIX B 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/45-engerix-b-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/45-engerix-b-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0046:
@@ -363,7 +363,7 @@ VAC0046:
     label:
       fr: ENGERIX B 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/46-engerix-b-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/46-engerix-b-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0047:
@@ -443,7 +443,7 @@ VAC0057:
     label:
       fr: TWINRIX 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/57-twinrix-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/57-twinrix-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0058:
@@ -451,7 +451,7 @@ VAC0058:
     label:
       fr: TWINRIX 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/58-twinrix-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/58-twinrix-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0059:
@@ -547,7 +547,7 @@ VAC0071:
     label:
       fr: D.T. BIS - RUDIVAX
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/71-d-t--bis---rudivax
+      fr: https://www.mesvaccins.net/web/vaccines/71-d-t-bis-rudivax
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0072:
@@ -571,7 +571,7 @@ VAC0074:
     label:
       fr: D.T. COQ MERIEUX
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/74-d-t--coq-merieux
+      fr: https://www.mesvaccins.net/web/vaccines/74-d-t-coq-merieux
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0076:
@@ -659,7 +659,7 @@ VAC0090:
     label:
       fr: VACCIN BRUCELLIQUE P.I. à usage humain
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/90-vaccin-brucellique-p-i----usage-humain
+      fr: https://www.mesvaccins.net/web/vaccines/90-vaccin-brucellique-p-i-usage-humain
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0091:
@@ -707,7 +707,7 @@ VAC0096:
     label:
       fr: VACCIN GRIPPAL RONCHESE (VGR)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/96-vaccin-grippal-ronchese--vgr-
+      fr: https://www.mesvaccins.net/web/vaccines/96-vaccin-grippal-ronchese-vgr-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0097:
@@ -787,7 +787,7 @@ VAC0109:
     label:
       fr: FOCETRIA (unidose)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/109-focetria--unidose-
+      fr: https://www.mesvaccins.net/web/vaccines/109-focetria-unidose-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0115:
@@ -835,7 +835,7 @@ VAC0124:
     label:
       fr: FOCETRIA (multidose)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/124-focetria--multidose-
+      fr: https://www.mesvaccins.net/web/vaccines/124-focetria-multidose-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0125:
@@ -859,7 +859,7 @@ VAC0127:
     label:
       fr: HB VAX DNA 5 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/127-hb-vax-dna-5--g
+      fr: https://www.mesvaccins.net/web/vaccines/127-hb-vax-dna-5-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0128:
@@ -867,7 +867,7 @@ VAC0128:
     label:
       fr: HB VAX DNA 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/128-hb-vax-dna-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/128-hb-vax-dna-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0129:
@@ -875,7 +875,7 @@ VAC0129:
     label:
       fr: HB VAX DNA 40 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/129-hb-vax-dna-40--g
+      fr: https://www.mesvaccins.net/web/vaccines/129-hb-vax-dna-40-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0139:
@@ -915,7 +915,7 @@ VAC0164:
     label:
       fr: INTANZA 9 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/164-intanza-9--g
+      fr: https://www.mesvaccins.net/web/vaccines/164-intanza-9-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0165:
@@ -963,7 +963,7 @@ VAC0171:
     label:
       fr: PREPANDEMIC INFLUENZA VACCINE (H5N1) NOVARTIS
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/171-prepandemic-influenza-vaccine--h5n1--novartis
+      fr: https://www.mesvaccins.net/web/vaccines/171-prepandemic-influenza-vaccine-h5n1-novartis
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0172:
@@ -995,7 +995,7 @@ VAC0175:
     label:
       fr: A.D.T. BOOSTER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/175-a-d-t--booster
+      fr: https://www.mesvaccins.net/web/vaccines/175-a-d-t-booster
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0176:
@@ -1027,7 +1027,7 @@ VAC0179:
     label:
       fr: ACELLULAR D.P.T. KOVAX
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/179-acellular-d-p-t--kovax
+      fr: https://www.mesvaccins.net/web/vaccines/179-acellular-d-p-t-kovax
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0180:
@@ -1131,7 +1131,7 @@ VAC0193:
     label:
       fr: AVAC-1, AVA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/193-avac-1--ava
+      fr: https://www.mesvaccins.net/web/vaccines/193-avac-1-ava
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0194:
@@ -1379,7 +1379,7 @@ VAC0226:
     label:
       fr: Diptheria, Tetanus and Acellular Pertussis Combined Walvax vaccine
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/226-diptheria--tetanus-and-acellular-pertussis-combined-walvax-vaccine
+      fr: https://www.mesvaccins.net/web/vaccines/226-diptheria-tetanus-and-acellular-pertussis-combined-walvax-vaccine
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0227:
@@ -1483,7 +1483,7 @@ VAC0241:
     label:
       fr: HAEMOPHILUS INFLUENZAE B CONJUGATE VACCINE - SERUM INSTITUTE OF INDIA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/241-haemophilus-influenzae-b-conjugate-vaccine---serum-institute-of-india
+      fr: https://www.mesvaccins.net/web/vaccines/241-haemophilus-influenzae-b-conjugate-vaccine-serum-institute-of-india
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0242:
@@ -1771,7 +1771,7 @@ VAC0281:
     label:
       fr: LM - 3 RIT
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/281-lm---3-rit
+      fr: https://www.mesvaccins.net/web/vaccines/281-lm-3-rit
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0282:
@@ -2283,7 +2283,7 @@ VAC0357:
     label:
       fr: RESPIGAM, RSV-IVIG
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/357-respigam--rsv-ivig
+      fr: https://www.mesvaccins.net/web/vaccines/357-respigam-rsv-ivig
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0359:
@@ -2307,7 +2307,7 @@ VAC0361:
     label:
       fr: RIT - LM-2
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/361-rit---lm-2
+      fr: https://www.mesvaccins.net/web/vaccines/361-rit-lm-2
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0362:
@@ -2315,7 +2315,7 @@ VAC0362:
     label:
       fr: RIT - LM-3
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/362-rit---lm-3
+      fr: https://www.mesvaccins.net/web/vaccines/362-rit-lm-3
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0363:
@@ -2443,7 +2443,7 @@ VAC0378:
     label:
       fr: SYNAGIS (PALIZIVUMAB)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/378-synagis--palizivumab-
+      fr: https://www.mesvaccins.net/web/vaccines/378-synagis-palizivumab-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0379:
@@ -2939,7 +2939,7 @@ VAC0448:
     label:
       fr: VICPS (TYPHIM VI)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/448-vicps--typhim-vi-
+      fr: https://www.mesvaccins.net/web/vaccines/448-vicps-typhim-vi-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0449:
@@ -2955,7 +2955,7 @@ VAC0450:
     label:
       fr: VIROVAC MASSLING, PEROTID, RUBELLA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/450-virovac-massling--perotid--rubella
+      fr: https://www.mesvaccins.net/web/vaccines/450-virovac-massling-perotid-rubella
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0451:
@@ -2971,7 +2971,7 @@ VAC0452:
     label:
       fr: VT (VACINA TRIPLICE)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/452-vt--vacina-triplice-
+      fr: https://www.mesvaccins.net/web/vaccines/452-vt-vacina-triplice-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0453:
@@ -2979,7 +2979,7 @@ VAC0453:
     label:
       fr: VTV (VACINA TRIPLICE VIRAL)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/453-vtv--vacina-triplice-viral-
+      fr: https://www.mesvaccins.net/web/vaccines/453-vtv-vacina-triplice-viral-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0454:
@@ -3115,7 +3115,7 @@ VAC0471:
     label:
       fr: HEPAVAX-GENE B 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/471-hepavax-gene-b-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/471-hepavax-gene-b-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0472:
@@ -3227,7 +3227,7 @@ VAC0485:
     label:
       fr: TETAGAM P (immunoglobuline)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/485-tetagam-p--immunoglobuline-
+      fr: https://www.mesvaccins.net/web/vaccines/485-tetagam-p-immunoglobuline-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0486:
@@ -3307,7 +3307,7 @@ VAC0496:
     label:
       fr: GAMMATETANOS (immunoglobuline)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/496-gammatetanos--immunoglobuline-
+      fr: https://www.mesvaccins.net/web/vaccines/496-gammatetanos-immunoglobuline-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0498:
@@ -3323,7 +3323,7 @@ VAC0499:
     label:
       fr: BENIRAB (immunoglobuline)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/499-benirab--immunoglobuline-
+      fr: https://www.mesvaccins.net/web/vaccines/499-benirab-immunoglobuline-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0500:
@@ -3339,7 +3339,7 @@ VAC0501:
     label:
       fr: EQUIRAB (immunoglobuline)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/501-equirab--immunoglobuline-
+      fr: https://www.mesvaccins.net/web/vaccines/501-equirab-immunoglobuline-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0504:
@@ -3371,7 +3371,7 @@ VAC0508:
     label:
       fr: JEEV 3 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/508-jeev-3--g
+      fr: https://www.mesvaccins.net/web/vaccines/508-jeev-3-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0509:
@@ -3443,7 +3443,7 @@ VAC0518:
     label:
       fr: STAMARIL (multidose)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/518-stamaril--multidose-
+      fr: https://www.mesvaccins.net/web/vaccines/518-stamaril-multidose-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0520:
@@ -3547,7 +3547,7 @@ VAC0534:
     label:
       fr: MENJUGATE 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/534-menjugate-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/534-menjugate-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0535:
@@ -3595,7 +3595,7 @@ VAC0542:
     label:
       fr: Vaccin D.T.P. Pasteur
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/542-vaccin-d-t-p--pasteur
+      fr: https://www.mesvaccins.net/web/vaccines/542-vaccin-d-t-p-pasteur
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0543:
@@ -3619,7 +3619,7 @@ VAC0545:
     label:
       fr: EUVAX B 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/545-euvax-b-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/545-euvax-b-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0546:
@@ -3899,7 +3899,7 @@ VAC0615:
     label:
       fr: VACCIN T.P. PASTEUR
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/615-vaccin-t-p--pasteur
+      fr: https://www.mesvaccins.net/web/vaccines/615-vaccin-t-p-pasteur
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0620:
@@ -4147,7 +4147,7 @@ VAC0658:
     label:
       fr: COMIRNATY 30 µg BIONTECH-PFIZER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/658-comirnaty-30--g-biontech-pfizer
+      fr: https://www.mesvaccins.net/web/vaccines/658-comirnaty-30-g-biontech-pfizer
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0659:
@@ -4179,7 +4179,7 @@ VAC0662:
     label:
       fr: OSAKA-DNA-COVID / AG0301-COVID19
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/662-osaka-dna-covid---ag0301-covid19
+      fr: https://www.mesvaccins.net/web/vaccines/662-osaka-dna-covid-ag0301-covid19
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0663:
@@ -4459,7 +4459,7 @@ VAC0697:
     label:
       fr: V590 (COVID-19)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/697-v590--covid-19-
+      fr: https://www.mesvaccins.net/web/vaccines/697-v590-covid-19-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0698:
@@ -4499,7 +4499,7 @@ VAC0703:
     label:
       fr: ADJUVANTED PROTEIN SUBUNIT (RBD)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/703-adjuvanted-protein-subunit--rbd-
+      fr: https://www.mesvaccins.net/web/vaccines/703-adjuvanted-protein-subunit-rbd-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0705:
@@ -4555,7 +4555,7 @@ VAC0714:
     label:
       fr: VACCIN CONTRE LA COVID-19 (INACTIVE, AVEC ADJUVANT) VALNEVA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/714-vaccin-contre-la-covid-19--inactive--avec-adjuvant--valneva
+      fr: https://www.mesvaccins.net/web/vaccines/714-vaccin-contre-la-covid-19-inactive-avec-adjuvant-valneva
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0715:
@@ -4699,7 +4699,7 @@ VAC0732:
     label:
       fr: COVAC-1 - COVAC-2
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/732-covac-1---covac-2
+      fr: https://www.mesvaccins.net/web/vaccines/732-covac-1-covac-2
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0733:
@@ -4811,7 +4811,7 @@ VAC0753:
     label:
       fr: INACTIVATED SARS-COV-2 VACCINE FAKHRAVAC (MIVAC)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/753-inactivated-sars-cov-2-vaccine-fakhravac--mivac-
+      fr: https://www.mesvaccins.net/web/vaccines/753-inactivated-sars-cov-2-vaccine-fakhravac-mivac-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0754:
@@ -4851,7 +4851,7 @@ VAC0758:
     label:
       fr: SPFN COVID 19 VACCINE + AFLQ
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/758-spfn-covid-19-vaccine---aflq
+      fr: https://www.mesvaccins.net/web/vaccines/758-spfn-covid-19-vaccine-aflq
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0759:
@@ -4883,7 +4883,7 @@ VAC0762:
     label:
       fr: COV2 SAM (LNP) VACCINE
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/762-cov2-sam--lnp--vaccine
+      fr: https://www.mesvaccins.net/web/vaccines/762-cov2-sam-lnp-vaccine
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0763:
@@ -5115,7 +5115,7 @@ VAC0833:
     label:
       fr: COMIRNATY 10 µg BIONTECH-PFIZER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/833-comirnaty-10--g-biontech-pfizer
+      fr: https://www.mesvaccins.net/web/vaccines/833-comirnaty-10-g-biontech-pfizer
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0835:
@@ -5235,7 +5235,7 @@ VAC0851:
     label:
       fr: POLIO SABIN MONO TWO (ORAL) GSK
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/851-polio-sabin-mono-two--oral--gsk
+      fr: https://www.mesvaccins.net/web/vaccines/851-polio-sabin-mono-two-oral-gsk
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC0868:
@@ -6099,7 +6099,7 @@ VAC1017:
     label:
       fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (50 µg/50 µg)/mL MULTIDOSE MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1017-spikevax-bivalent-original-omicron-ba-1--50--g-50--g--ml-multidose-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1017-spikevax-bivalent-original-omicron-ba-1-50-g-50-g-ml-multidose-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1018:
@@ -6131,7 +6131,7 @@ VAC1021:
     label:
       fr: COMIRNATY ORIGINAL/OMICRON BA.1 (15/15 µg) BIONTECH-PFIZER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1021-comirnaty-original-omicron-ba-1--15-15--g--biontech-pfizer
+      fr: https://www.mesvaccins.net/web/vaccines/1021-comirnaty-original-omicron-ba-1-15-15-g-biontech-pfizer
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1022:
@@ -6139,7 +6139,7 @@ VAC1022:
     label:
       fr: COMIRNATY 3 µg 6 MOIS-4 ANS BIONTECH-PFIZER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1022-comirnaty-3--g-6-mois-4-ans-biontech-pfizer
+      fr: https://www.mesvaccins.net/web/vaccines/1022-comirnaty-3-g-6-mois-4-ans-biontech-pfizer
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1023:
@@ -6147,7 +6147,7 @@ VAC1023:
     label:
       fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (15/15 µg) BIONTECH-PFIZER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1023-comirnaty-original-omicron-ba-4-5--15-15--g--biontech-pfizer
+      fr: https://www.mesvaccins.net/web/vaccines/1023-comirnaty-original-omicron-ba-4-5-15-15-g-biontech-pfizer
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1024:
@@ -6155,7 +6155,7 @@ VAC1024:
     label:
       fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 (50 µg/50 µg)/mL MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1024-spikevax-bivalent-original-omicron-ba-4-5--50--g-50--g--ml-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1024-spikevax-bivalent-original-omicron-ba-4-5-50-g-50-g-ml-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1025:
@@ -6211,7 +6211,7 @@ VAC1031:
     label:
       fr: SPIKEVAX 50 µg MONODOSE MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1031-spikevax-50--g-monodose-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1031-spikevax-50-g-monodose-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1032:
@@ -6219,7 +6219,7 @@ VAC1032:
     label:
       fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.1 (25 µg/25 µg) MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1032-spikevax-bivalent-original-omicron-ba-1--25--g-25--g--moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1032-spikevax-bivalent-original-omicron-ba-1-25-g-25-g-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1033:
@@ -6227,7 +6227,7 @@ VAC1033:
     label:
       fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (5/5 µg) BIONTECH-PFIZER
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1033-comirnaty-original-omicron-ba-4-5--5-5--g--biontech-pfizer
+      fr: https://www.mesvaccins.net/web/vaccines/1033-comirnaty-original-omicron-ba-4-5-5-5-g-biontech-pfizer
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1034:
@@ -6235,7 +6235,7 @@ VAC1034:
     label:
       fr: HEBERBIOVAC B 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1034-heberbiovac-b-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1034-heberbiovac-b-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1035:
@@ -6243,7 +6243,7 @@ VAC1035:
     label:
       fr: HEBERBIOVAC HB 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1035-heberbiovac-hb-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/1035-heberbiovac-hb-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1036:
@@ -6251,7 +6251,7 @@ VAC1036:
     label:
       fr: SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5 25 µg/25 µg MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1036-spikevax-bivalent-original-omicron-ba-4-5-25--g-25--g-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1036-spikevax-bivalent-original-omicron-ba-4-5-25-g-25-g-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1040:
@@ -6275,7 +6275,7 @@ VAC1046:
     label:
       fr: BEYFORTUS 50 mg (nirsevimab)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1046-beyfortus-50-mg--nirsevimab-
+      fr: https://www.mesvaccins.net/web/vaccines/1046-beyfortus-50-mg-nirsevimab-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1047:
@@ -6307,7 +6307,7 @@ VAC1050:
     label:
       fr: BEYFORTUS 100 mg (nirsevimab)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1050-beyfortus-100-mg--nirsevimab-
+      fr: https://www.mesvaccins.net/web/vaccines/1050-beyfortus-100-mg-nirsevimab-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1051:
@@ -6339,7 +6339,7 @@ VAC1054:
     label:
       fr: COMIRNATY ORIGINAL/OMICRON BA.4-5 (1,5/1,5 µg)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1054-comirnaty-original-omicron-ba-4-5--1-5-1-5--g-
+      fr: https://www.mesvaccins.net/web/vaccines/1054-comirnaty-original-omicron-ba-4-5-1-5-1-5-g-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1055:
@@ -6371,7 +6371,7 @@ VAC1058:
     label:
       fr: SPIKEVAX XBB.1.5 0,1 mg/mL dose 50 µg MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1058-spikevax-xbb-1-5-0-1-mg-ml-dose-50--g-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1058-spikevax-xbb-1-5-0-1-mg-ml-dose-50-g-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1059:
@@ -6379,7 +6379,7 @@ VAC1059:
     label:
       fr: SPIKEVAX XBB.1.5 0,1 mg/mL dose 25 µg MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1059-spikevax-xbb-1-5-0-1-mg-ml-dose-25--g-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1059-spikevax-xbb-1-5-0-1-mg-ml-dose-25-g-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1060:
@@ -6387,7 +6387,7 @@ VAC1060:
     label:
       fr: SPIKEVAX XBB.1.5 50 µg MODERNA
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1060-spikevax-xbb-1-5-50--g-moderna
+      fr: https://www.mesvaccins.net/web/vaccines/1060-spikevax-xbb-1-5-50-g-moderna
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1061:
@@ -6419,7 +6419,7 @@ VAC1076:
     label:
       fr: UROMUNE (MV 140)
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1076-uromune--mv-140-
+      fr: https://www.mesvaccins.net/web/vaccines/1076-uromune-mv-140-
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1077:
@@ -6715,7 +6715,7 @@ VAC1258:
     label:
       fr: COMIRNATY JN.1 30 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1258-comirnaty-jn-1-30--g
+      fr: https://www.mesvaccins.net/web/vaccines/1258-comirnaty-jn-1-30-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1259:
@@ -6723,7 +6723,7 @@ VAC1259:
     label:
       fr: COMIRNATY JN.1 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1259-comirnaty-jn-1-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1259-comirnaty-jn-1-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1260:
@@ -6731,7 +6731,7 @@ VAC1260:
     label:
       fr: COMIRNATY JN.1 3 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1260-comirnaty-jn-1-3--g
+      fr: https://www.mesvaccins.net/web/vaccines/1260-comirnaty-jn-1-3-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1261:
@@ -6779,7 +6779,7 @@ VAC1268:
     label:
       fr: SPIKEVAX JN.1 50 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1268-spikevax-jn-1-50--g
+      fr: https://www.mesvaccins.net/web/vaccines/1268-spikevax-jn-1-50-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1269:
@@ -6787,7 +6787,7 @@ VAC1269:
     label:
       fr: SPIKEVAX JN.1 0,1 mg/mL dose 25 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1269-spikevax-jn-1-0-1-mg-ml-dose-25--g
+      fr: https://www.mesvaccins.net/web/vaccines/1269-spikevax-jn-1-0-1-mg-ml-dose-25-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1270:
@@ -6795,7 +6795,7 @@ VAC1270:
     label:
       fr: SPIKEVAX JN.1 0,1 mg/mL dose 50 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1270-spikevax-jn-1-0-1-mg-ml-dose-50--g
+      fr: https://www.mesvaccins.net/web/vaccines/1270-spikevax-jn-1-0-1-mg-ml-dose-50-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1271:
@@ -7003,7 +7003,7 @@ VAC1299:
     label:
       fr: BEVAC 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1299-bevac-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1299-bevac-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1300:
@@ -7011,7 +7011,7 @@ VAC1300:
     label:
       fr: BEVAC 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1300-bevac-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/1300-bevac-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1301:
@@ -7067,7 +7067,7 @@ VAC1307:
     label:
       fr: JEEV 6 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1307-jeev-6--g
+      fr: https://www.mesvaccins.net/web/vaccines/1307-jeev-6-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1308:
@@ -7083,7 +7083,7 @@ VAC1309:
     label:
       fr: NOVEL ORAL (nOPV) TYPE 2 BIOLOGICAL E. LTD
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1309-novel-oral--nopv--type-2-biological-e--ltd
+      fr: https://www.mesvaccins.net/web/vaccines/1309-novel-oral-nopv-type-2-biological-e-ltd
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1310:
@@ -7147,7 +7147,7 @@ VAC1318:
     label:
       fr: DIPHTHERIA, TETANUS, PERTUSSIS AND HEPATITIS B SII
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1318-diphtheria--tetanus--pertussis-and-hepatitis-b-sii
+      fr: https://www.mesvaccins.net/web/vaccines/1318-diphtheria-tetanus-pertussis-and-hepatitis-b-sii
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1319:
@@ -7155,7 +7155,7 @@ VAC1319:
     label:
       fr: DIPHTHERIA, TETANUS, PERTUSSIS AND HAEMOPHILUS INFLUENZAE B SII
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1319-diphtheria--tetanus--pertussis-and-haemophilus-influenzae-b-sii
+      fr: https://www.mesvaccins.net/web/vaccines/1319-diphtheria-tetanus-pertussis-and-haemophilus-influenzae-b-sii
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1320:
@@ -7164,7 +7164,7 @@ VAC1320:
       fr: DIPHTHERIA, TETANUS, PERTUSSIS, HEPATITIS B AND HAEMOPHILUS INFLUENZAE B
         SII
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1320-diphtheria--tetanus--pertussis--hepatitis-b-and-haemophilus-influenzae-b-sii
+      fr: https://www.mesvaccins.net/web/vaccines/1320-diphtheria-tetanus-pertussis-hepatitis-b-and-haemophilus-influenzae-b-sii
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1321:
@@ -7204,7 +7204,7 @@ VAC1325:
     label:
       fr: GENEVAC-B 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1325-genevac-b-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1325-genevac-b-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1326:
@@ -7212,7 +7212,7 @@ VAC1326:
     label:
       fr: GENEVAC-B 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1326-genevac-b-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/1326-genevac-b-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1327:
@@ -7260,7 +7260,7 @@ VAC1332:
     label:
       fr: COMIRNATY KP.2 3 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1332-comirnaty-kp-2-3--g
+      fr: https://www.mesvaccins.net/web/vaccines/1332-comirnaty-kp-2-3-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1333:
@@ -7268,7 +7268,7 @@ VAC1333:
     label:
       fr: COMIRNATY KP.2 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1333-comirnaty-kp-2-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1333-comirnaty-kp-2-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1334:
@@ -7276,7 +7276,7 @@ VAC1334:
     label:
       fr: COMIRNATY KP.2 30 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1334-comirnaty-kp-2-30--g
+      fr: https://www.mesvaccins.net/web/vaccines/1334-comirnaty-kp-2-30-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1335:
@@ -7324,7 +7324,7 @@ VAC1340:
     label:
       fr: SPIKEVAX BA.1 0,1 mg/mL dose 50 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1340-spikevax-ba-1-0-1-mg-ml-dose-50--g
+      fr: https://www.mesvaccins.net/web/vaccines/1340-spikevax-ba-1-0-1-mg-ml-dose-50-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1342:
@@ -7444,7 +7444,7 @@ VAC1356:
     label:
       fr: EUVAX B 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1356-euvax-b-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1356-euvax-b-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1357:
@@ -7476,7 +7476,7 @@ VAC1360:
     label:
       fr: HEPAMUNE B 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1360-hepamune-b-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1360-hepamune-b-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1361:
@@ -7484,7 +7484,7 @@ VAC1361:
     label:
       fr: HEPAMUNE B 20 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1361-hepamune-b-20--g
+      fr: https://www.mesvaccins.net/web/vaccines/1361-hepamune-b-20-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1362:
@@ -7500,7 +7500,7 @@ VAC1363:
     label:
       fr: HEPAVAX-GENE B 10 µg
     ePIL:
-      fr: https://www.mesvaccins.net/web/vaccines/1363-hepavax-gene-b-10--g
+      fr: https://www.mesvaccins.net/web/vaccines/1363-hepavax-gene-b-10-g
     SmPC:
       xx: https://www.mesvaccins.net/web/vaccines/
 VAC1364:
